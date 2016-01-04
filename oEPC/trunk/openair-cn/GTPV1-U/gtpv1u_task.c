@@ -293,7 +293,7 @@ static int gtpv1u_create_s1u_tunnel(Gtpv1uCreateTunnelReq *create_tunnel_reqP)
     memset(gtpv1u_teid2enb_info, 0, sizeof(gtpv1u_teid2enb_info_t));
     gtpv1u_teid2enb_info->state       = BEARER_IN_CONFIG;
 
-//#warning !!! hack because missing modify session request, so force enb address
+//#warning !!! specific modification -- To be changed because missing modify session request, so force enb address
 //    gtpv1u_teid2enb_info->enb_ip_addr.pdn_type = IPv4;
 //    gtpv1u_teid2enb_info->enb_ip_addr.address.ipv4_address[0] = 192;
 //    gtpv1u_teid2enb_info->enb_ip_addr.address.ipv4_address[1] = 168;

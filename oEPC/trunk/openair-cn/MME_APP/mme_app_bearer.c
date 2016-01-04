@@ -572,7 +572,7 @@ sample_bypass_hss(
 	 *  Ends Here
 	 */
 
-	/* zafars hack */
+	/* nfvepcs specific modification -- To be changed */
 	//context_identifier_t       context_identifier;
         //MessageDef                 *message_p         = NULL;
         //SgwCreateSessionRequest    *session_request_p = NULL;
@@ -757,10 +757,10 @@ mme_app_handle_create_sess_resp(
                 ue_context_p->default_bearer_id);
     }
 
-    //mme_app_dump_ue_contexts(&mme_app_desc.mme_ue_contexts); //--Phanis bad hack again
+    //mme_app_dump_ue_contexts(&mme_app_desc.mme_ue_contexts); //--Nfvepcs bad specific modification -- To be changed again
 
 
-//Phanis bad hack again
+//Nfvepcs bad specific modification -- To be changed again
 /*    {
         //uint8_t *keNB = NULL;
 

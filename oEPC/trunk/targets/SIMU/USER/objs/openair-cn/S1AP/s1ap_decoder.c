@@ -32,7 +32,7 @@
  * This file had been created by asn1tostruct.py script v1.0.2
  * Please do not modify this file but regenerate it via script.
  * Created on: 2015-03-03 10:01:29.829883 by root
- * from ['/home/phanik/oEPC/trunk/openair-cn/S1AP/MESSAGES/ASN1/R10.5/S1AP-PDU-Contents.asn']
+ * from ['/home/nfvepc/oEPC/trunk/openair-cn/S1AP/MESSAGES/ASN1/R10.5/S1AP-PDU-Contents.asn']
  ******************************************************************************/
 #include "s1ap_common.h"
 #include "s1ap_ies_defs.h"

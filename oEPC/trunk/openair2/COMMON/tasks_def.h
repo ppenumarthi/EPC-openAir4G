@@ -77,6 +77,6 @@ SUB_TASK_DEF(TASK_L2L1,     TASK_PDCP_UE,               200)
     TASK_DEF(TASK_NAS_UE,   TASK_PRIORITY_MED,          200)
     TASK_DEF(TASK_RAL_UE,   TASK_PRIORITY_MED,          200)
 
-//TASK added by Phani for generating fake traffic at SGI 
+//TASK added by Nfvepc for generating fake traffic at SGI 
     TASK_DEF(TASK_TRAFFIC_SGI,   TASK_PRIORITY_MED,          200)
 

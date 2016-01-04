@@ -34,7 +34,7 @@ void mexFunction( int mlhs, mxArray *plhs[],
 	LTE_DL_FRAME_PARMS *frame_parms;
 	PHY_VARS_UE *phy_vars_ue;   
 	extern int *pi2tab16[188],*pi5tab16[188],*pi4tab16[188],*pi6tab16[188];
-	unsigned long *ptr_td; //hack for 64bit
+	unsigned long *ptr_td; //specific modification -- To be changed for 64bit
     int *tmp[1];
     
 	/* Allocate input */

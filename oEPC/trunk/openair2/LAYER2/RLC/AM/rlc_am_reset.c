@@ -105,7 +105,7 @@ rlc_am_reset_time_out (struct rlc_am_entity *rlcP, mem_block_t * not_usedP)
       rlc_data_conf (0, rlcP->rb_id, 0,RLC_TX_CONFIRM_FAILURE, rlcP->data_plane);    // mui, rb_ib, status
 #ifdef NODE_MT
 #warning  rrc_ue_CPHY_Out_Synch_rx should be called
-      //rrc_ue_CPHY_Out_Synch_rx (1);     //  Temporary hack to disconnect mobile upon RLC AM timeout
+      //rrc_ue_CPHY_Out_Synch_rx (1);     //  Temporary specific modification -- To be changed to disconnect mobile upon RLC AM timeout
 #endif /* NODE_MT */
     }
   }

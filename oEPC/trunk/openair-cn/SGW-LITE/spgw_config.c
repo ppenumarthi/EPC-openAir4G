@@ -208,7 +208,7 @@ int spgw_config_process(spgw_config_t* config_pP) {
             ret = -1;
         }
 
-#if defined (ENABLE_USE_GTPU_IN_KERNEL) //hacked by Phani, brought from bottom to top.
+#if defined (ENABLE_USE_GTPU_IN_KERNEL) //specific modification -- To be changeded by Nfvepc, brought from bottom to top.
         if (snprintf(system_cmd, 256,
             "insmod $OPENAIR_TARGETS/bin/xt_GTPUAH.ko tunnel_local=1 gtpu_port=%u mtu=%u",
             config_pP->sgw_config.sgw_udp_port_for_S1u_S12_S4_up,
@@ -222,7 +222,7 @@ int spgw_config_process(spgw_config_t* config_pP) {
 
     } else {
 
-#if defined (ENABLE_USE_GTPU_IN_KERNEL) //hacked by Phani, brought from bottom to top.
+#if defined (ENABLE_USE_GTPU_IN_KERNEL) //specific modification -- To be changeded by Nfvepc, brought from bottom to top.
         if (snprintf(system_cmd, 256,
             "insmod $OPENAIR_TARGETS/bin/xt_GTPUAH.ko tunnel_local=0 gtpu_port=%u mtu=%u",
             config_pP->sgw_config.sgw_udp_port_for_S1u_S12_S4_up,
@@ -236,7 +236,7 @@ int spgw_config_process(spgw_config_t* config_pP) {
 
     }
 
-#if defined (ENABLE_USE_GTPU_IN_KERNEL) //hacked by Phani, brought from bottom to top.
+#if defined (ENABLE_USE_GTPU_IN_KERNEL) //specific modification -- To be changeded by Nfvepc, brought from bottom to top.
     spgw_system("insmod $OPENAIR_TARGETS/bin/xt_GTPURH.ko", SPGW_ABORT_ON_ERROR, __FILE__, __LINE__);
 #endif
 
@@ -561,14 +561,14 @@ int spgw_config_init(char* lib_config_file_name_pP, spgw_config_t* config_pP) {
                           memcpy (&addr_start, buf_in_addr, sizeof(struct in_addr));
                           // valid address
                           atoken2 = strtok(NULL, PGW_CONFIG_STRING_IPV4_PREFIX_DELIMITER);
-                          //atoken2 = strtok(astring, PGW_CONFIG_STRING_IPV4_PREFIX_DELIMITER); --Addition by Phani went in vain
+                          //atoken2 = strtok(astring, PGW_CONFIG_STRING_IPV4_PREFIX_DELIMITER); --Addition by Nfvepc went in vain
 #if defined (ENABLE_USE_GTPU_IN_KERNEL)
                           in_addr_var.s_addr = config_pP->sgw_config.ipv4.sgw_ipv4_address_for_S1u_S12_S4_up;
 
-                          //if (snprintf(system_cmd, 128, "ip route add %s/%s via %s dev %s", //--hack by Phani
-                          if (snprintf(system_cmd, 128, "ip route add %s via %s dev %s", //-- hack by Phani
+                          //if (snprintf(system_cmd, 128, "ip route add %s/%s via %s dev %s", //--specific modification -- To be changed by Nfvepc
+                          if (snprintf(system_cmd, 128, "ip route add %s via %s dev %s", //-- specific modification -- To be changed by Nfvepc
                                        astring,
-                                       //atoken2, //-- hack by Phani
+                                       //atoken2, //-- specific modification -- To be changed by Nfvepc
                                        inet_ntoa(in_addr_var),
                                        config_pP->sgw_config.ipv4.sgw_interface_name_for_S1u_S12_S4_up) > 0) {
                               spgw_system(system_cmd, SPGW_ABORT_ON_ERROR, __FILE__, __LINE__);
@@ -601,7 +601,7 @@ int spgw_config_init(char* lib_config_file_name_pP, spgw_config_t* config_pP) {
 
                               addr_mask.s_addr = addr_mask.s_addr & htonl(0xFFFFFFFF << (32 - prefix_mask));
 
-//                              if (memcmp(&addr_start, &addr_mask, sizeof(struct in_addr)) != 0) { -- Fixed by Phani
+//                              if (memcmp(&addr_start, &addr_mask, sizeof(struct in_addr)) != 0) { -- Fixed by Nfvepc
                               if (memcmp(&addr_start, &addr_mask, sizeof(struct in_addr)) == 0) {
                                   AssertFatal(0, "BAD IPV4 ADDR CONFIG/MASK PAIRING %s/%d addr %X mask %X\n",
                                               astring, prefix_mask, addr_start.s_addr, addr_mask.s_addr);

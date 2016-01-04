@@ -719,7 +719,7 @@ void check_and_adjust_params(void) {
 
       while (emu_tx_status != SYNCED_TRANSPORT) {
           LOG_I (EMU, " Waiting for EMU Transport to be synced\n");
-          emu_transport_sync ();   // -- why not next one??? --Phani
+          emu_transport_sync ();   // -- why not next one??? --Nfvepc
 	  //emulation_tx_rx(); -- because compilation fails
       }
   } // ethernet flag

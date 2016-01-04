@@ -70,7 +70,7 @@ pgm_multicast_group_t pgm_multicast_group[MULTICAST_LINK_NUM_GROUPS];
 static
 int pgm_create_socket(int index, const char *if_addr);
 
-unsigned int pgm_would_block = 1; //-- hacked by Phani
+unsigned int pgm_would_block = 1; //-- specific modification -- To be changeded by Nfvepc
 //unsigned int pgm_would_block = 0;
 
 #if defined(ENABLE_PGM_DEBUG)

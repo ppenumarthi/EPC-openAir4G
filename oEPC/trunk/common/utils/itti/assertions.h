@@ -38,7 +38,7 @@
 
 #ifndef ASSERTIONS_H_
 #define ASSERTIONS_H_
-/* Removed display_backtrace function from second line of function definition by Phani 
+/* Removed display_backtrace function from second line of function definition by Nfvepc 
     display_backtrace();                        \
 */
 #define _Assert_Exit_                           \

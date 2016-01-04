@@ -57,7 +57,7 @@
 #   include "gtpv1u_eNB_task.h"
 # endif
 
-/*Added by Phani for generqating sgi traffic 
+/*Added by Nfvepc for generqating sgi traffic 
 //#include <tasks_def.h> */
 //#include "../COMMON/gtpv1_u_messages_def.h"  
 
@@ -495,7 +495,7 @@ static uint32_t eNB_app_register(uint32_t enb_id_start, uint32_t enb_id_end, con
 # endif
 #endif
 
-/* Additions by Phani starts */
+/* Additions by Nfvepc starts */
 void *generate_sgi_traffic(void *args_p)
 {
     LOG_I(ENB_APP, "Entered into the generate_sgi_traffic function\n");
@@ -556,7 +556,7 @@ void *generate_sgi_traffic(void *args_p)
     //itti_exit_task ();
     return NULL;
 }
-/* Additions by Phani ends */
+/* Additions by Nfvepc ends */
 
 /*------------------------------------------------------------------------------*/
 void *eNB_app_task(void *args_p)

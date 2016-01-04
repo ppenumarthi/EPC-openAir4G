@@ -59,8 +59,8 @@
 #include "HandoverCommand.h"
 #include "rlc.h"
 #include "SIMULATION/ETH_TRANSPORT/extern.h"
-//#include "tasks_def.h"  // Added by Phani 
-//#include "messages_xml.h"  // Added by Phani 
+//#include "tasks_def.h"  // Added by Nfvepc 
+//#include "messages_xml.h"  // Added by Nfvepc 
 //#include "../../../common/utils/itti/intertask_interface_init.h"
 
 //#ifdef Rel10
@@ -422,15 +422,15 @@ static void init_MBMS(
         LOG_D(RRC, "[eNB %d] Frame %d : Radio Bearer config request for MBMS\n", enb_mod_idP, frameP);   //check the lcid
         // Configuring PDCP and RLC for MBMS Radio Bearer
 
-// Fix by Phani
+// Fix by Nfvepc
 protocol_ctxt_t ctxt;
 ctxt.enb_module_id = enb_mod_idP;
 ctxt.ue_module_id = 0;
 ctxt.frame = frameP;
 ctxt.enb_flag =1; 
-// Fix by Phani ends
+// Fix by Nfvepc ends
 
-        //rrc_pdcp_config_asn1_req(enb_mod_idP, 0, frameP, 1, NULL,    // SRB_ToAddModList -- Fixed by Phani
+        //rrc_pdcp_config_asn1_req(enb_mod_idP, 0, frameP, 1, NULL,    // SRB_ToAddModList -- Fixed by Nfvepc
         rrc_pdcp_config_asn1_req(&ctxt, NULL,    // SRB_ToAddModList
                                  NULL,  // DRB_ToAddModList
                                  (DRB_ToReleaseList_t *) NULL, 0,   // security mode
@@ -442,8 +442,8 @@ ctxt.enb_flag =1;
 #   endif
             );
 
-ctxt.enb_flag = ENB_FLAG_YES; //--Fixed by Phani
-        //rrc_rlc_config_asn1_req(enb_mod_idP, 0, frameP, ENB_FLAG_YES, NULL, // SRB_ToAddModList -- Fixed by Phani
+ctxt.enb_flag = ENB_FLAG_YES; //--Fixed by Nfvepc
+        //rrc_rlc_config_asn1_req(enb_mod_idP, 0, frameP, ENB_FLAG_YES, NULL, // SRB_ToAddModList -- Fixed by Nfvepc
         rrc_rlc_config_asn1_req(&ctxt, NULL, // SRB_ToAddModList
                                 NULL,   // DRB_ToAddModList
                                 NULL,   // DRB_ToReleaseList
@@ -3368,12 +3368,12 @@ void                               *rrc_enb_task(
 
     itti_mark_task_ready(TASK_RRC_ENB);
 
-    //MessageDef                         *msg_to_send; //added by Phani for generating traffic
+    //MessageDef                         *msg_to_send; //added by Nfvepc for generating traffic
     while (1) {
 
 
 /*	{
-	//added by Phani to generate traffic at BS itself
+	//added by Nfvepc to generate traffic at BS itself
 		LOG_I(RRC, "Trying to generate Traffic\n"); 
         /* Initialize the message required to be sent */
 /*	//MessagesIds msgIds;
@@ -3409,7 +3409,7 @@ void                               *rrc_enb_task(
 	//RRC_UL_DCCH(msg_to_send).IttiMsgText = mesg_text;
 /*		itti_send_msg_to_task(TASK_FW_IP,INSTANCE_DEFAULT,msg_to_send);
 		msg_to_send = NULL;*/
-//		LOG_I(RRC, "[eNB %d] is waiting for a message\n", instance); //added by Phani to generate traffic at BS itself-- ends herea
+//		LOG_I(RRC, "[eNB %d] is waiting for a message\n", instance); //added by Nfvepc to generate traffic at BS itself-- ends herea
 //	}
 
         // Wait for a message

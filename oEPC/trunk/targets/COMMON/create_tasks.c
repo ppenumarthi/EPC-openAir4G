@@ -141,13 +141,13 @@ int create_tasks(uint32_t enb_nb, uint32_t ue_nb)
         }
     }
 
-   //Phani's additions starts -- Commented as we now do not need another thread to generate traffic. Integrated in to the ENB_APP thread.
+   //Nfvepc's additions starts -- Commented as we now do not need another thread to generate traffic. Integrated in to the ENB_APP thread.
 /*    if (itti_create_task (TASK_TRAFFIC_SGI, generate_sgi_traffic, NULL) < 0)
     {
         LOG_E(EMU, "Create task for TRAFFIC SGI failed\n");
         return -1;
     } */
-    //Phani's additions ends  */
+    //Nfvepc's additions ends  */
     itti_wait_ready(0);
 
     return 0;

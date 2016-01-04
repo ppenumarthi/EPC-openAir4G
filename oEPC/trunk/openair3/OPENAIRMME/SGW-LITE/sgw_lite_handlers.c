@@ -87,14 +87,14 @@ int sgw_lite_handle_create_session_request(
         return -1;
     }
 
-/* Modifications by Phani     return send_msg_to_task(TASK_GTPV1_U, message_p); */
+/* Modifications by Nfvepc     return send_msg_to_task(TASK_GTPV1_U, message_p); */
 
    send_msg_to_task(TASK_GTPV1_U, message_p);
 //   message_p = alloc_new_message(TASK_SGW_LITE, TASK_GTPV1_U,UDP_DATA_REQ);
    message_p = alloc_new_message(TASK_SGW_LITE, TASK_GTPV1_U,GTPV1U_DATA_REQ);
     SGW_WARNING("Creating a new UDPDATAREQUEST and seding to GTPV1U interface\n");
    return   send_msg_to_task(TASK_GTPV1_U, message_p);
-/* Modifications by Phani End */
+/* Modifications by Nfvepc End */
 }
 
 int sgw_lite_handle_s1u_endpoint_created(SgwS1UEndpointCreated *endpoint_created_p) {

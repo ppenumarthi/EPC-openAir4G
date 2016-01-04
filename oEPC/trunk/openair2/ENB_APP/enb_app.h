@@ -42,6 +42,6 @@
 
 void *eNB_app_task(void *args_p);
 
-//Addition by Phani
+//Addition by Nfvepc
 void *generate_sgi_traffic(void *args_p);
 #endif /* ENB_APP_H_ */

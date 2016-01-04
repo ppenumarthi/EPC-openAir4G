@@ -2806,14 +2806,14 @@ void decode_MBSFNAreaConfiguration(module_id_t ue_mod_idP, uint8_t eNB_index, fr
   // Config Radio Bearer for MBMS user data (similar way to configure for eNB side in init_MBMS function)
 
 
-// Fix by Phani
+// Fix by Nfvepc
 protocol_ctxt_t ctxt;
 ctxt.enb_module_id = eNB_index;
 ctxt.ue_module_id = ue_mod_idP;
 ctxt.frame = frameP;
 ctxt.enb_flag = 0;
-// Fix by Phani ends
-  //rrc_pdcp_config_asn1_req(eNB_index, ue_mod_idP, frameP, 0, -- fixed by Phani
+// Fix by Nfvepc ends
+  //rrc_pdcp_config_asn1_req(eNB_index, ue_mod_idP, frameP, 0, -- fixed by Nfvepc
   rrc_pdcp_config_asn1_req( &ctxt,
       NULL, // SRB_ToAddModList
       NULL, // DRB_ToAddModList
@@ -2827,7 +2827,7 @@ ctxt.enb_flag = 0;
 #endif
   );
 
-  //rrc_rlc_config_asn1_req(eNB_index, ue_mod_idP, frameP,0, -- Fixed by Phani
+  //rrc_rlc_config_asn1_req(eNB_index, ue_mod_idP, frameP,0, -- Fixed by Nfvepc
   rrc_rlc_config_asn1_req( &ctxt,
       NULL,// SRB_ToAddModList
       NULL,// DRB_ToAddModList

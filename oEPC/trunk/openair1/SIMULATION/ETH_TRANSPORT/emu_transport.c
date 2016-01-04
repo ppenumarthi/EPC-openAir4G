@@ -69,12 +69,12 @@ void emu_transport_sync(void)
         // just wait to recieve the  master 0 msg
         Master_list_rx = oai_emulation.info.master_list - 1;
         bypass_rx_data(0,0,0,1);
-        //bypass_rx_data(0,0,0,1); --doubt by Phani for below case: is_master is not correctly set in this function
+        //bypass_rx_data(0,0,0,1); --doubt by Nfvepc for below case: is_master is not correctly set in this function
     } else {
         bypass_rx_data(0,0,0,0);
-        bypass_tx_data(WAIT_PM_TRANSPORT,0,0);/*-- Supposed to be Fixed by Phani */
+        bypass_tx_data(WAIT_PM_TRANSPORT,0,0);/*-- Supposed to be Fixed by Nfvepc */
 /*        bypass_tx_data(WAIT_PM_TRANSPORT,0,0); 
-        bypass_rx_data(0,0,0,0); //-- unnecessarily hacked by Phani, should see if it works
+        bypass_rx_data(0,0,0,0); //-- unnecessarily specific modification -- To be changeded by Nfvepc, should see if it works
 //        bypass_rx_data(0,0,0,1); */
     }
 

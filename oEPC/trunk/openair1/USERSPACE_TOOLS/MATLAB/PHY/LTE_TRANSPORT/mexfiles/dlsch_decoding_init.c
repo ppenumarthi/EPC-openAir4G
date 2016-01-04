@@ -20,7 +20,7 @@ void mexFunction( int mlhs, mxArray *plhs[],
 {
     extern int *pi2tab16[188],*pi5tab16[188],*pi4tab16[188],*pi6tab16[188];
     int i;        
-    unsigned long *ptr; //hack for 64bit
+    unsigned long *ptr; //specific modification -- To be changed for 64bit
     int **tmp[1];
     
     // Init CRC tables
