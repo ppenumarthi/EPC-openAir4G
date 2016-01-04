@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/1205/trunk/openair2/RRM_4_RRC_LITE/src/test
+END
+TestScenario.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1201/trunk/openair2/RRM_4_RRC_LITE/src/test/TestScenario.cpp
+END
+TestScenario.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/1201/trunk/openair2/RRM_4_RRC_LITE/src/test/TestScenario.h
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1201/trunk/openair2/RRM_4_RRC_LITE/src/test/test.cpp
+END

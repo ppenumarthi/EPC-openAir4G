@@ -1,0 +1,1 @@
+V	160107203028Z		01	unknown	/C=FR/ST=PACA/O=Eurecom/OU=CM/CN=hss.eur

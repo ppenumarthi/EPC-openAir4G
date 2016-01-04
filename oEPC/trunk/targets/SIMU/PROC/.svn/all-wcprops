@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/PROC
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5718/trunk/targets/SIMU/PROC/COPYING
+END
+channel_sim_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/PROC/channel_sim_proc.h
+END
+Process.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/PROC/Process.c
+END
+Process.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/PROC/Process.h
+END
+channel_sim_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/PROC/channel_sim_proc.c
+END
+Tsync.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/PROC/Tsync.h
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/PROC/interface.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/META-INF
+END
+jdoconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/META-INF/jdoconfig.xml
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/META-INF/persistence.xml
+END

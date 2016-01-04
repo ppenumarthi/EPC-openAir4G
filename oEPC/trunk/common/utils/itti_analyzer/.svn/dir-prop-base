@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 100
+Makefile.in
+config.h.in
+aclocal.m4
+config.sub
+configure
+depcomp
+install-sh
+ltmain.sh
+missing
+ylwrap
+
+END

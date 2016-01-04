@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/6198/trunk/openair1/USERSPACE_TOOLS/SCOPE
+END
+lte_scope_ul.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/lte_scope_ul.c
+END
+lte_scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/lte_scope.c
+END
+sach.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/sach.c
+END
+sach_scope.fd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/SCOPE/sach_scope.fd
+END
+chbch_2streams_ml.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch_2streams_ml.c
+END
+chbch_2streams_scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch_2streams_scope.c
+END
+lte_scope.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/lte_scope.h
+END
+lte_scope_ul.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/lte_scope_ul.h
+END
+lte_scope.fd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/SCOPE/lte_scope.fd
+END
+lte.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/lte.c
+END
+lte_scope_ul.fd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/1399/trunk/openair1/USERSPACE_TOOLS/SCOPE/lte_scope_ul.fd
+END
+lte_ul.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/lte_ul.c
+END
+chbch_2streams_scope.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch_2streams_scope.h
+END
+chbch_2streams_scope.fd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch_2streams_scope.fd
+END
+chbch_2streams.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch_2streams.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5711/trunk/openair1/USERSPACE_TOOLS/SCOPE/COPYING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/6198/trunk/openair1/USERSPACE_TOOLS/SCOPE/Makefile
+END
+chbch_scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch_scope.c
+END
+chbch_scope.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch_scope.h
+END
+chbch_scope.fd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch_scope.fd
+END
+chbch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/chbch.c
+END
+sach_scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/sach_scope.c
+END
+sach_scope.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/SCOPE/sach_scope.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/WEB-INF/web.xml
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/WEB-INF/appengine-web.xml
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/WEB-INF/logging.properties
+END
+spring-dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/WEB-INF/spring-dispatcher-servlet.xml
+END
+backends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/WEB-INF/backends.xml
+END

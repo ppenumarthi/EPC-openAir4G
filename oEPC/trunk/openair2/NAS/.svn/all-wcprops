@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/openair4G/!svn/ver/6209/trunk/openair2/NAS
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/4653/trunk/openair2/NAS/Makefile.inc
+END
+nas_ue_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5714/trunk/openair2/NAS/nas_ue_task.h
+END

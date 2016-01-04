@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/6286/trunk/openair1/SIMULATION/LTE_PHY
+END
+phy_procedures_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/phy_procedures_sim.c
+END
+launch_sim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1744/trunk/openair1/SIMULATION/LTE_PHY/launch_sim.sh
+END
+LTE_Configuration.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/LTE_Configuration.c
+END
+ulsim2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/ulsim2.c
+END
+LTE_Configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/LTE_Configuration.h
+END
+signalanalyzer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/signalanalyzer.c
+END
+pdcch_eval_results.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/4600/trunk/openair1/SIMULATION/LTE_PHY/pdcch_eval_results.m
+END
+syncsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/syncsim.c
+END
+pbch_awgn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/LTE_PHY/pbch_awgn.txt
+END
+signalanalyzer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/signalanalyzer.h
+END
+pbsPhyProcSim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/LTE_PHY/pbsPhyProcSim.sh
+END
+pdcchsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6196/trunk/openair1/SIMULATION/LTE_PHY/pdcchsim.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/6268/trunk/openair1/SIMULATION/LTE_PHY/Makefile
+END
+fancyheadings.sty
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1505/trunk/openair1/SIMULATION/LTE_PHY/fancyheadings.sty
+END
+pucchsignalgegerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/pucchsignalgegerator.h
+END
+prachsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6096/trunk/openair1/SIMULATION/LTE_PHY/prachsim.c
+END
+pbch_awgn_interp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/LTE_PHY/pbch_awgn_interp.txt
+END
+pucchsignalgenerator.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/pucchsignalgenerator.c
+END
+mbmssim.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6240/trunk/openair1/SIMULATION/LTE_PHY/mbmssim.c
+END
+dlsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6286/trunk/openair1/SIMULATION/LTE_PHY/dlsim.c
+END
+pucchsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6096/trunk/openair1/SIMULATION/LTE_PHY/pucchsim.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/test.c
+END
+framegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/framegen.c
+END
+pbchsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6182/trunk/openair1/SIMULATION/LTE_PHY/pbchsim.c
+END
+blerSimus.zip
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1744/trunk/openair1/SIMULATION/LTE_PHY/blerSimus.zip
+END
+ulsignalgenerator.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/ulsignalgenerator.c
+END
+blerCurvesTemplate.tex
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1505/trunk/openair1/SIMULATION/LTE_PHY/blerCurvesTemplate.tex
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/LTE_PHY/COPYING
+END
+ulsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6286/trunk/openair1/SIMULATION/LTE_PHY/ulsim.c
+END
+ulsignalgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/ulsignalgenerator.h
+END
+gpib_send.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/gpib_send.c
+END
+mat2wv.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/2100/trunk/openair1/SIMULATION/LTE_PHY/mat2wv.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/LTE_PHY/README.txt
+END
+phy_procedures_sim_secsys.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/phy_procedures_sim_secsys.c
+END
+gpib_send.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY/gpib_send.h
+END

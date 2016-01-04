@@ -1,0 +1,354 @@
+Binary file api/network/nas_message.o matches
+api/network/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+api/network/COPYING:address new problems or concerns.
+api/network/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+api/network/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+api/usim/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+api/usim/COPYING:address new problems or concerns.
+api/usim/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+api/usim/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+api/user/at_command.h:    AT_CGPADDR,	/* Show PDP address(es)					*/
+api/user/at_command.h: *	<PDP_addr>	Mobile Equipment PDP address (not applicable to EPS)
+api/user/at_command.h: *	<IPv4AddrAlloc>	IPv4 address allocation parameter
+api/user/at_command.h: *	<P-CSCF_discovery>	P-CSCF address discovery parameter
+api/user/at_command.h:#define AT_CGDCONT_PCSCF_OFF	0 /* Preference of P-CSCF address discovery
+api/user/at_command.h:#define AT_CGDCONT_PCSCF_NAS	1 /* Preference of P-CSCF address discovery
+api/user/at_command.h:#define AT_CGDCONT_PCSCF_DHCP	2 /* Preference of P-CSCF address discovery
+api/user/at_command.h:				     * parameter (IPv6 address notation)      */
+api/user/at_command.h:/* CGPADDR: Show PDP address(es)
+api/user/at_command.h: * Returns a list of PDP addresses for the specified context identifiers.
+api/user/at_response.h: *	<typex>		type of address octet in integer format
+api/user/at_response.h: *	<PDP_addr>	Mobile Equipment PDP address (not applicable to EPS)
+api/user/at_response.h: *	<IPv4AddrAlloc>	IPv4 address allocation parameter
+api/user/at_response.h: *	<P-CSCF_discovery>	P-CSCF address discovery parameter
+api/user/at_response.h:/* CGPADDR: Show PDP address(es)
+api/user/at_response.h: * Returns a list of PDP addresses for the specified context identifiers.
+api/user/at_response.h: *	<PDP_addr_x>	string that identifies the MT in the address space
+api/user/at_response.h:    int n_pdns;		/* Number of defined PDP addresses in the lists	*/
+api/user/at_response.h:			/* List of IPv4 addresses			*/
+api/user/at_response.h:			/* List of IPv6 addresses			*/
+api/user/at_command.c:    /* Show PDP address(es)					*/
+api/user/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+api/user/COPYING:address new problems or concerns.
+api/user/at_response.c:	/* Display the list of IP addresses assigned to each defined PDN
+api/user/at_response.c:		/* IPv4 address */
+api/user/at_response.c:		/* IPv6 Link-local address prefixe */
+api/user/at_response.c:		/* IPv6 Link-local address */
+api/user/.svn/text-base/at_response.h.svn-base: *	<typex>		type of address octet in integer format
+api/user/.svn/text-base/at_response.h.svn-base: *	<PDP_addr>	Mobile Equipment PDP address (not applicable to EPS)
+api/user/.svn/text-base/at_response.h.svn-base: *	<IPv4AddrAlloc>	IPv4 address allocation parameter
+api/user/.svn/text-base/at_response.h.svn-base: *	<P-CSCF_discovery>	P-CSCF address discovery parameter
+api/user/.svn/text-base/at_response.h.svn-base:/* CGPADDR: Show PDP address(es)
+api/user/.svn/text-base/at_response.h.svn-base: * Returns a list of PDP addresses for the specified context identifiers.
+api/user/.svn/text-base/at_response.h.svn-base: *	<PDP_addr_x>	string that identifies the MT in the address space
+api/user/.svn/text-base/at_response.h.svn-base:    int n_pdns;		/* Number of defined PDP addresses in the lists	*/
+api/user/.svn/text-base/at_response.h.svn-base:			/* List of IPv4 addresses			*/
+api/user/.svn/text-base/at_response.h.svn-base:			/* List of IPv6 addresses			*/
+api/user/.svn/text-base/at_response.c.svn-base:	/* Display the list of IP addresses assigned to each defined PDN
+api/user/.svn/text-base/at_response.c.svn-base:		/* IPv4 address */
+api/user/.svn/text-base/at_response.c.svn-base:		/* IPv6 Link-local address prefixe */
+api/user/.svn/text-base/at_response.c.svn-base:		/* IPv6 Link-local address */
+api/user/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+api/user/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+api/user/.svn/text-base/at_command.h.svn-base:    AT_CGPADDR,	/* Show PDP address(es)					*/
+api/user/.svn/text-base/at_command.h.svn-base: *	<PDP_addr>	Mobile Equipment PDP address (not applicable to EPS)
+api/user/.svn/text-base/at_command.h.svn-base: *	<IPv4AddrAlloc>	IPv4 address allocation parameter
+api/user/.svn/text-base/at_command.h.svn-base: *	<P-CSCF_discovery>	P-CSCF address discovery parameter
+api/user/.svn/text-base/at_command.h.svn-base:#define AT_CGDCONT_PCSCF_OFF	0 /* Preference of P-CSCF address discovery
+api/user/.svn/text-base/at_command.h.svn-base:#define AT_CGDCONT_PCSCF_NAS	1 /* Preference of P-CSCF address discovery
+api/user/.svn/text-base/at_command.h.svn-base:#define AT_CGDCONT_PCSCF_DHCP	2 /* Preference of P-CSCF address discovery
+api/user/.svn/text-base/at_command.h.svn-base:				     * parameter (IPv6 address notation)      */
+api/user/.svn/text-base/at_command.h.svn-base:/* CGPADDR: Show PDP address(es)
+api/user/.svn/text-base/at_command.h.svn-base: * Returns a list of PDP addresses for the specified context identifiers.
+api/user/.svn/text-base/at_command.c.svn-base:    /* Show PDP address(es)					*/
+api/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+api/COPYING:address new problems or concerns.
+Binary file api/libapi.so matches
+api/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+api/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+api/mme/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+api/mme/COPYING:address new problems or concerns.
+api/mme/mme_api.c:/* Pool of IPv4 addresses */
+api/mme/mme_api.c:/* Pool of IPv6 addresses */
+api/mme/mme_api.c:/* Pool of IPv4v6 addresses */
+api/mme/mme_api.c: **              required and UE's IPv4 address and/or the IPv6 prefix.    **
+api/mme/mme_api.c: **                  pdn_addr:  PDN connection IPv4 address or IPv6 inter- **
+api/mme/mme_api.c: **                             IPv6 link local address                    **
+api/mme/mme_api.c:    /* Assign PDN address */
+api/mme/.svn/text-base/mme_api.c.svn-base:/* Pool of IPv4 addresses */
+api/mme/.svn/text-base/mme_api.c.svn-base:/* Pool of IPv6 addresses */
+api/mme/.svn/text-base/mme_api.c.svn-base:/* Pool of IPv4v6 addresses */
+api/mme/.svn/text-base/mme_api.c.svn-base: **              required and UE's IPv4 address and/or the IPv6 prefix.    **
+api/mme/.svn/text-base/mme_api.c.svn-base: **                  pdn_addr:  PDN connection IPv4 address or IPv6 inter- **
+api/mme/.svn/text-base/mme_api.c.svn-base: **                             IPv6 link local address                    **
+api/mme/.svn/text-base/mme_api.c.svn-base:    /* Assign PDN address */
+api/mme/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+api/mme/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+Binary file api/libapi.a matches
+COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+COPYING:address new problems or concerns.
+Binary file emm/sap/libEMMsap.a matches
+Binary file emm/sap/emm_as.o matches
+Binary file emm/sap/libEMMsap.so matches
+emm/sap/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+emm/sap/COPYING:address new problems or concerns.
+emm/sap/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+emm/sap/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+emm/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+emm/COPYING:address new problems or concerns.
+emm/msg/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+emm/msg/COPYING:address new problems or concerns.
+emm/msg/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+emm/msg/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+emm/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+emm/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+emm/.svn/text-base/Attach.c.svn-base:        agent IPv4 and IPv6 addresses and full connectivity to the
+emm/Attach.c:        agent IPv4 and IPv6 addresses and full connectivity to the
+Binary file esm/PdnConnectivity.o matches
+esm/esmData.h: * one IPv4 address and/or one IPv6 prefix and a PDN represented by
+esm/esmData.h:    /* IPv4 PDN address and/or IPv6 prefix      */
+esm/esmData.h:             * using an address PDN type (IPv4 or IPv6) other
+Binary file esm/sap/esm_recv.o matches
+esm/sap/esm_send.c: **      pdn_type:  PDN address type                           **
+esm/sap/esm_send.c: **      the same PDN address(es) and APN as an already active EPS **
+esm/sap/esm_send.c: **      pdn_addr:  PDN IPv4 address and/or IPv6 suffix        **
+esm/sap/esm_send.c:    /* Mandatory - PDN address */
+esm/sap/esm_send.c:    msg->pdnaddress.pdntypevalue = pdn_type;
+esm/sap/esm_send.c:    msg->pdnaddress.pdnaddressinformation = *pdn_addr;
+esm/sap/esm_send.c: **      PDN address(es) and APN as an already active default EPS  **
+Binary file esm/sap/libESMsap.a matches
+esm/sap/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+esm/sap/COPYING:address new problems or concerns.
+esm/sap/esm_sapDef.h:    int pdn_type;   /* PDN address type (IPv4, IPv6, IPv4v6)    */
+Binary file esm/sap/esm_sap.o matches
+Binary file esm/sap/libESMsap.so matches
+esm/sap/esm_recv.c:    if (msg->pdnaddress.pdntypevalue == PDN_VALUE_TYPE_IPV4) {
+esm/sap/esm_recv.c:    } else if (msg->pdnaddress.pdntypevalue == PDN_VALUE_TYPE_IPV6) {
+esm/sap/esm_recv.c:    } else if (msg->pdnaddress.pdntypevalue == PDN_VALUE_TYPE_IPV4V6) {
+esm/sap/esm_recv.c:        /* The network allocated a PDN address of a PDN type which is different
+esm/sap/esm_recv.c:              &msg->pdnaddress.pdnaddressinformation,
+esm/sap/esm_recv.c:                /* IPv4 remote address component */
+esm/sap/esm_recv.c:                /* IPv6 remote address component */
+esm/sap/.svn/text-base/esm_send.c.svn-base: **      pdn_type:  PDN address type                           **
+esm/sap/.svn/text-base/esm_send.c.svn-base: **      the same PDN address(es) and APN as an already active EPS **
+esm/sap/.svn/text-base/esm_send.c.svn-base: **      pdn_addr:  PDN IPv4 address and/or IPv6 suffix        **
+esm/sap/.svn/text-base/esm_send.c.svn-base:    /* Mandatory - PDN address */
+esm/sap/.svn/text-base/esm_send.c.svn-base:    msg->pdnaddress.pdntypevalue = pdn_type;
+esm/sap/.svn/text-base/esm_send.c.svn-base:    msg->pdnaddress.pdnaddressinformation = *pdn_addr;
+esm/sap/.svn/text-base/esm_send.c.svn-base: **      PDN address(es) and APN as an already active default EPS  **
+esm/sap/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+esm/sap/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+esm/sap/.svn/text-base/esm_sapDef.h.svn-base:    int pdn_type;   /* PDN address type (IPv4, IPv6, IPv4v6)    */
+esm/sap/.svn/text-base/esm_recv.c.svn-base:    if (msg->pdnaddress.pdntypevalue == PDN_VALUE_TYPE_IPV4) {
+esm/sap/.svn/text-base/esm_recv.c.svn-base:    } else if (msg->pdnaddress.pdntypevalue == PDN_VALUE_TYPE_IPV6) {
+esm/sap/.svn/text-base/esm_recv.c.svn-base:    } else if (msg->pdnaddress.pdntypevalue == PDN_VALUE_TYPE_IPV4V6) {
+esm/sap/.svn/text-base/esm_recv.c.svn-base:        /* The network allocated a PDN address of a PDN type which is different
+esm/sap/.svn/text-base/esm_recv.c.svn-base:              &msg->pdnaddress.pdnaddressinformation,
+esm/sap/.svn/text-base/esm_recv.c.svn-base:                /* IPv4 remote address component */
+esm/sap/.svn/text-base/esm_recv.c.svn-base:                /* IPv6 remote address component */
+esm/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+esm/COPYING:address new problems or concerns.
+esm/PdnConnectivity.c:                     * IPv4 and IPv6 address versions to the same APN */
+esm/PdnConnectivity.c: **      pdn_addr:  PDN address                                **
+esm/PdnConnectivity.c:              "(pti=%d) APN = %s\"%s\", IP address = %s", pti, apn_first_char, isprint(apn->value[0]) ? &apn->value[0] : &apn->value[1],
+esm/PdnConnectivity.c: **      pdn_addr:  Assigned IPv4 address and/or IPv6 suffix   **
+esm/PdnConnectivity.c: **      pdn_addr:  Network allocated PDN IPv4 or IPv6 address **
+esm/PdnConnectivity.c:    /* Setup the IP address allocated by the network */
+esm/PdnConnectivity.c:     * Update the address re-allocation indicator
+esm/PdnConnectivity.c:        /* The UE requested IPv4 or IPv6 address and the network allows
+esm/PdnConnectivity.c:         * single addressing per bearer:
+esm/PdnConnectivity.c:         * procedure to the same APN with a single address PDN type
+esm/PdnConnectivity.c:        /* The UE requested IPv4 or IPv6 address and the network allows
+esm/PdnConnectivity.c:         * IPv4 or IPv6 PDN address only:
+esm/PdnConnectivity.c: **      pdn_type:  PDN address type                           **
+esm/PdnConnectivity.c: **                  pdn_addr:  Network allocated PDN IPv4 or IPv6 address **
+esm/PdnConnectivity.c:              "(pti=%d) APN = %s, IP address = %s (ueid=%u)", pti, apn->value,
+esm/PdnConnectivity.c:            /* Setup the IP address allocated by the network */
+esm/esm_ebr_context.c://                                    "error in PDN IPv4 address %x",
+esm/esm_ebr_context.c://                                        "error in PDN IPv4 address %x",
+esm/esm_ebr_context.c://                                        "error in PDN IPv4 address %x",
+esm/esm_ebr_context.c://                                        "error in PDN IPv4 address %x",
+Binary file esm/msg/esm_msg.o matches
+Binary file esm/msg/ActivateDefaultEpsBearerContextRequest.o matches
+esm/msg/ActivateDefaultEpsBearerContextRequest.c:    if ((decoded_result = decode_pdn_address(&activate_default_eps_bearer_context_request->pdnaddress, 0, buffer + decoded, len - decoded)) < 0)
+esm/msg/ActivateDefaultEpsBearerContextRequest.c:         encode_pdn_address(&activate_default_eps_bearer_context_request->pdnaddress,
+esm/msg/ActivateDefaultEpsBearerContextRequest.c:        LOG_TRACE(ERROR, "ESM  ENCODE pdnaddress");
+Binary file esm/msg/libESMmsg.a matches
+esm/msg/ActivateDedicatedEpsBearerContextRequest.h: * Description: This message is sent by the network to the UE to request activation of a dedicated EPS bearer context associated with the same PDN address(es) and APN as an already active default EPS bearer context. See table 8.3.3.1.
+esm/msg/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+esm/msg/COPYING:address new problems or concerns.
+esm/msg/ActivateDedicatedEpsBearerContextAccept.h: * Description: This message is sent by the UE to the network to acknowledge activation of a dedicated EPS bearer context associated with the same PDN address(es) and APN as an already active EPS bearer context. See table 8.3.1.1.
+Binary file esm/msg/libESMmsg.so matches
+esm/msg/.svn/text-base/ActivateDedicatedEpsBearerContextRequest.h.svn-base: * Description: This message is sent by the network to the UE to request activation of a dedicated EPS bearer context associated with the same PDN address(es) and APN as an already active default EPS bearer context. See table 8.3.3.1.
+esm/msg/.svn/text-base/ActivateDefaultEpsBearerContextRequest.h.svn-base:    PdnAddress                                            pdnaddress;
+esm/msg/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+esm/msg/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+esm/msg/.svn/text-base/ActivateDefaultEpsBearerContextRequest.c.svn-base:    if ((decoded_result = decode_pdn_address(&activate_default_eps_bearer_context_request->pdnaddress, 0, buffer + decoded, len - decoded)) < 0)
+esm/msg/.svn/text-base/ActivateDefaultEpsBearerContextRequest.c.svn-base:         encode_pdn_address(&activate_default_eps_bearer_context_request->pdnaddress,
+esm/msg/.svn/text-base/ActivateDefaultEpsBearerContextRequest.c.svn-base:        LOG_TRACE(ERROR, "ESM  ENCODE pdnaddress");
+esm/msg/.svn/text-base/ActivateDedicatedEpsBearerContextAccept.h.svn-base: * Description: This message is sent by the UE to the network to acknowledge activation of a dedicated EPS bearer context associated with the same PDN address(es) and APN as an already active EPS bearer context. See table 8.3.1.1.
+esm/msg/ActivateDefaultEpsBearerContextRequest.h:    PdnAddress                                            pdnaddress;
+esm/.svn/text-base/esmData.h.svn-base: * one IPv4 address and/or one IPv6 prefix and a PDN represented by
+esm/.svn/text-base/esmData.h.svn-base:    /* IPv4 PDN address and/or IPv6 prefix      */
+esm/.svn/text-base/esmData.h.svn-base:             * using an address PDN type (IPv4 or IPv6) other
+esm/.svn/text-base/PdnConnectivity.c.svn-base:                     * IPv4 and IPv6 address versions to the same APN */
+esm/.svn/text-base/PdnConnectivity.c.svn-base: **      pdn_addr:  PDN address                                **
+esm/.svn/text-base/PdnConnectivity.c.svn-base:              "(pti=%d) APN = %s\"%s\", IP address = %s", pti, apn_first_char, isprint(apn->value[0]) ? &apn->value[0] : &apn->value[1],
+esm/.svn/text-base/PdnConnectivity.c.svn-base: **      pdn_addr:  Assigned IPv4 address and/or IPv6 suffix   **
+esm/.svn/text-base/PdnConnectivity.c.svn-base: **      pdn_addr:  Network allocated PDN IPv4 or IPv6 address **
+esm/.svn/text-base/PdnConnectivity.c.svn-base:    /* Setup the IP address allocated by the network */
+esm/.svn/text-base/PdnConnectivity.c.svn-base:     * Update the address re-allocation indicator
+esm/.svn/text-base/PdnConnectivity.c.svn-base:        /* The UE requested IPv4 or IPv6 address and the network allows
+esm/.svn/text-base/PdnConnectivity.c.svn-base:         * single addressing per bearer:
+esm/.svn/text-base/PdnConnectivity.c.svn-base:         * procedure to the same APN with a single address PDN type
+esm/.svn/text-base/PdnConnectivity.c.svn-base:        /* The UE requested IPv4 or IPv6 address and the network allows
+esm/.svn/text-base/PdnConnectivity.c.svn-base:         * IPv4 or IPv6 PDN address only:
+esm/.svn/text-base/PdnConnectivity.c.svn-base: **      pdn_type:  PDN address type                           **
+esm/.svn/text-base/PdnConnectivity.c.svn-base: **                  pdn_addr:  Network allocated PDN IPv4 or IPv6 address **
+esm/.svn/text-base/PdnConnectivity.c.svn-base:              "(pti=%d) APN = %s, IP address = %s (ueid=%u)", pti, apn->value,
+esm/.svn/text-base/PdnConnectivity.c.svn-base:            /* Setup the IP address allocated by the network */
+esm/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+esm/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+esm/.svn/text-base/esm_proc.h.svn-base:/* Type of PDN address */
+esm/.svn/text-base/esm_proc.h.svn-base:                                     const OctetString *pdn_address, const OctetString *apn, int *esm_cause);
+esm/.svn/text-base/esm_main.c.svn-base: ** Description: Get IP address(es) assigned to the specified PDN connec-  **
+esm/.svn/text-base/esm_main.c.svn-base: ** Outputs:     ipv4adddr: IPv4 address                               **
+esm/.svn/text-base/esm_main.c.svn-base: **      ipv6adddr: IPv6 address                               **
+esm/.svn/text-base/esm_main.c.svn-base:        /* No any IP address has been assigned to this PDN connection */
+esm/.svn/text-base/esm_main.c.svn-base:        /* Get IPv4 address */
+esm/.svn/text-base/esm_main.c.svn-base:        /* Get IPv6 address */
+esm/.svn/text-base/esm_ebr_context.c.svn-base://                                    "error in PDN IPv4 address %x",
+esm/.svn/text-base/esm_ebr_context.c.svn-base://                                        "error in PDN IPv4 address %x",
+esm/.svn/text-base/esm_ebr_context.c.svn-base://                                        "error in PDN IPv4 address %x",
+esm/.svn/text-base/esm_ebr_context.c.svn-base://                                        "error in PDN IPv4 address %x",
+esm/esm_main.c: ** Description: Get IP address(es) assigned to the specified PDN connec-  **
+esm/esm_main.c: ** Outputs:     ipv4adddr: IPv4 address                               **
+esm/esm_main.c: **      ipv6adddr: IPv6 address                               **
+esm/esm_main.c:        /* No any IP address has been assigned to this PDN connection */
+esm/esm_main.c:        /* Get IPv4 address */
+esm/esm_main.c:        /* Get IPv6 address */
+esm/esm_proc.h:/* Type of PDN address */
+esm/esm_proc.h:                                     const OctetString *pdn_address, const OctetString *apn, int *esm_cause);
+Binary file ies/PdnAddress.o matches
+ies/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+ies/COPYING:address new problems or concerns.
+ies/TrafficFlowTemplate.c:		    /* IPv4 remote address type */
+ies/TrafficFlowTemplate.c:		    /* IPv6 remote address type */
+ies/TrafficFlowTemplate.c:	/* Save address of the Packet filter contents field length */
+ies/TrafficFlowTemplate.c:		    /* IPv4 remote address type */
+ies/TrafficFlowTemplate.c:		    /* IPv6 remote address type */
+ies/TrafficFlowTemplate.c:	    printf("            <IPv4 remote address>%u.%u.%u.%u</IPv4 remote address>\n", (*packetfilters)[i].packetfilter.ipv4remoteaddr[0].addr, (*packetfilters)[i].packetfilter.ipv4remoteaddr[1].addr, (*packetfilters)[i].packetfilter.ipv4remoteaddr[2].addr, (*packetfilters)[i].packetfilter.ipv4remoteaddr[3].addr);
+ies/TrafficFlowTemplate.c:	    printf("            <IPv4 remote address mask>%u.%u.%u.%u</IPv4 remote address mask>\n", (*packetfilters)[i].packetfilter.ipv4remoteaddr[0].mask, (*packetfilters)[i].packetfilter.ipv4remoteaddr[1].mask, (*packetfilters)[i].packetfilter.ipv4remoteaddr[2].mask, (*packetfilters)[i].packetfilter.ipv4remoteaddr[3].mask);
+ies/TrafficFlowTemplate.c:	    printf("            <Ipv6 remote address>%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x</Ipv6 remote address>\n", (*packetfilters)[i].packetfilter.ipv6remoteaddr[0].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[1].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[2].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[3].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[4].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[5].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[6].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[7].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[8].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[9].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[10].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[11].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[12].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[13].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[14].addr, (*packetfilters)[i].packetfilter.
+ies/TrafficFlowTemplate.c:	    printf("            <Ipv6 remote address mask>%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x</Ipv6 remote address mask>\n", (*packetfilters)[i].packetfilter.ipv6remoteaddr[0].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[1].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[2].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[3].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[4].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[5].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[6].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[7].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[8].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[9].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[10].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[11].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[12].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[13].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[14].mask, (*packetfilters)[i].
+ies/PdnAddress.h:    OctetString pdnaddressinformation;
+ies/PdnAddress.h:int encode_pdn_address(PdnAddress *pdnaddress, uint8_t iei, uint8_t *buffer, uint32_t len);
+ies/PdnAddress.h:int decode_pdn_address(PdnAddress *pdnaddress, uint8_t iei, uint8_t *buffer, uint32_t len);
+ies/PdnAddress.h:void dump_pdn_address_xml(PdnAddress *pdnaddress, uint8_t iei);
+Binary file ies/libies.so matches
+Binary file ies/libies.a matches
+Binary file ies/TrafficFlowTemplate.o matches
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:		    /* IPv4 remote address type */
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:		    /* IPv6 remote address type */
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:	/* Save address of the Packet filter contents field length */
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:		    /* IPv4 remote address type */
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:		    /* IPv6 remote address type */
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:	    printf("            <IPv4 remote address>%u.%u.%u.%u</IPv4 remote address>\n", (*packetfilters)[i].packetfilter.ipv4remoteaddr[0].addr, (*packetfilters)[i].packetfilter.ipv4remoteaddr[1].addr, (*packetfilters)[i].packetfilter.ipv4remoteaddr[2].addr, (*packetfilters)[i].packetfilter.ipv4remoteaddr[3].addr);
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:	    printf("            <IPv4 remote address mask>%u.%u.%u.%u</IPv4 remote address mask>\n", (*packetfilters)[i].packetfilter.ipv4remoteaddr[0].mask, (*packetfilters)[i].packetfilter.ipv4remoteaddr[1].mask, (*packetfilters)[i].packetfilter.ipv4remoteaddr[2].mask, (*packetfilters)[i].packetfilter.ipv4remoteaddr[3].mask);
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:	    printf("            <Ipv6 remote address>%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x</Ipv6 remote address>\n", (*packetfilters)[i].packetfilter.ipv6remoteaddr[0].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[1].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[2].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[3].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[4].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[5].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[6].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[7].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[8].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[9].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[10].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[11].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[12].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[13].addr, (*packetfilters)[i].packetfilter.ipv6remoteaddr[14].addr, (*packetfilters)[i].packetfilter.
+ies/.svn/text-base/TrafficFlowTemplate.c.svn-base:	    printf("            <Ipv6 remote address mask>%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x:%x%.2x</Ipv6 remote address mask>\n", (*packetfilters)[i].packetfilter.ipv6remoteaddr[0].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[1].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[2].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[3].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[4].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[5].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[6].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[7].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[8].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[9].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[10].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[11].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[12].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[13].mask, (*packetfilters)[i].packetfilter.ipv6remoteaddr[14].mask, (*packetfilters)[i].
+ies/.svn/text-base/PdnAddress.c.svn-base:int decode_pdn_address(PdnAddress *pdnaddress, uint8_t iei, uint8_t *buffer, uint32_t len)
+ies/.svn/text-base/PdnAddress.c.svn-base:    pdnaddress->pdntypevalue = *(buffer + decoded) & 0x7;
+ies/.svn/text-base/PdnAddress.c.svn-base:    if ((decode_result = decode_octet_string(&pdnaddress->pdnaddressinformation, ielen - 1, buffer + decoded, len - decoded)) < 0)
+ies/.svn/text-base/PdnAddress.c.svn-base:    dump_pdn_address_xml(pdnaddress, iei);
+ies/.svn/text-base/PdnAddress.c.svn-base:int encode_pdn_address(PdnAddress *pdnaddress, uint8_t iei, uint8_t *buffer, uint32_t len)
+ies/.svn/text-base/PdnAddress.c.svn-base:    dump_pdn_address_xml(pdnaddress, iei);
+ies/.svn/text-base/PdnAddress.c.svn-base:    (pdnaddress->pdntypevalue & 0x7);
+ies/.svn/text-base/PdnAddress.c.svn-base:    if ((encode_result = encode_octet_string(&pdnaddress->pdnaddressinformation, buffer + encoded, len - encoded)) < 0)
+ies/.svn/text-base/PdnAddress.c.svn-base:void dump_pdn_address_xml(PdnAddress *pdnaddress, uint8_t iei)
+ies/.svn/text-base/PdnAddress.c.svn-base:    printf("    <PDN type value>%u</PDN type value>\n", pdnaddress->pdntypevalue);
+ies/.svn/text-base/PdnAddress.c.svn-base:    printf("%s", dump_octet_string_xml(&pdnaddress->pdnaddressinformation));
+ies/.svn/text-base/PdnAddress.h.svn-base:    OctetString pdnaddressinformation;
+ies/.svn/text-base/PdnAddress.h.svn-base:int encode_pdn_address(PdnAddress *pdnaddress, uint8_t iei, uint8_t *buffer, uint32_t len);
+ies/.svn/text-base/PdnAddress.h.svn-base:int decode_pdn_address(PdnAddress *pdnaddress, uint8_t iei, uint8_t *buffer, uint32_t len);
+ies/.svn/text-base/PdnAddress.h.svn-base:void dump_pdn_address_xml(PdnAddress *pdnaddress, uint8_t iei);
+ies/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+ies/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+ies/PdnAddress.c:int decode_pdn_address(PdnAddress *pdnaddress, uint8_t iei, uint8_t *buffer, uint32_t len)
+ies/PdnAddress.c:    pdnaddress->pdntypevalue = *(buffer + decoded) & 0x7;
+ies/PdnAddress.c:    if ((decode_result = decode_octet_string(&pdnaddress->pdnaddressinformation, ielen - 1, buffer + decoded, len - decoded)) < 0)
+ies/PdnAddress.c:    dump_pdn_address_xml(pdnaddress, iei);
+ies/PdnAddress.c:int encode_pdn_address(PdnAddress *pdnaddress, uint8_t iei, uint8_t *buffer, uint32_t len)
+ies/PdnAddress.c:    dump_pdn_address_xml(pdnaddress, iei);
+ies/PdnAddress.c:    (pdnaddress->pdntypevalue & 0x7);
+ies/PdnAddress.c:    if ((encode_result = encode_octet_string(&pdnaddress->pdnaddressinformation, buffer + encoded, len - encoded)) < 0)
+ies/PdnAddress.c:void dump_pdn_address_xml(PdnAddress *pdnaddress, uint8_t iei)
+ies/PdnAddress.c:    printf("    <PDN type value>%u</PDN type value>\n", pdnaddress->pdntypevalue);
+ies/PdnAddress.c:    printf("%s", dump_octet_string_xml(&pdnaddress->pdnaddressinformation));
+include/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+include/COPYING:address new problems or concerns.
+include/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+include/.svn/text-base/COPYING.svn-base:address new problems or concerns.
+nas_proc.c: **      addr1:     List of IPv4 addresses                     **
+nas_proc.c: **      addr2:     List of IPv6 addresses                     **
+nas_proc.c: **             one IP address assigned                    **
+nas_proc.c:        /* Get addresses assigned to the specified PDN */
+nas_proc.c:            /* Get PDN connection addresses */
+nas_proc.c: **      ipv4_addr: IPv4 address allocation (NAS, DHCP)        **
+nas_proc.c: **      p_cscf:    Preference of P-CSCF address discovery     **
+nas_user.c:                    /* The value of the IPv4 address allocation parameter is
+nas_user.c:                    /* The value of the P-CSCF address discovery parameter  is
+nas_user.c: **      The AT CGPADDR command returns a list of PDP addresses    **
+nas_user.c:             * The execution command returns a list of PDP addresses for
+nas_user.c:             * Get the PDP addresses
+Binary file UEprocess matches
+util/COPYING:License.  Each licensee is addressed as "you".  "Licensees" and
+util/COPYING:address new problems or concerns.
+util/socket.c: *	a port number, and the name and address of the remote host it should
+util/socket.c:    struct sockaddr_storage addr; /* remote address		*/
+util/socket.c: **				address to connect to. NULL for server     **
+util/socket.c:    struct addrinfo *socket_addr, *sp; /* endpoint address		*/
+util/socket.c:     * Initialize the endpoint address information
+util/socket.c:     *	The AI_PASSIVE flag allows "wildcard address" when hostname is not
+util/socket.c:     *	provided (NULL). The wildcard address is used by applications (ty-
+util/socket.c:     *	hosts's network addresses. If the hostname is not NULL, then the
+util/socket.c:     *  matching IPv6 addresses could be found, then IPv4-mapped IPv6 addresses
+util/socket.c:        /* Setup socket address options at the server side */
+util/socket.c:        socket_info.ai_flags |= AI_PASSIVE; /* Use "wildcard address"	 */
+util/socket.c:        socket_info.ai_flags |= AI_V4MAPPED; /* IPv4-mapped IPv6 address */
+util/socket.c:        /* Setup socket address options at the client side */
+util/socket.c:        socket_info.ai_family = AF_INET; /* Any address family	 */
+util/socket.c://         socket_info.ai_flags |= AI_V4MAPPED; /* IPv4-mapped IPv6 address */
+util/socket.c:     * getaddrinfo() returns a linked list of address structures:
+util/socket.c:     *	  socket types (one SOCK_STREAM address and another SOCK_DGRAM address);
+util/socket.c:     * Try each address until we successfully connect
+util/socket.c:            /* Connect the socket to the remote server's address */
+util/socket.c:                /* Bind the socket to the local server's address */
+util/socket.c:            /* Receive data from the socket and retreive the remote host address */
+util/socket.c:            /* Send data to the socket using the remote host address */
+util/socket.c:     * packets to and from an IPv6 address or an IPv4-mapped IPv6 address.
+util/.svn/text-base/socket.c.svn-base: *	a port number, and the name and address of the remote host it should
+util/.svn/text-base/socket.c.svn-base:    struct sockaddr_storage addr; /* remote address		*/
+util/.svn/text-base/socket.c.svn-base: **				address to connect to. NULL for server     **
+util/.svn/text-base/socket.c.svn-base:    struct addrinfo *socket_addr, *sp; /* endpoint address		*/
+util/.svn/text-base/socket.c.svn-base:     * Initialize the endpoint address information
+util/.svn/text-base/socket.c.svn-base:     *	The AI_PASSIVE flag allows "wildcard address" when hostname is not
+util/.svn/text-base/socket.c.svn-base:     *	provided (NULL). The wildcard address is used by applications (ty-
+util/.svn/text-base/socket.c.svn-base:     *	hosts's network addresses. If the hostname is not NULL, then the
+util/.svn/text-base/socket.c.svn-base:     *  matching IPv6 addresses could be found, then IPv4-mapped IPv6 addresses
+util/.svn/text-base/socket.c.svn-base:        /* Setup socket address options at the server side */
+util/.svn/text-base/socket.c.svn-base:        socket_info.ai_flags |= AI_PASSIVE; /* Use "wildcard address"	 */
+util/.svn/text-base/socket.c.svn-base:        socket_info.ai_flags |= AI_V4MAPPED; /* IPv4-mapped IPv6 address */
+util/.svn/text-base/socket.c.svn-base:        /* Setup socket address options at the client side */
+util/.svn/text-base/socket.c.svn-base:        socket_info.ai_family = AF_INET; /* Any address family	 */
+util/.svn/text-base/socket.c.svn-base://         socket_info.ai_flags |= AI_V4MAPPED; /* IPv4-mapped IPv6 address */
+util/.svn/text-base/socket.c.svn-base:     * getaddrinfo() returns a linked list of address structures:
+util/.svn/text-base/socket.c.svn-base:     *	  socket types (one SOCK_STREAM address and another SOCK_DGRAM address);
+util/.svn/text-base/socket.c.svn-base:     * Try each address until we successfully connect
+util/.svn/text-base/socket.c.svn-base:            /* Connect the socket to the remote server's address */
+util/.svn/text-base/socket.c.svn-base:                /* Bind the socket to the local server's address */
+util/.svn/text-base/socket.c.svn-base:            /* Receive data from the socket and retreive the remote host address */
+util/.svn/text-base/socket.c.svn-base:            /* Send data to the socket using the remote host address */
+util/.svn/text-base/socket.c.svn-base:     * packets to and from an IPv6 address or an IPv4-mapped IPv6 address.
+util/.svn/text-base/COPYING.svn-base:License.  Each licensee is addressed as "you".  "Licensees" and
+util/.svn/text-base/COPYING.svn-base:address new problems or concerns.

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5449/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE_OAI_DRIVER_ETHERNET
+END
+start_ue
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5449/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE_OAI_DRIVER_ETHERNET/start_ue
+END
+AT_serial_bouchon.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/2990/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE_OAI_DRIVER_ETHERNET/AT_serial_bouchon.py
+END
+start_enb_v2
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5449/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE_OAI_DRIVER_ETHERNET/start_enb_v2
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/2999/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE_OAI_DRIVER_ETHERNET/Makefile
+END
+start_enb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5449/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE_OAI_DRIVER_ETHERNET/start_enb
+END
+start_ue_cx2android
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/2999/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE_OAI_DRIVER_ETHERNET/start_ue_cx2android
+END

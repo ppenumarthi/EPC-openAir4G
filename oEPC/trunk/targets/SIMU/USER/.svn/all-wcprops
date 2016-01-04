@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6328/trunk/targets/SIMU/USER
+END
+phy_procedures_sim_form.fd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1462/trunk/targets/SIMU/USER/phy_procedures_sim_form.fd
+END
+valgrind.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/4688/trunk/targets/SIMU/USER/valgrind.sh
+END
+threadpool.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5096/trunk/targets/SIMU/USER/threadpool.c
+END
+oaisim_pad.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/USER/oaisim_pad.c
+END
+oaisim_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6300/trunk/targets/SIMU/USER/oaisim_config.c
+END
+threadpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/3916/trunk/targets/SIMU/USER/threadpool.h
+END
+init_lte.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6253/trunk/targets/SIMU/USER/init_lte.c
+END
+oaisim_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/6253/trunk/targets/SIMU/USER/oaisim_functions.c
+END
+plot_results.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/4150/trunk/targets/SIMU/USER/plot_results.m
+END
+oaisim_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6115/trunk/targets/SIMU/USER/oaisim_config.h
+END
+init_lte.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5738/trunk/targets/SIMU/USER/init_lte.h
+END
+event_handler.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/USER/event_handler.c
+END
+oaisim_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/USER/oaisim_functions.h
+END
+channel_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/6096/trunk/targets/SIMU/USER/channel_sim.c
+END
+oaisim.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6328/trunk/targets/SIMU/USER/oaisim.c
+END
+cor_SF_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/USER/cor_SF_sim.c
+END
+event_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/USER/event_handler.h
+END
+sinr_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6096/trunk/targets/SIMU/USER/sinr_sim.c
+END
+oaisim.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/USER/oaisim.h
+END
+.ue_emm.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5054/trunk/targets/SIMU/USER/.ue_emm.nvram
+END
+phy_procedures_sim_form.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1462/trunk/targets/SIMU/USER/phy_procedures_sim_form.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5718/trunk/targets/SIMU/USER/COPYING
+END
+cor_SF_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5719/trunk/targets/SIMU/USER/cor_SF_sim.h
+END
+.ue.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5034/trunk/targets/SIMU/USER/.ue.nvram
+END
+phy_procedures_sim_form.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1462/trunk/targets/SIMU/USER/phy_procedures_sim_form.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6253/trunk/targets/SIMU/USER/Makefile
+END
+.usim.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5034/trunk/targets/SIMU/USER/.usim.nvram
+END

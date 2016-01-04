@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5945/trunk/openair2/UTIL/OMG/TRACE
+END
+example_trace.tr
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1951/trunk/openair2/UTIL/OMG/TRACE/example_trace.tr
+END
+static_1enb.tr
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2544/trunk/openair2/UTIL/OMG/TRACE/static_1enb.tr
+END
+hexagonal_eNBs.tr
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5945/trunk/openair2/UTIL/OMG/TRACE/hexagonal_eNBs.tr
+END
+zero_speed.tr
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/2538/trunk/openair2/UTIL/OMG/TRACE/zero_speed.tr
+END
+handover_1ue.tr
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5696/trunk/openair2/UTIL/OMG/TRACE/handover_1ue.tr
+END
+regular.tr
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/2538/trunk/openair2/UTIL/OMG/TRACE/regular.tr
+END
+static_2ues.tr
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5576/trunk/openair2/UTIL/OMG/TRACE/static_2ues.tr
+END
+OMG_TRACE_update.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2538/trunk/openair2/UTIL/OMG/TRACE/OMG_TRACE_update.pdf
+END
+handover.tr
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5945/trunk/openair2/UTIL/OMG/TRACE/handover.tr
+END
+mobility_2ues.tr
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/3295/trunk/openair2/UTIL/OMG/TRACE/mobility_2ues.tr
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5697/trunk/openair2/UTIL/OMG/TRACE/README.TXT
+END
+mobility_3ues.tr
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/2544/trunk/openair2/UTIL/OMG/TRACE/mobility_3ues.tr
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/TOOLS
+END
+thread_ipc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/TOOLS/thread_ipc.c
+END
+thread_ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/TOOLS/thread_ipc.h
+END

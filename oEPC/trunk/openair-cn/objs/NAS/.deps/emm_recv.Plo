@@ -1,0 +1,381 @@
+emm_recv.lo: ../../NAS/EURECOM-NAS/src/emm/sap/emm_recv.c \
+ ../../NAS/EURECOM-NAS/src/emm/sap/emm_recv.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/EmmStatus.h /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/predefs.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stddef.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ ../../NAS/EURECOM-NAS/src/ies/ProtocolDiscriminator.h \
+ ../../NAS/EURECOM-NAS/src/util/OctetString.h /usr/include/assert.h \
+ ../../NAS/EURECOM-NAS/src/ies/SecurityHeaderType.h \
+ ../../NAS/EURECOM-NAS/src/ies/MessageType.h \
+ ../../NAS/EURECOM-NAS/src/ies/EmmCause.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/DetachRequest.h \
+ ../../NAS/EURECOM-NAS/src/ies/DetachType.h \
+ ../../NAS/EURECOM-NAS/src/ies/NasKeySetIdentifier.h \
+ ../../NAS/EURECOM-NAS/src/ies/EpsMobileIdentity.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/DetachAccept.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/AttachRequest.h \
+ ../../NAS/EURECOM-NAS/src/ies/EpsAttachType.h \
+ ../../NAS/EURECOM-NAS/src/ies/UeNetworkCapability.h \
+ ../../NAS/EURECOM-NAS/src/ies/EsmMessageContainer.h \
+ ../../NAS/EURECOM-NAS/src/ies/PTmsiSignature.h \
+ ../../NAS/EURECOM-NAS/src/ies/TrackingAreaIdentity.h \
+ ../../NAS/EURECOM-NAS/src/ies/DrxParameter.h \
+ ../../NAS/EURECOM-NAS/src/ies/MsNetworkCapability.h \
+ ../../NAS/EURECOM-NAS/src/ies/LocationAreaIdentification.h \
+ ../../NAS/EURECOM-NAS/src/ies/TmsiStatus.h \
+ ../../NAS/EURECOM-NAS/src/ies/MobileStationClassmark2.h \
+ ../../NAS/EURECOM-NAS/src/ies/MobileStationClassmark3.h \
+ ../../NAS/EURECOM-NAS/src/ies/SupportedCodecList.h \
+ ../../NAS/EURECOM-NAS/src/ies/AdditionalUpdateType.h \
+ ../../NAS/EURECOM-NAS/src/ies/GutiType.h \
+ ../../NAS/EURECOM-NAS/src/ies/VoiceDomainPreferenceAndUeUsageSetting.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/AttachComplete.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateRequest.h \
+ ../../NAS/EURECOM-NAS/src/ies/EpsUpdateType.h \
+ ../../NAS/EURECOM-NAS/src/ies/CipheringKeySequenceNumber.h \
+ ../../NAS/EURECOM-NAS/src/ies/Nonce.h \
+ ../../NAS/EURECOM-NAS/src/ies/UeRadioCapabilityInformationUpdateNeeded.h \
+ ../../NAS/EURECOM-NAS/src/ies/EpsBearerContextStatus.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateComplete.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/ServiceRequest.h \
+ ../../NAS/EURECOM-NAS/src/ies/KsiAndSequenceNumber.h \
+ ../../NAS/EURECOM-NAS/src/ies/ShortMac.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/ExtendedServiceRequest.h \
+ ../../NAS/EURECOM-NAS/src/ies/ServiceType.h \
+ ../../NAS/EURECOM-NAS/src/ies/MobileIdentity.h \
+ ../../NAS/EURECOM-NAS/src/ies/CsfbResponse.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/GutiReallocationComplete.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/AuthenticationResponse.h \
+ ../../NAS/EURECOM-NAS/src/ies/AuthenticationResponseParameter.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/AuthenticationFailure.h \
+ ../../NAS/EURECOM-NAS/src/ies/AuthenticationFailureParameter.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/IdentityResponse.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/NASSecurityModeComplete.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/SecurityModeReject.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/UplinkNasTransport.h \
+ ../../NAS/EURECOM-NAS/src/ies/NasMessageContainer.h \
+ ../../NAS/EURECOM-NAS/src/include/commonDef.h \
+ ../../NAS/EURECOM-NAS/src/util/nas_log.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/emm_msgDef.h \
+ /usr/include/x86_64-linux-gnu/asm/byteorder.h \
+ /usr/include/linux/byteorder/little_endian.h /usr/include/linux/types.h \
+ /usr/include/x86_64-linux-gnu/asm/types.h \
+ /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
+ /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
+ /usr/include/asm-generic/bitsperlong.h /usr/include/linux/posix_types.h \
+ /usr/include/linux/stddef.h \
+ /usr/include/x86_64-linux-gnu/asm/posix_types.h \
+ /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
+ /usr/include/linux/swab.h /usr/include/x86_64-linux-gnu/asm/swab.h \
+ ../../NAS/EURECOM-NAS/src/emm/msg/emm_cause.h \
+ ../../NAS/EURECOM-NAS/src/emm/emm_proc.h \
+ ../../NAS/EURECOM-NAS/src/emm/EmmCommon.h \
+ ../../NAS/EURECOM-NAS/src/emm/emmData.h \
+ ../../NAS/EURECOM-NAS/src/include/networkDef.h \
+ ../../NAS/EURECOM-NAS/src/include/securityDef.h \
+ ../../NAS/EURECOM-NAS/src/util/nas_timer.h \
+ ../../NAS/EURECOM-NAS/src/esm/esmData.h \
+ ../../NAS/EURECOM-NAS/src/ies/EpsBearerIdentity.h \
+ ../../NAS/EURECOM-NAS/src/api/mme/mme_api.h ../../UTILS/mme_config.h \
+ /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/sched.h /usr/include/xlocale.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ ../../UTILS/mme_default_values.h ../../UTILS/tree.h \
+ ../../NAS/EURECOM-NAS/src/emm/sap/emm_fsm.h \
+ ../../NAS/EURECOM-NAS/src/emm/sap/emm_regDef.h /usr/include/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string2.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h
+
+../../NAS/EURECOM-NAS/src/emm/sap/emm_recv.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/EmmStatus.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/bits/predefs.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdarg.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+
+/usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/select2.h:
+
+/usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+../../NAS/EURECOM-NAS/src/ies/ProtocolDiscriminator.h:
+
+../../NAS/EURECOM-NAS/src/util/OctetString.h:
+
+/usr/include/assert.h:
+
+../../NAS/EURECOM-NAS/src/ies/SecurityHeaderType.h:
+
+../../NAS/EURECOM-NAS/src/ies/MessageType.h:
+
+../../NAS/EURECOM-NAS/src/ies/EmmCause.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/DetachRequest.h:
+
+../../NAS/EURECOM-NAS/src/ies/DetachType.h:
+
+../../NAS/EURECOM-NAS/src/ies/NasKeySetIdentifier.h:
+
+../../NAS/EURECOM-NAS/src/ies/EpsMobileIdentity.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/DetachAccept.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/AttachRequest.h:
+
+../../NAS/EURECOM-NAS/src/ies/EpsAttachType.h:
+
+../../NAS/EURECOM-NAS/src/ies/UeNetworkCapability.h:
+
+../../NAS/EURECOM-NAS/src/ies/EsmMessageContainer.h:
+
+../../NAS/EURECOM-NAS/src/ies/PTmsiSignature.h:
+
+../../NAS/EURECOM-NAS/src/ies/TrackingAreaIdentity.h:
+
+../../NAS/EURECOM-NAS/src/ies/DrxParameter.h:
+
+../../NAS/EURECOM-NAS/src/ies/MsNetworkCapability.h:
+
+../../NAS/EURECOM-NAS/src/ies/LocationAreaIdentification.h:
+
+../../NAS/EURECOM-NAS/src/ies/TmsiStatus.h:
+
+../../NAS/EURECOM-NAS/src/ies/MobileStationClassmark2.h:
+
+../../NAS/EURECOM-NAS/src/ies/MobileStationClassmark3.h:
+
+../../NAS/EURECOM-NAS/src/ies/SupportedCodecList.h:
+
+../../NAS/EURECOM-NAS/src/ies/AdditionalUpdateType.h:
+
+../../NAS/EURECOM-NAS/src/ies/GutiType.h:
+
+../../NAS/EURECOM-NAS/src/ies/VoiceDomainPreferenceAndUeUsageSetting.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/AttachComplete.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateRequest.h:
+
+../../NAS/EURECOM-NAS/src/ies/EpsUpdateType.h:
+
+../../NAS/EURECOM-NAS/src/ies/CipheringKeySequenceNumber.h:
+
+../../NAS/EURECOM-NAS/src/ies/Nonce.h:
+
+../../NAS/EURECOM-NAS/src/ies/UeRadioCapabilityInformationUpdateNeeded.h:
+
+../../NAS/EURECOM-NAS/src/ies/EpsBearerContextStatus.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateComplete.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/ServiceRequest.h:
+
+../../NAS/EURECOM-NAS/src/ies/KsiAndSequenceNumber.h:
+
+../../NAS/EURECOM-NAS/src/ies/ShortMac.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/ExtendedServiceRequest.h:
+
+../../NAS/EURECOM-NAS/src/ies/ServiceType.h:
+
+../../NAS/EURECOM-NAS/src/ies/MobileIdentity.h:
+
+../../NAS/EURECOM-NAS/src/ies/CsfbResponse.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/GutiReallocationComplete.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/AuthenticationResponse.h:
+
+../../NAS/EURECOM-NAS/src/ies/AuthenticationResponseParameter.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/AuthenticationFailure.h:
+
+../../NAS/EURECOM-NAS/src/ies/AuthenticationFailureParameter.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/IdentityResponse.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/NASSecurityModeComplete.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/SecurityModeReject.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/UplinkNasTransport.h:
+
+../../NAS/EURECOM-NAS/src/ies/NasMessageContainer.h:
+
+../../NAS/EURECOM-NAS/src/include/commonDef.h:
+
+../../NAS/EURECOM-NAS/src/util/nas_log.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/emm_msgDef.h:
+
+/usr/include/x86_64-linux-gnu/asm/byteorder.h:
+
+/usr/include/linux/byteorder/little_endian.h:
+
+/usr/include/linux/types.h:
+
+/usr/include/x86_64-linux-gnu/asm/types.h:
+
+/usr/include/asm-generic/types.h:
+
+/usr/include/asm-generic/int-ll64.h:
+
+/usr/include/x86_64-linux-gnu/asm/bitsperlong.h:
+
+/usr/include/asm-generic/bitsperlong.h:
+
+/usr/include/linux/posix_types.h:
+
+/usr/include/linux/stddef.h:
+
+/usr/include/x86_64-linux-gnu/asm/posix_types.h:
+
+/usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
+
+/usr/include/linux/swab.h:
+
+/usr/include/x86_64-linux-gnu/asm/swab.h:
+
+../../NAS/EURECOM-NAS/src/emm/msg/emm_cause.h:
+
+../../NAS/EURECOM-NAS/src/emm/emm_proc.h:
+
+../../NAS/EURECOM-NAS/src/emm/EmmCommon.h:
+
+../../NAS/EURECOM-NAS/src/emm/emmData.h:
+
+../../NAS/EURECOM-NAS/src/include/networkDef.h:
+
+../../NAS/EURECOM-NAS/src/include/securityDef.h:
+
+../../NAS/EURECOM-NAS/src/util/nas_timer.h:
+
+../../NAS/EURECOM-NAS/src/esm/esmData.h:
+
+../../NAS/EURECOM-NAS/src/ies/EpsBearerIdentity.h:
+
+../../NAS/EURECOM-NAS/src/api/mme/mme_api.h:
+
+../../UTILS/mme_config.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/sched.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/setjmp.h:
+
+../../UTILS/mme_default_values.h:
+
+../../UTILS/tree.h:
+
+../../NAS/EURECOM-NAS/src/emm/sap/emm_fsm.h:
+
+../../NAS/EURECOM-NAS/src/emm/sap/emm_regDef.h:
+
+/usr/include/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string2.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:

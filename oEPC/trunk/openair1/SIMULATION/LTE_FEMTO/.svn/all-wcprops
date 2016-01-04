@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_FEMTO
+END
+v01_simple_femtosim.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_FEMTO/v01_simple_femtosim.c
+END
+plots_rho.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2286/trunk/openair1/SIMULATION/LTE_FEMTO/plots_rho.m
+END
+femtosim.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_FEMTO/femtosim.c
+END
+plots_est.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2287/trunk/openair1/SIMULATION/LTE_FEMTO/plots_est.m
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/LTE_FEMTO/COPYING
+END
+plots_comp.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2287/trunk/openair1/SIMULATION/LTE_FEMTO/plots_comp.m
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/2065/trunk/openair1/SIMULATION/LTE_FEMTO/readme.txt
+END
+plots_ext.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2279/trunk/openair1/SIMULATION/LTE_FEMTO/plots_ext.m
+END
+femtoUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_FEMTO/femtoUtils.c
+END
+plot_bler.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2441/trunk/openair1/SIMULATION/LTE_FEMTO/plot_bler.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_FEMTO/Makefile
+END
+femtoUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_FEMTO/femtoUtils.h
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2083/trunk/openair1/SIMULATION/LTE_FEMTO/Doxyfile
+END
+plots_all.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/3782/trunk/openair1/SIMULATION/LTE_FEMTO/plots_all.m
+END
+header.tex
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/2083/trunk/openair1/SIMULATION/LTE_FEMTO/header.tex
+END
+Tester.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_FEMTO/Tester.c
+END
+plots_exts.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2279/trunk/openair1/SIMULATION/LTE_FEMTO/plots_exts.m
+END

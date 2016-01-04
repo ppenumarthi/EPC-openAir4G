@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6160/trunk/openair-cn/OPENAIRHSS/conf
+END
+hss.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5377/trunk/openair-cn/OPENAIRHSS/conf/hss.conf
+END
+hss_fd.local.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/6129/trunk/openair-cn/OPENAIRHSS/conf/hss_fd.local.conf
+END
+hss.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/conf/hss.conf.in
+END
+make_certs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/6160/trunk/openair-cn/OPENAIRHSS/conf/make_certs.sh
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5535/trunk/openair-cn/OPENAIRHSS/conf/COPYING
+END
+hss.local.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6129/trunk/openair-cn/OPENAIRHSS/conf/hss.local.conf
+END
+hss_fd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5946/trunk/openair-cn/OPENAIRHSS/conf/hss_fd.conf
+END

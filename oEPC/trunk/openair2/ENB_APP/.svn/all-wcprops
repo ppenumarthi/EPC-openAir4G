@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/openair4G/!svn/ver/6240/trunk/openair2/ENB_APP
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5740/trunk/openair2/ENB_APP/Makefile.inc
+END
+enb_app.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5937/trunk/openair2/ENB_APP/enb_app.c
+END
+enb_app.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5714/trunk/openair2/ENB_APP/enb_app.h
+END
+enb_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6240/trunk/openair2/ENB_APP/enb_config.c
+END
+enb_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6144/trunk/openair2/ENB_APP/enb_config.h
+END

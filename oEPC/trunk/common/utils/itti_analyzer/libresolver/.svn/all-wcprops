@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5717/trunk/common/utils/itti_analyzer/libresolver
+END
+resolvers.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5717/trunk/common/utils/itti_analyzer/libresolver/resolvers.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5568/trunk/common/utils/itti_analyzer/libresolver/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/4265/trunk/common/utils/itti_analyzer/libresolver/Makefile.am
+END
+resolvers.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5717/trunk/common/utils/itti_analyzer/libresolver/resolvers.h
+END
+locate_root.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5717/trunk/common/utils/itti_analyzer/libresolver/locate_root.c
+END
+locate_root.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5717/trunk/common/utils/itti_analyzer/libresolver/locate_root.h
+END

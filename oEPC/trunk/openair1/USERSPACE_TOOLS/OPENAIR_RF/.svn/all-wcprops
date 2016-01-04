@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6198/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF
+END
+txgains.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/txgains.sh
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5711/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/COPYING
+END
+fix_fft2.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/fix_fft2.c
+END
+affich.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/affich.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/6198/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/Makefile
+END
+openair_generate_ofdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/openair_generate_ofdm.c
+END
+fft_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/fft_test.c
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/load.c
+END
+load_calibration_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/load_calibration_data.c
+END
+test_rx.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/test_rx.m
+END
+openair_rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OPENAIR_RF/openair_rf.c
+END

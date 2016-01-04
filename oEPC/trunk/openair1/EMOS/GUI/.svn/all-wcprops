@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6198/trunk/openair1/EMOS/GUI
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/ltmain.sh
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/config.h.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/INSTALL
+END
+Makefile.cvs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/Makefile.cvs
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5709/trunk/openair1/EMOS/GUI/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/NEWS
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/install-sh
+END
+emos_gui.kdevelop
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/emos_gui.kdevelop
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/Makefile.in
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/Doxyfile
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/depcomp
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/GUI/config.guess
+END

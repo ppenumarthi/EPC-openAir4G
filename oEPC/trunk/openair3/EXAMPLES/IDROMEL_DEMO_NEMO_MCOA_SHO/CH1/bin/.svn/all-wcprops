@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/CH1/bin
+END
+radioconfig_3G.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/CH1/bin/radioconfig_3G.sh
+END
+start_ch1_user
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/CH1/bin/start_ch1_user
+END
+waitfortime
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/CH1/bin/waitfortime
+END
+log3G.log
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/CH1/bin/log3G.log
+END
+params.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/CH1/bin/params.sh
+END
+initAR.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/CH1/bin/initAR.sh
+END

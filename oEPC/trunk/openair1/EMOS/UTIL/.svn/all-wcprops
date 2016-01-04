@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/5713/trunk/openair1/EMOS/UTIL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5709/trunk/openair1/EMOS/UTIL/COPYING
+END
+split_emos_files.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5713/trunk/openair1/EMOS/UTIL/split_emos_files.c
+END

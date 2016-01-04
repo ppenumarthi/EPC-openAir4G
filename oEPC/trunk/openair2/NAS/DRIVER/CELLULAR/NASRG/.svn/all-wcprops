@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6090/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG
+END
+nasrg_ascontrol.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_ascontrol.c
+END
+nasrg_classifier.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_classifier.c
+END
+nasrg_netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_netlink.c
+END
+nasrg_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_common.c
+END
+nasrg_iocontrol.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_iocontrol.c
+END
+nasrg_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_proto.h
+END
+nasrg_sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/3691/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_sap.h
+END
+nasrg_iocontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_iocontrol.h
+END
+nasrg_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_tool.c
+END
+nasrg_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_variables.h
+END
+nasrg_constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/3986/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_constant.h
+END
+nasrg_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/6072/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/nasrg_device.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6090/trunk/openair2/NAS/DRIVER/CELLULAR/NASRG/Makefile
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6327/trunk/openair2/LAYER2/PDCP_v10.1.0
+END
+pdcp_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_util.c
+END
+pdcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/PDCP_v10.1.0/COPYING
+END
+pdcp_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_util.h
+END
+pdcp_fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/6327/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_fifo.c
+END
+pdcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp.h
+END
+pdcp_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_primitives.c
+END
+pdcp_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_proto_extern.h
+END
+pdcp_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_primitives.h
+END
+pdcp_sequence_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/6142/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_sequence_manager.c
+END
+pdcp_netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_netlink.c
+END
+pdcp_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_thread.c
+END
+pdcp_sequence_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_sequence_manager.h
+END
+pdcp_security.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_security.c
+END
+pdcp_control_primitives_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_control_primitives_proto_extern.h
+END
+pdcp_control_primitive.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/PDCP_v10.1.0/pdcp_control_primitive.c
+END

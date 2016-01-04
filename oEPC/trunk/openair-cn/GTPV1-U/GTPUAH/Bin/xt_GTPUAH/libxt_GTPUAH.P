@@ -1,0 +1,3 @@
+/home/phanik/oEPC/trunk/openair-cn/GTPV1-U/GTPUAH/Bin/xt_GTPUAH/libxt_GTPUAH.o: \
+ libxt_GTPUAH.c xt_GTPUAH.h
+ libxt_GTPUAH.c xt_GTPUAH.h :

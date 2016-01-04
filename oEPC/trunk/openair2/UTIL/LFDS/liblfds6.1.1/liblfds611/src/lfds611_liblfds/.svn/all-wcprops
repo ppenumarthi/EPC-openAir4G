@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds
+END
+lfds611_liblfds_abstraction_test_helpers.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_abstraction_test_helpers.c
+END
+lfds611_liblfds_aligned_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_aligned_malloc.c
+END
+lfds611_liblfds_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_readme.txt
+END
+lfds611_liblfds_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_internal.h
+END
+lfds611_liblfds_aligned_free.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_aligned_free.c
+END

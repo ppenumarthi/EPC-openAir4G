@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/4267/trunk/openair3/OPENAIRMME/S1AP
+END
+s1ap_encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2780/trunk/openair3/OPENAIRMME/S1AP/s1ap_encoder.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/Makefile.inc
+END
+s1ap_mme_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_mme_encoder.h
+END
+s1ap_mme.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S1AP/s1ap_mme.h
+END
+s1ap_eNB_handlers.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_eNB_handlers.c
+END
+s1ap_ies_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/2780/trunk/openair3/OPENAIRMME/S1AP/s1ap_ies_defs.h
+END
+s1ap_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_common.c
+END
+s1ap_eNB_handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_eNB_handlers.h
+END
+s1ap_eNB_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_eNB_decoder.c
+END
+s1ap_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_common.h
+END
+s1ap_eNB_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_eNB_decoder.h
+END
+s1ap_mme_handlers.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/4267/trunk/openair3/OPENAIRMME/S1AP/s1ap_mme_handlers.c
+END
+s1ap_eNB_encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S1AP/s1ap_eNB_encoder.c
+END
+s1ap_mme_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_mme_decoder.c
+END
+s1ap_mme_handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S1AP/s1ap_mme_handlers.h
+END
+s1ap_eNB.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_eNB.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/S1AP/Makefile.am
+END
+s1ap_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2780/trunk/openair3/OPENAIRMME/S1AP/s1ap_decoder.c
+END
+s1ap_eNB_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S1AP/s1ap_eNB_encoder.h
+END
+s1ap_mme_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_mme_decoder.h
+END
+s1ap_eNB.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/s1ap_eNB.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/S1AP/Makefile.in
+END
+s1ap_mme_encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/4267/trunk/openair3/OPENAIRMME/S1AP/s1ap_mme_encoder.c
+END
+s1ap_mme.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4267/trunk/openair3/OPENAIRMME/S1AP/s1ap_mme.c
+END

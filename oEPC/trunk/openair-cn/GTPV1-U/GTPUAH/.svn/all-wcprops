@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6321/trunk/openair-cn/GTPV1-U/GTPUAH
+END
+xt_GTPUAH.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6294/trunk/openair-cn/GTPV1-U/GTPUAH/xt_GTPUAH.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPUAH/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPUAH/COPYING
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPUAH/RELEASE_NOTES
+END
+xt_GTPUAH.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6275/trunk/openair-cn/GTPV1-U/GTPUAH/xt_GTPUAH.h
+END
+libxt_GTPUAH.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPUAH/libxt_GTPUAH.c
+END
+cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPUAH/cmd.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6321/trunk/openair-cn/GTPV1-U/GTPUAH/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPUAH/README
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/CLI
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/CLI/COPYING
+END
+cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/CLI/cli.c
+END
+cli_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/CLI/cli_cmd.c
+END
+cli_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/CLI/cli_if.h
+END
+cli.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/CLI/cli.h
+END
+cli_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/CLI/cli_server.c
+END

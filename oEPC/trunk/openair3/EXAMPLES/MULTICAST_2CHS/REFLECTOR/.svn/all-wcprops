@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR
+END
+reflector-forwarding-v4.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/reflector-forwarding-v4.c
+END
+config_ch1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/config_ch1
+END
+config_mn1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/config_mn1
+END
+config_ch2
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/config_ch2
+END
+config_mn2
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/config_mn2
+END
+config_mr1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/config_mr1
+END
+config_mr2
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/config_mr2
+END
+reflector
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/reflector
+END
+config_mr3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/config_mr3
+END
+reflector_launch.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/MULTICAST_2CHS/REFLECTOR/reflector_launch.pl
+END

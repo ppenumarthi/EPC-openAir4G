@@ -1,0 +1,2 @@
+EmmDeregisteredNoImsi.lo: \
+ ../../NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredNoImsi.c

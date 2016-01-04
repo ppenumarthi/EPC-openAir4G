@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/openair4G/!svn/ver/6262/trunk/openair-cn/UDP
+END
+udp_eNB_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6262/trunk/openair-cn/UDP/udp_eNB_task.c
+END
+udp_primitives_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5552/trunk/openair-cn/UDP/udp_primitives_server.h
+END
+Makefile.eNB
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5565/trunk/openair-cn/UDP/Makefile.eNB
+END
+udp_eNB_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/UDP/udp_eNB_task.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5540/trunk/openair-cn/UDP/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5565/trunk/openair-cn/UDP/Makefile.am
+END
+udp_primitives_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6056/trunk/openair-cn/UDP/udp_primitives_server.c
+END

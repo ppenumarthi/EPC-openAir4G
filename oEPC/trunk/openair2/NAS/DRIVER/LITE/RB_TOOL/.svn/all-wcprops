@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/NAS/DRIVER/LITE/RB_TOOL
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2615/trunk/openair2/NAS/DRIVER/LITE/RB_TOOL/Makefile
+END
+rb_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5714/trunk/openair2/NAS/DRIVER/LITE/RB_TOOL/rb_tool.c
+END

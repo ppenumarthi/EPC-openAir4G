@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/ue2/mih_user/lte_test_user
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/ue2/mih_user/lte_test_user/Jamfile
+END
+ue2_user.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/ue2/mih_user/lte_test_user/ue2_user.cpp
+END
+ue2_user.conf
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/ue2/mih_user/lte_test_user/ue2_user.conf
+END

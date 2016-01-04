@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/4146/trunk/targets/SIMU/EXAMPLES/VIRT_EMUL_1eNB_OAI_LITE
+END
+start_one_eNB_multi_UE_nas
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/4146/trunk/targets/SIMU/EXAMPLES/VIRT_EMUL_1eNB_OAI_LITE/start_one_eNB_multi_UE_nas
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/3010/trunk/targets/SIMU/EXAMPLES/VIRT_EMUL_1eNB_OAI_LITE/Makefile
+END

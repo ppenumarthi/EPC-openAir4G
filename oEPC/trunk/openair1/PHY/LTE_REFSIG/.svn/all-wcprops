@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG
+END
+gen_mod_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/PHY/LTE_REFSIG/gen_mod_table.m
+END
+lte_gold.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/lte_gold.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/1123/trunk/openair1/PHY/LTE_REFSIG/README.txt
+END
+mod_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/mod_table.h
+END
+lte_dl_cell_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/lte_dl_cell_spec.c
+END
+primary_synch.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/primary_synch.h
+END
+lte_gold_mbsfn.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/lte_gold_mbsfn.c
+END
+lte_ul.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/1123/trunk/openair1/PHY/LTE_REFSIG/lte_ul.m
+END
+lte_ul_ref.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/lte_ul_ref.c
+END
+primary_synch.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/3850/trunk/openair1/PHY/LTE_REFSIG/primary_synch.m
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5710/trunk/openair1/PHY/LTE_REFSIG/COPYING
+END
+lte_dl_uespec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/lte_dl_uespec.c
+END
+lte_dl_mbsfn.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_REFSIG/lte_dl_mbsfn.c
+END

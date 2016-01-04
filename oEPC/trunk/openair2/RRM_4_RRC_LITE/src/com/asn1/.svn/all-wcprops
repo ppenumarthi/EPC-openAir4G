@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/4658/trunk/openair2/RRM_4_RRC_LITE/src/com/asn1
+END
+rrc-rrm.asn
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/1196/trunk/openair2/RRM_4_RRC_LITE/src/com/asn1/rrc-rrm.asn
+END
+Makefile.am.sample
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/4658/trunk/openair2/RRM_4_RRC_LITE/src/com/asn1/Makefile.am.sample
+END

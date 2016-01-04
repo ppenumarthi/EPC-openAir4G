@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback
+END
+quantize_H_codebook.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/quantize_H_codebook.m
+END
+codebookRVQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/codebookRVQ.m
+END
+MISO_RVQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/MISO_RVQ.m
+END
+MISO_CVQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/MISO_CVQ.m
+END
+feedback_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/feedback_test.m
+END
+est_trans_prob.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/est_trans_prob.m
+END
+generate_corr_codebook.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/generate_corr_codebook.m
+END
+meas_feedback_rate.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/meas_feedback_rate.m
+END
+quantize_H.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/quantize_H.m
+END
+MISO_MMSE.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/MISO_MMSE.m
+END
+get_codebook_idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/get_codebook_idx.m
+END
+codebook_corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/lim_feedback/codebook_corr.m
+END

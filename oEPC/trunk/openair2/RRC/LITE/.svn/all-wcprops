@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/LITE
+END
+rrc_UE_ral.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5800/trunk/openair2/RRC/LITE/rrc_UE_ral.c
+END
+rrc_eNB_ral.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_eNB_ral.h
+END
+mesh_top.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/1123/trunk/openair2/RRC/LITE/mesh_top.c
+END
+rrc_UE.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/LITE/rrc_UE.c
+END
+rrc_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_types.h
+END
+rrc_eNB_GTPV1U.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_eNB_GTPV1U.c
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/vars.h
+END
+rrc_UE_ral.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_UE_ral.h
+END
+rrc_eNB_GTPV1U.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_eNB_GTPV1U.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/6302/trunk/openair2/RRC/LITE/defs.h
+END
+rrc_rrm_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_rrm_interface.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5578/trunk/openair2/RRC/LITE/COPYING
+END
+rrc_rrm_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_rrm_interface.h
+END
+rrc_2_rrm_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_2_rrm_msg.c
+END
+L2_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/LITE/L2_interface.c
+END
+rrm_2_rrc_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrm_2_rrc_msg.c
+END
+rrc_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/LITE/rrc_common.c
+END
+rrc_eNB_S1AP.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/LITE/rrc_eNB_S1AP.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/utils.c
+END
+rrc_eNB_S1AP.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6315/trunk/openair2/RRC/LITE/rrc_eNB_S1AP.h
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6280/trunk/openair2/RRC/LITE/proto.h
+END
+rrc_eNB_ral.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_eNB_ral.c
+END
+rrc_eNB.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/LITE/rrc_eNB.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/extern.h
+END
+rrc_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/LITE/rrc_config.c
+END

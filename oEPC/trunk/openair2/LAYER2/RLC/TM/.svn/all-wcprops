@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM
+END
+rlc_tm_control_primitives_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_control_primitives_proto_extern.h
+END
+rlc_tm_control_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_control_primitives.c
+END
+rlc_tm_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_structs.h
+END
+rlc_tm_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_proto_extern.h
+END
+rlc_tm_segment_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_segment_proto_extern.h
+END
+rlc_tm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm.c
+END
+rlc_tm_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_constants.h
+END
+rlc_tm_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_entity.h
+END
+rlc_tm_fsm_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_fsm_proto_extern.h
+END
+rlc_tm_segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_segment.c
+END
+rlc_tm_reassembly_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_reassembly_proto_extern.h
+END
+rlc_tm_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_fsm.c
+END
+rlc_tm_reassembly.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM/rlc_tm_reassembly.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/RLC/TM/COPYING
+END

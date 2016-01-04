@@ -1,0 +1,685 @@
+<?xml version="1.0"?>
+<GCC_XML cvs_revision="1.135">
+  <Namespace id="_1" name="::" members="_3 _4 _5 _6 _8 _9 _10 _11 _12 _13 _14 _15 _16 _17 _18 _19 _20 _21 _22 _23 _24 _25 _26 _28 _29 _30 _31 _33 _34 _35 _36 _37 _38 _39 _40 _41 _42 _43 _44 _45 _46 _47 _48 _49 _50 _52 _53 _54 _55 _57 _58 _59 _60 _61 _62 _63 _65 _66 _67 _68 _69 _70 _71 _72 _74 _75 _76 _78 _79 _81 _82 _83 _84 _85 _86 _87 _88 _89 _90 _91 _92 _93 _94 _95 _96 _97 _99 _101 _102 _103 _104 _105 _106 _107 _108 _109 _110 _77 _111 _113 _114 _115 _116 _117 _118 _119 _120 _121 _122 _123 _124 _125 _127 _128 _2 _129 _80 _27 _126 _100 _130 _131 _132 _133 _134 _135 _136 _137 _138 _139 _140 _141 _142 _143 _144 _145 _146 _147 _148 _149 _150 _151 _152 _153 _155 _156 _157 _158 _159 _160 _161 _162 _163 _164 _165 _166 _167 _168 _169 _170 _171 _172 _173 _174 _175 _176 _177 _56 _178 _179 _180 _181 _182 _183 _184 _185 _186 _187 _188 _189 _190 _191 _192 _193 _194 _195 _196 " mangled="_Z2::" demangled="::"/>
+  <Namespace id="_2" name="std" context="_1" members="" mangled="_Z3std" demangled="std"/>
+  <Function id="_3" name="__builtin_nans" returns="_197" context="_1" location="f0:21" file="f0" line="21" extern="1" attributes="nothrow const nonnull">
+    <Argument name="str" type="_198" location="f0:21" file="f0" line="21"/>
+  </Function>
+  <Function id="_4" name="__builtin_acosf" returns="_199" context="_1" mangled="acosf" location="f0:25" file="f0" line="25" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:25" file="f0" line="25"/>
+  </Function>
+  <Function id="_5" name="__builtin_acosl" returns="_200" context="_1" mangled="acosl" location="f0:26" file="f0" line="26" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:26" file="f0" line="26"/>
+  </Function>
+  <Function id="_6" name="__builtin_va_arg_pack" returns="_201" context="_1" location="f0:147" file="f0" line="147" extern="1">
+    <Ellipsis/>
+  </Function>
+  <FundamentalType id="_7" name="long unsigned int" size="64" align="64"/>
+  <Typedef id="_8" name="uint_least64_t" type="_7" context="_1" location="f1:81" file="f1" line="81"/>
+  <Function id="_9" name="__builtin_log10" returns="_197" context="_1" mangled="log10" location="f0:63" file="f0" line="63" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:63" file="f0" line="63"/>
+  </Function>
+  <Function id="_10" name="__builtin_popcountll" returns="_64" context="_1" location="f0:101" file="f0" line="101" extern="1" attributes="nothrow const">
+    <Argument type="_202" location="f0:101" file="f0" line="101"/>
+  </Function>
+  <Function id="_11" name="__builtin_clogf" returns="_203" context="_1" mangled="clogf" location="f0:111" file="f0" line="111" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:111" file="f0" line="111"/>
+  </Function>
+  <Function id="_12" name="__builtin_clogl" returns="_204" context="_1" mangled="clogl" location="f0:113" file="f0" line="113" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:113" file="f0" line="113"/>
+  </Function>
+  <Function id="_13" name="__builtin_cexpf" returns="_203" context="_1" mangled="cexpf" location="f0:108" file="f0" line="108" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:108" file="f0" line="108"/>
+  </Function>
+  <Function id="_14" name="__builtin_cexpl" returns="_204" context="_1" mangled="cexpl" location="f0:110" file="f0" line="110" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:110" file="f0" line="110"/>
+  </Function>
+  <Function id="_15" name="__builtin_isless" returns="_201" context="_1" location="f0:141" file="f0" line="141" extern="1" attributes="nothrow const">
+    <Ellipsis/>
+  </Function>
+  <Function id="_16" name="__builtin_isnormal" returns="_201" context="_1" location="f0:145" file="f0" line="145" extern="1">
+    <Ellipsis/>
+  </Function>
+  <Function id="_17" name="__builtin_asinf" returns="_199" context="_1" mangled="asinf" location="f0:28" file="f0" line="28" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:28" file="f0" line="28"/>
+  </Function>
+  <Function id="_18" name="__builtin_asinl" returns="_200" context="_1" mangled="asinl" location="f0:29" file="f0" line="29" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:29" file="f0" line="29"/>
+  </Function>
+  <Function id="_19" name="__builtin_popcount" returns="_64" context="_1" location="f0:99" file="f0" line="99" extern="1" attributes="nothrow const">
+    <Argument type="_64" location="f0:99" file="f0" line="99"/>
+  </Function>
+  <Function id="_20" name="__builtin_nansf" returns="_199" context="_1" location="f0:22" file="f0" line="22" extern="1" attributes="nothrow const nonnull">
+    <Argument name="str" type="_198" location="f0:22" file="f0" line="22"/>
+  </Function>
+  <Function id="_21" name="__builtin_nansl" returns="_200" context="_1" location="f0:23" file="f0" line="23" extern="1" attributes="nothrow const nonnull">
+    <Argument name="str" type="_198" location="f0:23" file="f0" line="23"/>
+  </Function>
+  <Function id="_22" name="__builtin_floorf" returns="_199" context="_1" mangled="floorf" location="f0:52" file="f0" line="52" extern="1" attributes="nothrow const">
+    <Argument type="_199" location="f0:52" file="f0" line="52"/>
+  </Function>
+  <Function id="_23" name="__builtin_floorl" returns="_200" context="_1" mangled="floorl" location="f0:53" file="f0" line="53" extern="1" attributes="nothrow const">
+    <Argument type="_200" location="f0:53" file="f0" line="53"/>
+  </Function>
+  <Function id="_24" name="__builtin_ctanf" returns="_203" context="_1" mangled="ctanf" location="f0:123" file="f0" line="123" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:123" file="f0" line="123"/>
+  </Function>
+  <Function id="_25" name="__builtin_ctanh" returns="_205" context="_1" mangled="ctanh" location="f0:127" file="f0" line="127" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:127" file="f0" line="127"/>
+  </Function>
+  <Function id="_26" name="__builtin_ctanl" returns="_204" context="_1" mangled="ctanl" location="f0:125" file="f0" line="125" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:125" file="f0" line="125"/>
+  </Function>
+  <Enumeration id="_27" name="thread_id_t" context="_1" location="f2:88" file="f2" line="88" size="32" align="32">
+    <EnumValue name="THREAD_NULL" init="0"/>
+    <EnumValue name="THREAD_TASK_TIMER" init="1"/>
+    <EnumValue name="THREAD_MAX" init="2"/>
+    <EnumValue name="THREAD_FIRST" init="1"/>
+  </Enumeration>
+  <Function id="_28" name="__builtin_carg" returns="_197" context="_1" mangled="carg" location="f0:94" file="f0" line="94" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:94" file="f0" line="94"/>
+  </Function>
+  <Function id="_29" name="__builtin_clog" returns="_205" context="_1" mangled="clog" location="f0:112" file="f0" line="112" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:112" file="f0" line="112"/>
+  </Function>
+  <Function id="_30" name="__builtin_logf" returns="_199" context="_1" mangled="logf" location="f0:66" file="f0" line="66" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:66" file="f0" line="66"/>
+  </Function>
+  <Function id="_31" name="__builtin_logl" returns="_200" context="_1" mangled="logl" location="f0:67" file="f0" line="67" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:67" file="f0" line="67"/>
+  </Function>
+  <FundamentalType id="_32" name="long int" size="64" align="64"/>
+  <Typedef id="_33" name="int_fast64_t" type="_32" context="_1" location="f1:95" file="f1" line="95"/>
+  <Function id="_34" name="__builtin_fabs" returns="_197" context="_1" mangled="fabs" location="f0:48" file="f0" line="48" extern="1" attributes="nothrow const">
+    <Argument type="_197" location="f0:48" file="f0" line="48"/>
+  </Function>
+  <Function id="_35" name="__builtin_expf" returns="_199" context="_1" mangled="expf" location="f0:46" file="f0" line="46" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:46" file="f0" line="46"/>
+  </Function>
+  <Function id="_36" name="__builtin_expl" returns="_200" context="_1" mangled="expl" location="f0:47" file="f0" line="47" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:47" file="f0" line="47"/>
+  </Function>
+  <Function id="_37" name="__builtin_isunordered" returns="_201" context="_1" location="f0:146" file="f0" line="146" extern="1" attributes="nothrow const">
+    <Ellipsis/>
+  </Function>
+  <Typedef id="_38" name="int_fast32_t" type="_32" context="_1" location="f1:94" file="f1" line="94"/>
+  <Function id="_39" name="__builtin_csqrt" returns="_205" context="_1" mangled="csqrt" location="f0:121" file="f0" line="121" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:121" file="f0" line="121"/>
+  </Function>
+  <Function id="_40" name="__builtin_sin" returns="_197" context="_1" mangled="sin" location="f0:75" file="f0" line="75" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_197" location="f0:75" file="f0" line="75"/>
+  </Function>
+  <Function id="_41" name="__builtin_ldexpf" returns="_199" context="_1" mangled="ldexpf" location="f0:60" file="f0" line="60" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:60" file="f0" line="60"/>
+    <Argument type="_64" location="f0:60" file="f0" line="60"/>
+  </Function>
+  <Function id="_42" name="__builtin_ldexpl" returns="_200" context="_1" mangled="ldexpl" location="f0:61" file="f0" line="61" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:61" file="f0" line="61"/>
+    <Argument type="_64" location="f0:61" file="f0" line="61"/>
+  </Function>
+  <Function id="_43" name="__builtin_isinf_sign" returns="_201" context="_1" location="f0:140" file="f0" line="140" extern="1">
+    <Ellipsis/>
+  </Function>
+  <Function id="_44" name="__builtin_islessequal" returns="_201" context="_1" location="f0:142" file="f0" line="142" extern="1" attributes="nothrow const">
+    <Ellipsis/>
+  </Function>
+  <Function id="_45" name="__builtin_tanf" returns="_199" context="_1" mangled="tanf" location="f0:85" file="f0" line="85" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_199" location="f0:85" file="f0" line="85"/>
+  </Function>
+  <Function id="_46" name="__builtin_tanh" returns="_197" context="_1" mangled="tanh" location="f0:86" file="f0" line="86" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_197" location="f0:86" file="f0" line="86"/>
+  </Function>
+  <Function id="_47" name="__builtin_tanl" returns="_200" context="_1" mangled="tanl" location="f0:89" file="f0" line="89" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_200" location="f0:89" file="f0" line="89"/>
+  </Function>
+  <Function id="_48" name="__builtin_ceil" returns="_197" context="_1" mangled="ceil" location="f0:36" file="f0" line="36" extern="1" attributes="nothrow const">
+    <Argument type="_197" location="f0:36" file="f0" line="36"/>
+  </Function>
+  <Function id="_49" name="__builtin_fmodf" returns="_199" context="_1" mangled="fmodf" location="f0:54" file="f0" line="54" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:54" file="f0" line="54"/>
+    <Argument type="_199" location="f0:54" file="f0" line="54"/>
+  </Function>
+  <Function id="_50" name="__builtin_fmodl" returns="_200" context="_1" mangled="fmodl" location="f0:55" file="f0" line="55" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:55" file="f0" line="55"/>
+    <Argument type="_200" location="f0:55" file="f0" line="55"/>
+  </Function>
+  <FundamentalType id="_51" name="signed char" size="8" align="8"/>
+  <Typedef id="_52" name="int_least8_t" type="_51" context="_1" location="f1:66" file="f1" line="66"/>
+  <Function id="_53" name="__builtin_return" returns="_206" context="_1" location="f0:13" file="f0" line="13" extern="1" attributes="nothrow noreturn">
+    <Argument name="RESULT" type="_207" location="f0:13" file="f0" line="13"/>
+  </Function>
+  <Struct id="_54" name="timer_has_expired_t" context="_1" mangled="19timer_has_expired_t" demangled="timer_has_expired_t" location="f3:41" file="f3" line="41" size="128" align="64" members="_208 _209 _210 _211 _212 _213 " bases=""/>
+  <Enumeration id="_55" name="MessagesIds" context="_1" location="f2:73" file="f2" line="73" size="32" align="32">
+    <EnumValue name="INITIALIZE_MESSAGE" init="0"/>
+    <EnumValue name="ACTIVATE_MESSAGE" init="1"/>
+    <EnumValue name="DEACTIVATE_MESSAGE" init="2"/>
+    <EnumValue name="TERMINATE_MESSAGE" init="3"/>
+    <EnumValue name="MESSAGE_TEST" init="4"/>
+    <EnumValue name="ERROR_LOG" init="5"/>
+    <EnumValue name="WARNING_LOG" init="6"/>
+    <EnumValue name="NOTICE_LOG" init="7"/>
+    <EnumValue name="INFO_LOG" init="8"/>
+    <EnumValue name="DEBUG_LOG" init="9"/>
+    <EnumValue name="GENERIC_LOG" init="10"/>
+    <EnumValue name="TIMER_HAS_EXPIRED" init="11"/>
+    <EnumValue name="MESSAGES_ID_MAX" init="12"/>
+  </Enumeration>
+  <Struct id="_56" name="MessageDef_s" context="_1" mangled="12MessageDef_s" demangled="MessageDef_s" location="f2:150" file="f2" line="150" artificial="1" size="320" align="64" members="_214 _215 _216 _217 _218 _219 " bases=""/>
+  <Typedef id="_57" name="MessageDef" type="_56" context="_1" location="f2:153" file="f2" line="153"/>
+  <Function id="_58" name="__builtin_sqrt" returns="_197" context="_1" mangled="sqrt" location="f0:81" file="f0" line="81" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:81" file="f0" line="81"/>
+  </Function>
+  <Function id="_59" name="__builtin_cpow" returns="_205" context="_1" mangled="cpow" location="f0:130" file="f0" line="130" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:130" file="f0" line="130"/>
+    <Argument type="_205" location="f0:130" file="f0" line="130"/>
+  </Function>
+  <Union id="_60" name="msg_s" context="_1" mangled="5msg_s" demangled="msg_s" location="f2:116" file="f2" line="116" artificial="1" size="128" align="64" members="_220 _221 _222 _223 _224 _225 _226 _227 _228 _229 _230 _231 _232 _233 _234 _235 " bases=""/>
+  <Typedef id="_61" name="msg_t" type="_60" context="_1" location="f2:120" file="f2" line="120"/>
+  <Function id="_62" name="__builtin_coshf" returns="_199" context="_1" mangled="coshf" location="f0:42" file="f0" line="42" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:42" file="f0" line="42"/>
+  </Function>
+  <Function id="_63" name="__builtin_coshl" returns="_200" context="_1" mangled="coshl" location="f0:43" file="f0" line="43" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:43" file="f0" line="43"/>
+  </Function>
+  <FundamentalType id="_64" name="int" size="32" align="32"/>
+  <Typedef id="_65" name="int_least32_t" type="_64" context="_1" location="f1:68" file="f1" line="68"/>
+  <Function id="_66" name="__builtin_cexp" returns="_205" context="_1" mangled="cexp" location="f0:109" file="f0" line="109" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:109" file="f0" line="109"/>
+  </Function>
+  <Function id="_67" name="__builtin_atan2" returns="_197" context="_1" mangled="atan2" location="f0:31" file="f0" line="31" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:31" file="f0" line="31"/>
+    <Argument type="_197" location="f0:31" file="f0" line="31"/>
+  </Function>
+  <Function id="_68" name="__builtin_memchr" returns="_207" context="_1" location="f0:12" file="f0" line="12" extern="1">
+    <Argument type="_236" location="f0:12" file="f0" line="12"/>
+    <Argument type="_64" location="f0:12" file="f0" line="12"/>
+    <Argument type="_98" location="f0:12" file="f0" line="12"/>
+  </Function>
+  <Function id="_69" name="__builtin_atanf" returns="_199" context="_1" mangled="atanf" location="f0:34" file="f0" line="34" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_199" location="f0:34" file="f0" line="34"/>
+  </Function>
+  <Function id="_70" name="__builtin_atanl" returns="_200" context="_1" mangled="atanl" location="f0:35" file="f0" line="35" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_200" location="f0:35" file="f0" line="35"/>
+  </Function>
+  <Function id="_71" name="__builtin_ctan" returns="_205" context="_1" mangled="ctan" location="f0:124" file="f0" line="124" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:124" file="f0" line="124"/>
+  </Function>
+  <Function id="_72" name="__builtin_log" returns="_197" context="_1" mangled="log" location="f0:62" file="f0" line="62" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:62" file="f0" line="62"/>
+  </Function>
+  <FundamentalType id="_73" name="short unsigned int" size="16" align="16"/>
+  <Typedef id="_74" name="MessageHeaderSize" type="_151" context="_1" location="f2:122" file="f2" line="122"/>
+  <Function id="_75" name="__builtin_isfinite" returns="_201" context="_1" location="f0:136" file="f0" line="136" extern="1">
+    <Ellipsis/>
+  </Function>
+  <Function id="_76" name="__builtin_asin" returns="_197" context="_1" mangled="asin" location="f0:27" file="f0" line="27" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:27" file="f0" line="27"/>
+  </Function>
+  <Struct id="_77" name="MessageHeader_s" context="_1" mangled="15MessageHeader_s" demangled="MessageHeader_s" location="f2:134" file="f2" line="134" artificial="1" size="192" align="32" members="_237 _238 _239 _240 _241 _242 _243 _244 _245 _246 " bases=""/>
+  <Typedef id="_78" name="MessageHeader" type="_77" context="_1" location="f2:144" file="f2" line="144"/>
+  <Function id="_79" name="__builtin_frexp" returns="_197" context="_1" mangled="frexp" location="f0:56" file="f0" line="56" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:56" file="f0" line="56"/>
+    <Argument type="_247" location="f0:56" file="f0" line="56"/>
+  </Function>
+  <Struct id="_80" name="itti_signal_header_t" context="_1" mangled="20itti_signal_header_t" demangled="itti_signal_header_t" location="f4:73" file="f4" line="73" size="96" align="8" members="_248 _249 _250 _251 _252 " bases=""/>
+  <Function id="_81" name="__builtin_isgreaterequal" returns="_201" context="_1" location="f0:138" file="f0" line="138" extern="1" attributes="nothrow const">
+    <Ellipsis/>
+  </Function>
+  <Typedef id="_82" name="instance_t" type="_151" context="_1" location="f4:79" file="f4" line="79"/>
+  <Typedef id="_83" name="uint_fast16_t" type="_7" context="_1" location="f1:106" file="f1" line="106"/>
+  <Function id="_84" name="__builtin_log10f" returns="_199" context="_1" mangled="log10f" location="f0:64" file="f0" line="64" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:64" file="f0" line="64"/>
+  </Function>
+  <Function id="_85" name="__builtin_log10l" returns="_200" context="_1" mangled="log10l" location="f0:65" file="f0" line="65" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:65" file="f0" line="65"/>
+  </Function>
+  <Struct id="_86" name="itti_lte_time_s" context="_1" mangled="15itti_lte_time_s" demangled="itti_lte_time_s" location="f2:125" file="f2" line="125" artificial="1" size="64" align="32" members="_253 _254 _255 _256 _257 _258 " bases=""/>
+  <Typedef id="_87" name="itti_lte_time_t" type="_86" context="_1" location="f2:128" file="f2" line="128"/>
+  <Function id="_88" name="__builtin_ctzl" returns="_64" context="_1" location="f0:97" file="f0" line="97" extern="1" attributes="nothrow const">
+    <Argument type="_32" location="f0:97" file="f0" line="97"/>
+  </Function>
+  <Function id="_89" name="__builtin_powif" returns="_199" context="_1" location="f0:73" file="f0" line="73" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_199" location="f0:73" file="f0" line="73"/>
+    <Argument type="_64" location="f0:73" file="f0" line="73"/>
+  </Function>
+  <Function id="_90" name="__builtin_powil" returns="_200" context="_1" location="f0:74" file="f0" line="74" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_200" location="f0:74" file="f0" line="74"/>
+    <Argument type="_64" location="f0:74" file="f0" line="74"/>
+  </Function>
+  <Function id="_91" name="__builtin_modff" returns="_199" context="_1" mangled="modff" location="f0:68" file="f0" line="68" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:68" file="f0" line="68"/>
+    <Argument type="_259" location="f0:68" file="f0" line="68"/>
+  </Function>
+  <Function id="_92" name="__builtin_exp" returns="_197" context="_1" mangled="exp" location="f0:45" file="f0" line="45" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:45" file="f0" line="45"/>
+  </Function>
+  <Function id="_93" name="__builtin_modfl" returns="_200" context="_1" mangled="modfl" location="f0:69" file="f0" line="69" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:69" file="f0" line="69"/>
+    <Argument type="_260" location="f0:69" file="f0" line="69"/>
+  </Function>
+  <Function id="_94" name="__builtin_prefetch" returns="_206" context="_1" location="f0:17" file="f0" line="17" extern="1" attributes="no vops">
+    <Argument name="ADDR" type="_236" location="f0:17" file="f0" line="17"/>
+    <Ellipsis/>
+  </Function>
+  <Function id="_95" name="__builtin_tan" returns="_197" context="_1" mangled="tan" location="f0:84" file="f0" line="84" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_197" location="f0:84" file="f0" line="84"/>
+  </Function>
+  <Function id="_96" name="__builtin_fabsf" returns="_199" context="_1" mangled="fabsf" location="f0:49" file="f0" line="49" extern="1" attributes="nothrow const">
+    <Argument type="_199" location="f0:49" file="f0" line="49"/>
+  </Function>
+  <Function id="_97" name="__builtin_fabsl" returns="_200" context="_1" mangled="fabsl" location="f0:50" file="f0" line="50" extern="1" attributes="nothrow const">
+    <Argument type="_200" location="f0:50" file="f0" line="50"/>
+  </Function>
+  <FundamentalType id="_98" name="unsigned int" size="32" align="32"/>
+  <Typedef id="_99" name="uint32_t" type="_98" context="_1" location="f1:52" file="f1" line="52"/>
+  <Enumeration id="_100" name="task_id_t" context="_1" location="f2:113" file="f2" line="113" size="32" align="32">
+    <EnumValue name="TASK_UNKNOWN" init="0"/>
+    <EnumValue name="TASK_TIMER" init="1"/>
+    <EnumValue name="TASK_MAX" init="2"/>
+    <EnumValue name="TASK_FIRST" init="1"/>
+  </Enumeration>
+  <Typedef id="_101" name="uint_least32_t" type="_98" context="_1" location="f1:79" file="f1" line="79"/>
+  <Function id="_102" name="__builtin_inf" returns="_197" context="_1" location="f0:18" file="f0" line="18" extern="1" attributes="nothrow const"/>
+  <Namespace id="_103" name="__cxxabiv1" context="_1" members="" mangled="_Z10__cxxabiv1" demangled="__cxxabiv1"/>
+  <Struct id="_104" name="IttiMsgText_s" context="_1" mangled="13IttiMsgText_s" demangled="IttiMsgText_s" location="f5:46" file="f5" line="46" artificial="1" size="32" align="32" members="_261 _262 _263 _264 _265 _266 " bases=""/>
+  <Function id="_105" name="__builtin_frame_address" returns="_207" context="_1" location="f0:15" file="f0" line="15" extern="1">
+    <Argument name="LEVEL" type="_98" location="f0:15" file="f0" line="15"/>
+  </Function>
+  <Function id="_106" name="__builtin_cabs" returns="_197" context="_1" mangled="cabs" location="f0:91" file="f0" line="91" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:91" file="f0" line="91"/>
+  </Function>
+  <Function id="_107" name="__builtin_atan2f" returns="_199" context="_1" mangled="atan2f" location="f0:32" file="f0" line="32" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:32" file="f0" line="32"/>
+    <Argument type="_199" location="f0:32" file="f0" line="32"/>
+  </Function>
+  <Function id="_108" name="__builtin_atan2l" returns="_200" context="_1" mangled="atan2l" location="f0:33" file="f0" line="33" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:33" file="f0" line="33"/>
+    <Argument type="_200" location="f0:33" file="f0" line="33"/>
+  </Function>
+  <Typedef id="_109" name="int_fast8_t" type="_51" context="_1" location="f1:91" file="f1" line="91"/>
+  <Function id="_110" name="__builtin_isinf" returns="_201" context="_1" mangled="isinf" location="f0:139" file="f0" line="139" extern="1" attributes="nothrow const">
+    <Ellipsis/>
+  </Function>
+  <Function id="_111" name="__builtin_fpclassify" returns="_201" context="_1" location="f0:135" file="f0" line="135" extern="1">
+    <Ellipsis/>
+  </Function>
+  <FundamentalType id="_112" name="short int" size="16" align="16"/>
+  <Typedef id="_113" name="int16_t" type="_112" context="_1" location="f1:38" file="f1" line="38"/>
+  <Typedef id="_114" name="int_fast16_t" type="_32" context="_1" location="f1:93" file="f1" line="93"/>
+  <Function id="_115" name="__builtin_ccoshf" returns="_203" context="_1" mangled="ccoshf" location="f0:105" file="f0" line="105" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:105" file="f0" line="105"/>
+  </Function>
+  <Function id="_116" name="__builtin_ccoshl" returns="_204" context="_1" mangled="ccoshl" location="f0:107" file="f0" line="107" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:107" file="f0" line="107"/>
+  </Function>
+  <Function id="_117" name="__builtin_atan" returns="_197" context="_1" mangled="atan" location="f0:30" file="f0" line="30" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_197" location="f0:30" file="f0" line="30"/>
+  </Function>
+  <Function id="_118" name="__builtin_sinhf" returns="_199" context="_1" mangled="sinhf" location="f0:78" file="f0" line="78" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:78" file="f0" line="78"/>
+  </Function>
+  <Function id="_119" name="__builtin_sinhl" returns="_200" context="_1" mangled="sinhl" location="f0:79" file="f0" line="79" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:79" file="f0" line="79"/>
+  </Function>
+  <Function id="_120" name="__builtin_sqrtf" returns="_199" context="_1" mangled="sqrtf" location="f0:82" file="f0" line="82" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:82" file="f0" line="82"/>
+  </Function>
+  <Function id="_121" name="__builtin_sqrtl" returns="_200" context="_1" mangled="sqrtl" location="f0:83" file="f0" line="83" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:83" file="f0" line="83"/>
+  </Function>
+  <Function id="_122" name="__builtin_frexpf" returns="_199" context="_1" mangled="frexpf" location="f0:57" file="f0" line="57" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:57" file="f0" line="57"/>
+    <Argument type="_247" location="f0:57" file="f0" line="57"/>
+  </Function>
+  <Function id="_123" name="__builtin_frexpl" returns="_200" context="_1" mangled="frexpl" location="f0:58" file="f0" line="58" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:58" file="f0" line="58"/>
+    <Argument type="_247" location="f0:58" file="f0" line="58"/>
+  </Function>
+  <Function id="_124" name="__builtin_cpowf" returns="_203" context="_1" mangled="cpowf" location="f0:129" file="f0" line="129" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:129" file="f0" line="129"/>
+    <Argument type="_203" location="f0:129" file="f0" line="129"/>
+  </Function>
+  <Function id="_125" name="__builtin_cpowl" returns="_204" context="_1" mangled="cpowl" location="f0:131" file="f0" line="131" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:131" file="f0" line="131"/>
+    <Argument type="_204" location="f0:131" file="f0" line="131"/>
+  </Function>
+  <Enumeration id="_126" name="task_thread_id_t" context="_1" location="f2:98" file="f2" line="98" size="32" align="32">
+    <EnumValue name="TASK_TIMER_THREAD" init="1"/>
+  </Enumeration>
+  <Struct id="_127" name="IttiMsgEmpty_s" context="_1" mangled="14IttiMsgEmpty_s" demangled="IttiMsgEmpty_s" location="f5:42" file="f5" line="42" artificial="1" size="8" align="8" members="_267 _268 _269 _270 " bases=""/>
+  <Typedef id="_128" name="uint_fast64_t" type="_7" context="_1" location="f1:108" file="f1" line="108"/>
+  <Struct id="_129" name="itti_socket_header_t" context="_1" mangled="20itti_socket_header_t" demangled="itti_socket_header_t" location="f4:69" file="f4" line="69" size="64" align="32" members="_271 _272 _273 _274 _275 _276 " bases=""/>
+  <Function id="_130" name="__builtin_tanhf" returns="_199" context="_1" mangled="tanhf" location="f0:87" file="f0" line="87" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_199" location="f0:87" file="f0" line="87"/>
+  </Function>
+  <Function id="_131" name="__builtin_tanhl" returns="_200" context="_1" mangled="tanhl" location="f0:88" file="f0" line="88" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_200" location="f0:88" file="f0" line="88"/>
+  </Function>
+  <Function id="_132" name="__builtin_cabsf" returns="_199" context="_1" mangled="cabsf" location="f0:90" file="f0" line="90" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:90" file="f0" line="90"/>
+  </Function>
+  <Function id="_133" name="__builtin_cabsl" returns="_200" context="_1" mangled="cabsl" location="f0:92" file="f0" line="92" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:92" file="f0" line="92"/>
+  </Function>
+  <Typedef id="_134" name="int_least16_t" type="_112" context="_1" location="f1:67" file="f1" line="67"/>
+  <Enumeration id="_135" name="itti_message_types_e" context="_1" location="f4:45" file="f4" line="45" artificial="1" size="32" align="32">
+    <EnumValue name="ITTI_DUMP_XML_DEFINITION" init="1685604618"/>
+    <EnumValue name="ITTI_DUMP_XML_DEFINITION_END" init="172251241"/>
+    <EnumValue name="ITTI_DUMP_MESSAGE_TYPE" init="1936541962"/>
+    <EnumValue name="ITTI_DUMP_MESSAGE_TYPE_END" init="173231465"/>
+    <EnumValue name="ITTI_STATISTIC_MESSAGE_TYPE" init="1953712394"/>
+    <EnumValue name="ITTI_STATISTIC_MESSAGE_TYPE_END" init="173298537"/>
+    <EnumValue name="ITTI_DUMP_EXIT_SIGNAL" init="1414092901"/>
+  </Enumeration>
+  <Function id="_136" name="__builtin_powf" returns="_199" context="_1" mangled="powf" location="f0:70" file="f0" line="70" extern="1" attributes="nothrow">
+    <Argument type="_199" location="f0:70" file="f0" line="70"/>
+    <Argument type="_199" location="f0:70" file="f0" line="70"/>
+  </Function>
+  <Function id="_137" name="__builtin_powi" returns="_197" context="_1" location="f0:72" file="f0" line="72" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_197" location="f0:72" file="f0" line="72"/>
+    <Argument type="_64" location="f0:72" file="f0" line="72"/>
+  </Function>
+  <Function id="_138" name="__builtin_powl" returns="_200" context="_1" mangled="powl" location="f0:71" file="f0" line="71" extern="1" attributes="nothrow">
+    <Argument type="_200" location="f0:71" file="f0" line="71"/>
+    <Argument type="_200" location="f0:71" file="f0" line="71"/>
+  </Function>
+  <Typedef id="_139" name="uintptr_t" type="_7" context="_1" location="f1:123" file="f1" line="123"/>
+  <Typedef id="_140" name="IttiMsgText" type="_104" context="_1" location="f5:49" file="f5" line="49"/>
+  <Function id="_141" name="__builtin_ccos" returns="_205" context="_1" mangled="ccos" location="f0:103" file="f0" line="103" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:103" file="f0" line="103"/>
+  </Function>
+  <Typedef id="_142" name="intptr_t" type="_32" context="_1" location="f1:120" file="f1" line="120"/>
+  <Function id="_143" name="__builtin_expect" returns="_32" context="_1" location="f0:16" file="f0" line="16" extern="1" attributes="nothrow const">
+    <Argument name="EXP" type="_32" location="f0:16" file="f0" line="16"/>
+    <Argument name="C" type="_32" location="f0:16" file="f0" line="16"/>
+  </Function>
+  <Function id="_144" name="__builtin_popcountl" returns="_64" context="_1" location="f0:100" file="f0" line="100" extern="1" attributes="nothrow const">
+    <Argument type="_32" location="f0:100" file="f0" line="100"/>
+  </Function>
+  <Typedef id="_145" name="uintmax_t" type="_7" context="_1" location="f1:136" file="f1" line="136"/>
+  <Typedef id="_146" name="itti_message_types_t" type="_99" context="_1" location="f4:60" file="f4" line="60"/>
+  <Typedef id="_147" name="int64_t" type="_32" context="_1" location="f1:41" file="f1" line="41"/>
+  <Typedef id="_148" name="int32_t" type="_64" context="_1" location="f1:39" file="f1" line="39"/>
+  <Function id="_149" name="__builtin_inff" returns="_199" context="_1" location="f0:19" file="f0" line="19" extern="1" attributes="nothrow const"/>
+  <Function id="_150" name="__builtin_infl" returns="_200" context="_1" location="f0:20" file="f0" line="20" extern="1" attributes="nothrow const"/>
+  <Typedef id="_151" name="uint16_t" type="_73" context="_1" location="f1:50" file="f1" line="50"/>
+  <Typedef id="_152" name="intmax_t" type="_32" context="_1" location="f1:135" file="f1" line="135"/>
+  <Function id="_153" name="__builtin_cos" returns="_197" context="_1" mangled="cos" location="f0:39" file="f0" line="39" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_197" location="f0:39" file="f0" line="39"/>
+  </Function>
+  <FundamentalType id="_154" name="unsigned char" size="8" align="8"/>
+  <Typedef id="_155" name="uint_fast8_t" type="_154" context="_1" location="f1:104" file="f1" line="104"/>
+  <Typedef id="_156" name="uint_least16_t" type="_73" context="_1" location="f1:78" file="f1" line="78"/>
+  <Function id="_157" name="__builtin_ctz" returns="_64" context="_1" location="f0:96" file="f0" line="96" extern="1" attributes="nothrow const">
+    <Argument type="_64" location="f0:96" file="f0" line="96"/>
+  </Function>
+  <Function id="_158" name="__builtin_return_address" returns="_207" context="_1" location="f0:14" file="f0" line="14" extern="1">
+    <Argument name="LEVEL" type="_98" location="f0:14" file="f0" line="14"/>
+  </Function>
+  <Typedef id="_159" name="uint8_t" type="_154" context="_1" location="f1:49" file="f1" line="49"/>
+  <Function id="_160" name="__builtin_isnan" returns="_201" context="_1" mangled="isnan" location="f0:144" file="f0" line="144" extern="1" attributes="nothrow const">
+    <Ellipsis/>
+  </Function>
+  <Function id="_161" name="__builtin_csinhf" returns="_203" context="_1" mangled="csinhf" location="f0:117" file="f0" line="117" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:117" file="f0" line="117"/>
+  </Function>
+  <Function id="_162" name="__builtin_csinhl" returns="_204" context="_1" mangled="csinhl" location="f0:119" file="f0" line="119" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:119" file="f0" line="119"/>
+  </Function>
+  <Function id="_163" name="__builtin_csqrtf" returns="_203" context="_1" mangled="csqrtf" location="f0:120" file="f0" line="120" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:120" file="f0" line="120"/>
+  </Function>
+  <Function id="_164" name="__builtin_csqrtl" returns="_204" context="_1" mangled="csqrtl" location="f0:122" file="f0" line="122" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:122" file="f0" line="122"/>
+  </Function>
+  <Typedef id="_165" name="int_least64_t" type="_32" context="_1" location="f1:70" file="f1" line="70"/>
+  <Typedef id="_166" name="int8_t" type="_51" context="_1" location="f1:37" file="f1" line="37"/>
+  <Function id="_167" name="__builtin_floor" returns="_197" context="_1" mangled="floor" location="f0:51" file="f0" line="51" extern="1" attributes="nothrow const">
+    <Argument type="_197" location="f0:51" file="f0" line="51"/>
+  </Function>
+  <Function id="_168" name="__builtin_ldexp" returns="_197" context="_1" mangled="ldexp" location="f0:59" file="f0" line="59" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:59" file="f0" line="59"/>
+    <Argument type="_64" location="f0:59" file="f0" line="59"/>
+  </Function>
+  <Function id="_169" name="__builtin_ccosf" returns="_203" context="_1" mangled="ccosf" location="f0:102" file="f0" line="102" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:102" file="f0" line="102"/>
+  </Function>
+  <Function id="_170" name="__builtin_ccosh" returns="_205" context="_1" mangled="ccosh" location="f0:106" file="f0" line="106" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:106" file="f0" line="106"/>
+  </Function>
+  <Function id="_171" name="__builtin_ccosl" returns="_204" context="_1" mangled="ccosl" location="f0:104" file="f0" line="104" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:104" file="f0" line="104"/>
+  </Function>
+  <Function id="_172" name="__builtin_va_arg_pack_len" returns="_64" context="_1" location="f0:148" file="f0" line="148" extern="1">
+    <Ellipsis/>
+  </Function>
+  <Function id="_173" name="__builtin_islessgreater" returns="_201" context="_1" location="f0:143" file="f0" line="143" extern="1" attributes="nothrow const">
+    <Ellipsis/>
+  </Function>
+  <Function id="_174" name="__builtin_ctanhf" returns="_203" context="_1" mangled="ctanhf" location="f0:126" file="f0" line="126" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:126" file="f0" line="126"/>
+  </Function>
+  <Function id="_175" name="__builtin_ctanhl" returns="_204" context="_1" mangled="ctanhl" location="f0:128" file="f0" line="128" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:128" file="f0" line="128"/>
+  </Function>
+  <Function id="_176" name="__builtin_ceilf" returns="_199" context="_1" mangled="ceilf" location="f0:37" file="f0" line="37" extern="1" attributes="nothrow const">
+    <Argument type="_199" location="f0:37" file="f0" line="37"/>
+  </Function>
+  <Function id="_177" name="__builtin_ceill" returns="_200" context="_1" mangled="ceill" location="f0:38" file="f0" line="38" extern="1" attributes="nothrow const">
+    <Argument type="_200" location="f0:38" file="f0" line="38"/>
+  </Function>
+  <Function id="_178" name="__builtin_csinf" returns="_203" context="_1" mangled="csinf" location="f0:114" file="f0" line="114" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:114" file="f0" line="114"/>
+  </Function>
+  <Function id="_179" name="__builtin_csinh" returns="_205" context="_1" mangled="csinh" location="f0:118" file="f0" line="118" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:118" file="f0" line="118"/>
+  </Function>
+  <Function id="_180" name="__builtin_csinl" returns="_204" context="_1" mangled="csinl" location="f0:116" file="f0" line="116" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:116" file="f0" line="116"/>
+  </Function>
+  <Function id="_181" name="__builtin_acos" returns="_197" context="_1" mangled="acos" location="f0:24" file="f0" line="24" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:24" file="f0" line="24"/>
+  </Function>
+  <Function id="_182" name="__builtin_ctzll" returns="_64" context="_1" location="f0:98" file="f0" line="98" extern="1" attributes="nothrow const">
+    <Argument type="_202" location="f0:98" file="f0" line="98"/>
+  </Function>
+  <Typedef id="_183" name="uint_fast32_t" type="_7" context="_1" location="f1:107" file="f1" line="107"/>
+  <Function id="_184" name="__builtin_cargf" returns="_199" context="_1" mangled="cargf" location="f0:93" file="f0" line="93" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_203" location="f0:93" file="f0" line="93"/>
+  </Function>
+  <Function id="_185" name="__builtin_cargl" returns="_200" context="_1" mangled="cargl" location="f0:95" file="f0" line="95" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_204" location="f0:95" file="f0" line="95"/>
+  </Function>
+  <Function id="_186" name="__builtin_cosf" returns="_199" context="_1" mangled="cosf" location="f0:40" file="f0" line="40" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_199" location="f0:40" file="f0" line="40"/>
+  </Function>
+  <Function id="_187" name="__builtin_cosh" returns="_197" context="_1" mangled="cosh" location="f0:41" file="f0" line="41" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:41" file="f0" line="41"/>
+  </Function>
+  <Function id="_188" name="__builtin_cosl" returns="_200" context="_1" mangled="cosl" location="f0:44" file="f0" line="44" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_200" location="f0:44" file="f0" line="44"/>
+  </Function>
+  <Function id="_189" name="__builtin_isgreater" returns="_201" context="_1" location="f0:137" file="f0" line="137" extern="1" attributes="nothrow const">
+    <Ellipsis/>
+  </Function>
+  <Typedef id="_190" name="uint_least8_t" type="_154" context="_1" location="f1:77" file="f1" line="77"/>
+  <Typedef id="_191" name="IttiMsgEmpty" type="_127" context="_1" location="f5:43" file="f5" line="43"/>
+  <Function id="_192" name="__builtin_sinf" returns="_199" context="_1" mangled="sinf" location="f0:76" file="f0" line="76" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_199" location="f0:76" file="f0" line="76"/>
+  </Function>
+  <Function id="_193" name="__builtin_sinh" returns="_197" context="_1" mangled="sinh" location="f0:77" file="f0" line="77" extern="1" attributes="nothrow">
+    <Argument type="_197" location="f0:77" file="f0" line="77"/>
+  </Function>
+  <Function id="_194" name="__builtin_sinl" returns="_200" context="_1" mangled="sinl" location="f0:80" file="f0" line="80" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_200" location="f0:80" file="f0" line="80"/>
+  </Function>
+  <Typedef id="_195" name="uint64_t" type="_7" context="_1" location="f1:56" file="f1" line="56"/>
+  <Function id="_196" name="__builtin_csin" returns="_205" context="_1" mangled="csin" location="f0:115" file="f0" line="115" extern="1" attributes="nothrow pure no vops">
+    <Argument type="_205" location="f0:115" file="f0" line="115"/>
+  </Function>
+  <FundamentalType id="_197" name="double" size="64" align="64"/>
+  <PointerType id="_198" type="_277c" size="64" align="64"/>
+  <FundamentalType id="_199" name="float" size="32" align="32"/>
+  <FundamentalType id="_200" name="long double" size="128" align="128"/>
+  <FundamentalType id="_201" name="bool" size="8" align="8"/>
+  <FundamentalType id="_202" name="long long int" size="64" align="64"/>
+  <FundamentalType id="_203" name="complex float" size="64" align="32"/>
+  <FundamentalType id="_204" name="complex long double" size="256" align="128"/>
+  <FundamentalType id="_205" name="complex double" size="128" align="64"/>
+  <FundamentalType id="_206" name="void" align="8"/>
+  <PointerType id="_207" type="_206" size="64" align="64"/>
+  <Field id="_208" name="arg" type="_207" offset="0" context="_54" access="public" location="f3:39" file="f3" line="39"/>
+  <Field id="_209" name="timer_id" type="_32" offset="64" context="_54" access="public" location="f3:40" file="f3" line="40"/>
+  <Destructor id="_210" name="._2" artificial="1" throw="" context="_54" access="public" mangled="_ZN19timer_has_expired_tD1Ev *INTERNAL* " demangled="timer_has_expired_t::~timer_has_expired_t()" location="f3:41" file="f3" line="41" endline="41" inline="1">
+  </Destructor>
+  <OperatorMethod id="_211" name="=" returns="_279" artificial="1" throw="" context="_54" access="public" mangled="_ZN19timer_has_expired_taSERKS_" demangled="timer_has_expired_t::operator=(timer_has_expired_t const&amp;)" location="f3:41" file="f3" line="41" endline="41" inline="1">
+    <Argument type="_280" location="f3:38" file="f3" line="38"/>
+  </OperatorMethod>
+  <Constructor id="_212" name="._2" artificial="1" throw="" context="_54" access="public" mangled="_ZN19timer_has_expired_tC1ERKS_ *INTERNAL* " demangled="timer_has_expired_t::timer_has_expired_t(timer_has_expired_t const&amp;)" location="f3:41" file="f3" line="41" endline="41" inline="1">
+    <Argument type="_280" location="f3:38" file="f3" line="38"/>
+  </Constructor>
+  <Constructor id="_213" name="._2" artificial="1" throw="" context="_54" access="public" mangled="_ZN19timer_has_expired_tC1Ev *INTERNAL* " demangled="timer_has_expired_t::timer_has_expired_t()" location="f3:41" file="f3" line="41" inline="1"/>
+  <Field id="_214" name="ittiMsgHeader" type="_78" offset="0" context="_56" access="public" location="f2:151" file="f2" line="151"/>
+  <Field id="_215" name="ittiMsg" type="_61" offset="192" context="_56" access="public" location="f2:152" file="f2" line="152"/>
+  <Destructor id="_216" name="MessageDef_s" artificial="1" throw="" context="_56" access="public" mangled="_ZN12MessageDef_sD1Ev *INTERNAL* " demangled="MessageDef_s::~MessageDef_s()" location="f2:150" file="f2" line="150" endline="150" inline="1">
+  </Destructor>
+  <OperatorMethod id="_217" name="=" returns="_281" artificial="1" throw="" context="_56" access="public" mangled="_ZN12MessageDef_saSERKS_" demangled="MessageDef_s::operator=(MessageDef_s const&amp;)" location="f2:150" file="f2" line="150" endline="150" inline="1">
+    <Argument type="_282" location="f2:150" file="f2" line="150"/>
+  </OperatorMethod>
+  <Constructor id="_218" name="MessageDef_s" artificial="1" throw="" context="_56" access="public" mangled="_ZN12MessageDef_sC1ERKS_ *INTERNAL* " demangled="MessageDef_s::MessageDef_s(MessageDef_s const&amp;)" location="f2:150" file="f2" line="150" endline="150" inline="1">
+    <Argument type="_282" location="f2:150" file="f2" line="150"/>
+  </Constructor>
+  <Constructor id="_219" name="MessageDef_s" artificial="1" throw="" context="_56" access="public" mangled="_ZN12MessageDef_sC1Ev *INTERNAL* " demangled="MessageDef_s::MessageDef_s()" location="f2:150" file="f2" line="150" inline="1"/>
+  <Field id="_220" name="initialize_message" type="_191" offset="0" context="_60" access="public" location="f6:31" file="f6" line="31"/>
+  <Field id="_221" name="activate_message" type="_191" offset="0" context="_60" access="public" location="f6:34" file="f6" line="34"/>
+  <Field id="_222" name="deactivate_message" type="_191" offset="0" context="_60" access="public" location="f6:37" file="f6" line="37"/>
+  <Field id="_223" name="terminate_message" type="_191" offset="0" context="_60" access="public" location="f6:40" file="f6" line="40"/>
+  <Field id="_224" name="message_test" type="_191" offset="0" context="_60" access="public" location="f6:43" file="f6" line="43"/>
+  <Field id="_225" name="error_log" type="_191" offset="0" context="_60" access="public" location="f6:46" file="f6" line="46"/>
+  <Field id="_226" name="warning_log" type="_191" offset="0" context="_60" access="public" location="f6:48" file="f6" line="48"/>
+  <Field id="_227" name="notice_log" type="_191" offset="0" context="_60" access="public" location="f6:50" file="f6" line="50"/>
+  <Field id="_228" name="info_log" type="_191" offset="0" context="_60" access="public" location="f6:52" file="f6" line="52"/>
+  <Field id="_229" name="debug_log" type="_191" offset="0" context="_60" access="public" location="f6:54" file="f6" line="54"/>
+  <Field id="_230" name="generic_log" type="_191" offset="0" context="_60" access="public" location="f6:57" file="f6" line="57"/>
+  <Field id="_231" name="timer_has_expired" type="_54" offset="0" context="_60" access="public" location="f7:31" file="f7" line="31"/>
+  <Destructor id="_232" name="msg_s" artificial="1" throw="" context="_60" access="public" mangled="_ZN5msg_sD1Ev *INTERNAL* " demangled="msg_s::~msg_s()" location="f2:116" file="f2" line="116" endline="116" inline="1">
+  </Destructor>
+  <OperatorMethod id="_233" name="=" returns="_283" artificial="1" throw="" context="_60" access="public" mangled="_ZN5msg_saSERKS_" demangled="msg_s::operator=(msg_s const&amp;)" location="f2:116" file="f2" line="116" endline="116" inline="1">
+    <Argument type="_284" location="f2:116" file="f2" line="116"/>
+  </OperatorMethod>
+  <Constructor id="_234" name="msg_s" artificial="1" throw="" context="_60" access="public" mangled="_ZN5msg_sC1ERKS_ *INTERNAL* " demangled="msg_s::msg_s(msg_s const&amp;)" location="f2:116" file="f2" line="116" endline="116" inline="1">
+    <Argument type="_284" location="f2:116" file="f2" line="116"/>
+  </Constructor>
+  <Constructor id="_235" name="msg_s" artificial="1" throw="" context="_60" access="public" mangled="_ZN5msg_sC1Ev *INTERNAL* " demangled="msg_s::msg_s()" location="f2:116" file="f2" line="116" inline="1"/>
+  <PointerType id="_236" type="_206c" size="64" align="64"/>
+  <Field id="_237" name="messageId" type="_55" offset="0" context="_77" access="public" location="f2:135" file="f2" line="135"/>
+  <Field id="_238" name="originTaskId" type="_100" offset="32" context="_77" access="public" location="f2:137" file="f2" line="137"/>
+  <Field id="_239" name="destinationTaskId" type="_100" offset="64" context="_77" access="public" location="f2:138" file="f2" line="138"/>
+  <Field id="_240" name="instance" type="_82" offset="96" context="_77" access="public" location="f2:139" file="f2" line="139"/>
+  <Field id="_241" name="ittiMsgSize" type="_74" offset="112" context="_77" access="public" location="f2:141" file="f2" line="141"/>
+  <Field id="_242" name="lte_time" type="_87" offset="128" context="_77" access="public" location="f2:143" file="f2" line="143"/>
+  <Destructor id="_243" name="MessageHeader_s" artificial="1" throw="" context="_77" access="public" mangled="_ZN15MessageHeader_sD1Ev *INTERNAL* " demangled="MessageHeader_s::~MessageHeader_s()" location="f2:134" file="f2" line="134" endline="134" inline="1">
+  </Destructor>
+  <OperatorMethod id="_244" name="=" returns="_286" artificial="1" throw="" context="_77" access="public" mangled="_ZN15MessageHeader_saSERKS_" demangled="MessageHeader_s::operator=(MessageHeader_s const&amp;)" location="f2:134" file="f2" line="134" endline="134" inline="1">
+    <Argument type="_287" location="f2:134" file="f2" line="134"/>
+  </OperatorMethod>
+  <Constructor id="_245" name="MessageHeader_s" artificial="1" throw="" context="_77" access="public" mangled="_ZN15MessageHeader_sC1ERKS_ *INTERNAL* " demangled="MessageHeader_s::MessageHeader_s(MessageHeader_s const&amp;)" location="f2:134" file="f2" line="134" endline="134" inline="1">
+    <Argument type="_287" location="f2:134" file="f2" line="134"/>
+  </Constructor>
+  <Constructor id="_246" name="MessageHeader_s" artificial="1" throw="" context="_77" access="public" mangled="_ZN15MessageHeader_sC1Ev *INTERNAL* " demangled="MessageHeader_s::MessageHeader_s()" location="f2:134" file="f2" line="134" inline="1"/>
+  <PointerType id="_247" type="_64" size="64" align="64"/>
+  <Field id="_248" name="message_number_char" type="_288" offset="0" context="_80" access="public" location="f4:72" file="f4" line="72"/>
+  <Destructor id="_249" name="._1" artificial="1" throw="" context="_80" access="public" mangled="_ZN20itti_signal_header_tD1Ev *INTERNAL* " demangled="itti_signal_header_t::~itti_signal_header_t()" location="f4:73" file="f4" line="73" endline="73" inline="1">
+  </Destructor>
+  <OperatorMethod id="_250" name="=" returns="_289" artificial="1" throw="" context="_80" access="public" mangled="_ZN20itti_signal_header_taSERKS_" demangled="itti_signal_header_t::operator=(itti_signal_header_t const&amp;)" location="f4:73" file="f4" line="73" endline="73" inline="1">
+    <Argument type="_290" location="f4:71" file="f4" line="71"/>
+  </OperatorMethod>
+  <Constructor id="_251" name="._1" artificial="1" throw="" context="_80" access="public" mangled="_ZN20itti_signal_header_tC1ERKS_ *INTERNAL* " demangled="itti_signal_header_t::itti_signal_header_t(itti_signal_header_t const&amp;)" location="f4:73" file="f4" line="73" endline="73" inline="1">
+    <Argument type="_290" location="f4:71" file="f4" line="71"/>
+  </Constructor>
+  <Constructor id="_252" name="._1" artificial="1" throw="" context="_80" access="public" mangled="_ZN20itti_signal_header_tC1Ev *INTERNAL* " demangled="itti_signal_header_t::itti_signal_header_t()" location="f4:73" file="f4" line="73" inline="1"/>
+  <Field id="_253" name="frame" type="_99" offset="0" context="_86" access="public" location="f2:126" file="f2" line="126"/>
+  <Field id="_254" name="slot" type="_159" offset="32" context="_86" access="public" location="f2:127" file="f2" line="127"/>
+  <Destructor id="_255" name="itti_lte_time_s" artificial="1" throw="" context="_86" access="public" mangled="_ZN15itti_lte_time_sD1Ev *INTERNAL* " demangled="itti_lte_time_s::~itti_lte_time_s()" location="f2:125" file="f2" line="125" endline="125" inline="1">
+  </Destructor>
+  <OperatorMethod id="_256" name="=" returns="_291" artificial="1" throw="" context="_86" access="public" mangled="_ZN15itti_lte_time_saSERKS_" demangled="itti_lte_time_s::operator=(itti_lte_time_s const&amp;)" location="f2:125" file="f2" line="125" endline="125" inline="1">
+    <Argument type="_292" location="f2:125" file="f2" line="125"/>
+  </OperatorMethod>
+  <Constructor id="_257" name="itti_lte_time_s" artificial="1" throw="" context="_86" access="public" mangled="_ZN15itti_lte_time_sC1ERKS_ *INTERNAL* " demangled="itti_lte_time_s::itti_lte_time_s(itti_lte_time_s const&amp;)" location="f2:125" file="f2" line="125" endline="125" inline="1">
+    <Argument type="_292" location="f2:125" file="f2" line="125"/>
+  </Constructor>
+  <Constructor id="_258" name="itti_lte_time_s" artificial="1" throw="" context="_86" access="public" mangled="_ZN15itti_lte_time_sC1Ev *INTERNAL* " demangled="itti_lte_time_s::itti_lte_time_s()" location="f2:125" file="f2" line="125" inline="1"/>
+  <PointerType id="_259" type="_199" size="64" align="64"/>
+  <PointerType id="_260" type="_200" size="64" align="64"/>
+  <Field id="_261" name="size" type="_99" offset="0" context="_104" access="public" location="f5:47" file="f5" line="47"/>
+  <Field id="_262" name="text" type="_293" offset="32" context="_104" access="public" location="f5:48" file="f5" line="48"/>
+  <Destructor id="_263" name="IttiMsgText_s" artificial="1" throw="" context="_104" access="public" mangled="_ZN13IttiMsgText_sD1Ev *INTERNAL* " demangled="IttiMsgText_s::~IttiMsgText_s()" location="f5:46" file="f5" line="46" endline="46" inline="1">
+  </Destructor>
+  <OperatorMethod id="_264" name="=" returns="_294" artificial="1" throw="" context="_104" access="public" mangled="_ZN13IttiMsgText_saSERKS_" demangled="IttiMsgText_s::operator=(IttiMsgText_s const&amp;)" location="f5:46" file="f5" line="46" endline="46" inline="1">
+    <Argument type="_295" location="f5:46" file="f5" line="46"/>
+  </OperatorMethod>
+  <Constructor id="_265" name="IttiMsgText_s" artificial="1" throw="" context="_104" access="public" mangled="_ZN13IttiMsgText_sC1ERKS_ *INTERNAL* " demangled="IttiMsgText_s::IttiMsgText_s(IttiMsgText_s const&amp;)" location="f5:46" file="f5" line="46" endline="46" inline="1">
+    <Argument type="_295" location="f5:46" file="f5" line="46"/>
+  </Constructor>
+  <Constructor id="_266" name="IttiMsgText_s" artificial="1" throw="" context="_104" access="public" mangled="_ZN13IttiMsgText_sC1Ev *INTERNAL* " demangled="IttiMsgText_s::IttiMsgText_s()" location="f5:46" file="f5" line="46" inline="1"/>
+  <Destructor id="_267" name="IttiMsgEmpty_s" artificial="1" throw="" context="_127" access="public" mangled="_ZN14IttiMsgEmpty_sD1Ev *INTERNAL* " demangled="IttiMsgEmpty_s::~IttiMsgEmpty_s()" location="f5:42" file="f5" line="42" endline="42" inline="1">
+  </Destructor>
+  <OperatorMethod id="_268" name="=" returns="_296" artificial="1" throw="" context="_127" access="public" mangled="_ZN14IttiMsgEmpty_saSERKS_" demangled="IttiMsgEmpty_s::operator=(IttiMsgEmpty_s const&amp;)" location="f5:42" file="f5" line="42" endline="42" inline="1">
+    <Argument type="_297" location="f5:42" file="f5" line="42"/>
+  </OperatorMethod>
+  <Constructor id="_269" name="IttiMsgEmpty_s" artificial="1" throw="" context="_127" access="public" mangled="_ZN14IttiMsgEmpty_sC1ERKS_ *INTERNAL* " demangled="IttiMsgEmpty_s::IttiMsgEmpty_s(IttiMsgEmpty_s const&amp;)" location="f5:42" file="f5" line="42" inline="1">
+    <Argument type="_297" location="f5:42" file="f5" line="42"/>
+  </Constructor>
+  <Constructor id="_270" name="IttiMsgEmpty_s" artificial="1" throw="" context="_127" access="public" mangled="_ZN14IttiMsgEmpty_sC1Ev *INTERNAL* " demangled="IttiMsgEmpty_s::IttiMsgEmpty_s()" location="f5:42" file="f5" line="42" inline="1"/>
+  <Field id="_271" name="message_size" type="_99" offset="0" context="_129" access="public" location="f4:67" file="f4" line="67"/>
+  <Field id="_272" name="message_type" type="_146" offset="32" context="_129" access="public" location="f4:68" file="f4" line="68"/>
+  <Destructor id="_273" name="._0" artificial="1" throw="" context="_129" access="public" mangled="_ZN20itti_socket_header_tD1Ev *INTERNAL* " demangled="itti_socket_header_t::~itti_socket_header_t()" location="f4:69" file="f4" line="69" endline="69" inline="1">
+  </Destructor>
+  <OperatorMethod id="_274" name="=" returns="_298" artificial="1" throw="" context="_129" access="public" mangled="_ZN20itti_socket_header_taSERKS_" demangled="itti_socket_header_t::operator=(itti_socket_header_t const&amp;)" location="f4:69" file="f4" line="69" endline="69" inline="1">
+    <Argument type="_299" location="f4:65" file="f4" line="65"/>
+  </OperatorMethod>
+  <Constructor id="_275" name="._0" artificial="1" throw="" context="_129" access="public" mangled="_ZN20itti_socket_header_tC1ERKS_ *INTERNAL* " demangled="itti_socket_header_t::itti_socket_header_t(itti_socket_header_t const&amp;)" location="f4:69" file="f4" line="69" endline="69" inline="1">
+    <Argument type="_299" location="f4:65" file="f4" line="65"/>
+  </Constructor>
+  <Constructor id="_276" name="._0" artificial="1" throw="" context="_129" access="public" mangled="_ZN20itti_socket_header_tC1Ev *INTERNAL* " demangled="itti_socket_header_t::itti_socket_header_t()" location="f4:69" file="f4" line="69" inline="1"/>
+  <ReferenceType id="_279" type="_54" size="64" align="64"/>
+  <ReferenceType id="_280" type="_54c" size="64" align="64"/>
+  <ReferenceType id="_281" type="_56" size="64" align="64"/>
+  <ReferenceType id="_282" type="_56c" size="64" align="64"/>
+  <ReferenceType id="_283" type="_60" size="64" align="64"/>
+  <ReferenceType id="_284" type="_60c" size="64" align="64"/>
+  <ReferenceType id="_286" type="_77" size="64" align="64"/>
+  <ReferenceType id="_287" type="_77c" size="64" align="64"/>
+  <ArrayType id="_288" min="0" max="11u" type="_277" size="96" align="8"/>
+  <ReferenceType id="_289" type="_80" size="64" align="64"/>
+  <ReferenceType id="_290" type="_80c" size="64" align="64"/>
+  <ReferenceType id="_291" type="_86" size="64" align="64"/>
+  <ReferenceType id="_292" type="_86c" size="64" align="64"/>
+  <ArrayType id="_293" min="0" max="0xffffffffffffffffffffffffffffffffu" type="_277" size="0" align="8"/>
+  <ReferenceType id="_294" type="_104" size="64" align="64"/>
+  <ReferenceType id="_295" type="_104c" size="64" align="64"/>
+  <ReferenceType id="_296" type="_127" size="64" align="64"/>
+  <ReferenceType id="_297" type="_127c" size="64" align="64"/>
+  <ReferenceType id="_298" type="_129" size="64" align="64"/>
+  <ReferenceType id="_299" type="_129c" size="64" align="64"/>
+  <FundamentalType id="_277" name="char" size="8" align="8"/>
+  <CvQualifiedType id="_277c" type="_277" const="1"/>
+  <CvQualifiedType id="_206c" type="_206" const="1"/>
+  <CvQualifiedType id="_129c" type="_129" const="1"/>
+  <CvQualifiedType id="_80c" type="_80" const="1"/>
+  <CvQualifiedType id="_127c" type="_127" const="1"/>
+  <CvQualifiedType id="_104c" type="_104" const="1"/>
+  <CvQualifiedType id="_54c" type="_54" const="1"/>
+  <CvQualifiedType id="_60c" type="_60" const="1"/>
+  <CvQualifiedType id="_86c" type="_86" const="1"/>
+  <CvQualifiedType id="_77c" type="_77" const="1"/>
+  <CvQualifiedType id="_56c" type="_56" const="1"/>
+  <File id="f0" name="/usr/share/gccxml-0.9/GCC/4.6/gccxml_builtins.h"/>
+  <File id="f1" name="/usr/include/stdint.h"/>
+  <File id="f2" name="/home/phanik/oEPC/trunk/common/utils/itti/intertask_interface_types.h"/>
+  <File id="f3" name="/home/phanik/oEPC/trunk/common/utils/itti/timer_messages_types.h"/>
+  <File id="f4" name="/home/phanik/oEPC/trunk/common/utils/itti/itti_types.h"/>
+  <File id="f5" name="/home/phanik/oEPC/trunk/common/utils/itti/intertask_messages_types.h"/>
+  <File id="f6" name="/home/phanik/oEPC/trunk/common/utils/itti/intertask_messages_def.h"/>
+  <File id="f7" name="/home/phanik/oEPC/trunk/common/utils/itti/timer_messages_def.h"/>
+</GCC_XML>

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE
+END
+lteRALenb_mih_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_mih_msg.h
+END
+lteRALenb_parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_parameters.h
+END
+lteRALenb_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_proto.h
+END
+lteRALenb_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_main.h
+END
+rrc_d_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/rrc_d_types.h
+END
+lteRALenb_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_variables.h
+END
+lteRALenb_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_constants.h
+END
+lteRALenb_rrc_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_rrc_msg.h
+END
+lteRALenb_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_action.h
+END
+lteRALenb_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_process.h
+END
+lteRALenb_thresholds.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_thresholds.h
+END
+lteRALenb.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb.h
+END
+lteRALenb_subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/INCLUDE/lteRALenb_subscribe.h
+END

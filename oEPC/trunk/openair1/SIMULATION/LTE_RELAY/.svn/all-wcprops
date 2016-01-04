@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_RELAY
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/LTE_RELAY/readme.txt
+END
+relay_QF_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_RELAY/relay_QF_sim.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_RELAY/Makefile
+END
+relay_DF_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_RELAY/relay_DF_sim.c
+END
+relay_test_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_RELAY/relay_test_sim.c
+END
+relay_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_RELAY/relay_sim.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/LTE_RELAY/COPYING
+END

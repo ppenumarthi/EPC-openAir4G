@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5565/trunk/openair-cn/S1AP/MESSAGES
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5565/trunk/openair-cn/S1AP/MESSAGES/Makefile.inc
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5551/trunk/openair-cn/S1AP/MESSAGES/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5565/trunk/openair-cn/S1AP/MESSAGES/Makefile.am
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/6314/trunk/openair-cn/SCTP
+END
+sctp_eNB_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/6314/trunk/openair-cn/SCTP/sctp_eNB_task.c
+END
+sctp_primitives_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_primitives_server.h
+END
+sctp_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_common.c
+END
+sctp_primitives_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_primitives_client.c
+END
+sctp_eNB_itti_messaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_eNB_itti_messaging.c
+END
+sctp_eNB_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_eNB_task.h
+END
+sctp_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_common.h
+END
+sctp_primitives_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_primitives_client.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5544/trunk/openair-cn/SCTP/COPYING
+END
+sctp_eNB_itti_messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6224/trunk/openair-cn/SCTP/sctp_eNB_itti_messaging.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCTP/Makefile.am
+END
+sctp_itti_messaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_itti_messaging.c
+END
+Makefile.eNB
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCTP/Makefile.eNB
+END
+sctp_default_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_default_values.h
+END
+sctp_eNB_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_eNB_defs.h
+END
+sctp_itti_messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5552/trunk/openair-cn/SCTP/sctp_itti_messaging.h
+END
+sctp_primitives_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5668/trunk/openair-cn/SCTP/sctp_primitives_server.c
+END

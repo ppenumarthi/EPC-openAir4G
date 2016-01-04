@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/RF
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5739/trunk/openair1/SIMULATION/RF/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/RF/COPYING
+END
+adc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/RF/adc.c
+END
+dac.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5778/trunk/openair1/SIMULATION/RF/dac.c
+END
+rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5778/trunk/openair1/SIMULATION/RF/rf.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/RF/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/RF/Makefile
+END

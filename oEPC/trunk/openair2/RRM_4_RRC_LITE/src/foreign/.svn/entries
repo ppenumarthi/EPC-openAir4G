@@ -1,0 +1,43 @@
+10
+
+dir
+6329
+http://svn.eurecom.fr/openair4G/trunk/openair2/RRM_4_RRC_LITE/src/foreign
+http://svn.eurecom.fr/openair4G
+
+
+
+2014-02-28T13:03:10.476350Z
+5096
+gauthier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+818b1a75-f10b-46b9-bf7c-635c3b92a50f
+
+sql
+dir
+
+tcpip
+dir
+
+sockets-2.3.9.4
+dir
+
+asn1c
+dir
+
+generated_c_asn1_rrc
+dir
+

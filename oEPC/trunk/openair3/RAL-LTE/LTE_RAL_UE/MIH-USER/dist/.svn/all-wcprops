@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/3814/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/dist
+END
+odtone.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/3814/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/dist/odtone.conf
+END
+link_sap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/3814/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/dist/link_sap.conf
+END
+lte_user.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/3814/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/dist/lte_user.conf
+END

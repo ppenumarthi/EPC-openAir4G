@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1208/trunk/openair2/RRM_4_RRC_LITE/src/foreign/tcpip
+END
+socketUnitTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1200/trunk/openair2/RRM_4_RRC_LITE/src/foreign/tcpip/socketUnitTests.cpp
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1200/trunk/openair2/RRM_4_RRC_LITE/src/foreign/tcpip/socket.h
+END
+tcpipUnitTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1200/trunk/openair2/RRM_4_RRC_LITE/src/foreign/tcpip/tcpipUnitTests.cpp
+END
+storage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1200/trunk/openair2/RRM_4_RRC_LITE/src/foreign/tcpip/storage.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1200/trunk/openair2/RRM_4_RRC_LITE/src/foreign/tcpip/Makefile.am
+END
+socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1200/trunk/openair2/RRM_4_RRC_LITE/src/foreign/tcpip/socket.cpp
+END
+storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/1200/trunk/openair2/RRM_4_RRC_LITE/src/foreign/tcpip/storage.h
+END

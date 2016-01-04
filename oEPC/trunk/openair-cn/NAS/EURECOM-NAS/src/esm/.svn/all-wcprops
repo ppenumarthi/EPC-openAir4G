@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS/src/esm
+END
+esm_ebr_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_ebr_context.h
+END
+DedicatedEpsBearerContextActivation.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/DedicatedEpsBearerContextActivation.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/COPYING
+END
+esm_pt.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_pt.c
+END
+esm_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_main.c
+END
+PdnDisconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/PdnDisconnect.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/Makefile
+END
+esm_pt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_pt.h
+END
+esm_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_main.h
+END
+DefaultEpsBearerContextActivation.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5637/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/DefaultEpsBearerContextActivation.c
+END
+EpsBearerContextDeactivation.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/EpsBearerContextDeactivation.c
+END
+esm_ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_ip.c
+END
+esm_ebr.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_ebr.c
+END
+esm_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_proc.h
+END
+esm_ebr_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5636/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_ebr_context.c
+END
+PdnConnectivity.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/PdnConnectivity.c
+END
+EsmStatusHdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/EsmStatusHdl.c
+END
+esm_ebr.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esm_ebr.h
+END
+esmData.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/esmData.h
+END

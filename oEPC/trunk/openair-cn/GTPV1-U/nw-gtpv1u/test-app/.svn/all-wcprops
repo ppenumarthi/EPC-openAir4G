@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/Makefile.am
+END

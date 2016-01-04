@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6198/trunk/targets/TEST/PACKET_TRACER
+END
+pt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/3078/trunk/targets/TEST/PACKET_TRACER/pt.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1803/trunk/targets/TEST/PACKET_TRACER/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6198/trunk/targets/TEST/PACKET_TRACER/Makefile
+END

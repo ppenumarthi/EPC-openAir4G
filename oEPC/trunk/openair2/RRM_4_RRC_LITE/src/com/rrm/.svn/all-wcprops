@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1202/trunk/openair2/RRM_4_RRC_LITE/src/com/rrm
+END
+RRMMessageHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1196/trunk/openair2/RRM_4_RRC_LITE/src/com/rrm/RRMMessageHandler.h
+END
+RRMUdpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1196/trunk/openair2/RRM_4_RRC_LITE/src/com/rrm/RRMUdpSocket.cpp
+END
+RRMMessageHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/1196/trunk/openair2/RRM_4_RRC_LITE/src/com/rrm/RRMMessageHandler.cpp
+END
+RRMUdpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1196/trunk/openair2/RRM_4_RRC_LITE/src/com/rrm/RRMUdpSocket.h
+END

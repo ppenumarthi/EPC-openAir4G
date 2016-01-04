@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6268/trunk/openair2/UTIL/LOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/LOG/COPYING
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/2513/trunk/openair2/UTIL/LOG/README.txt
+END
+vcd_signal_dumper.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6140/trunk/openair2/UTIL/LOG/vcd_signal_dumper.h
+END
+log_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/LOG/log_extern.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/6268/trunk/openair2/UTIL/LOG/log.c
+END
+log_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/LOG/log_if.h
+END
+vcd_signal_dumper.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6140/trunk/openair2/UTIL/LOG/vcd_signal_dumper.c
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/6268/trunk/openair2/UTIL/LOG/log.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_RECIPROCITY
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/LTE_RECIPROCITY/COPYING
+END
+coeffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_RECIPROCITY/coeffs.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_RECIPROCITY/Makefile
+END
+recsim_eNBUE.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_RECIPROCITY/recsim_eNBUE.c
+END
+recsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_RECIPROCITY/recsim.c
+END

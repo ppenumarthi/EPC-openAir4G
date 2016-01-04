@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/INIT
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/1123/trunk/openair1/PHY/INIT/README.txt
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/INIT/extern.h
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/INIT/vars.h
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/INIT/init.c
+END
+init_top.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5824/trunk/openair1/PHY/INIT/init_top.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5933/trunk/openair1/PHY/INIT/defs.h
+END
+lte_parms.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/INIT/lte_parms.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5710/trunk/openair1/PHY/INIT/COPYING
+END
+lte_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/INIT/lte_init.c
+END

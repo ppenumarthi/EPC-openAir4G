@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/AT_COMMANDS
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/AT_COMMANDS/COPYING
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/AT_COMMANDS/parser.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/AT_COMMANDS/parser.h
+END

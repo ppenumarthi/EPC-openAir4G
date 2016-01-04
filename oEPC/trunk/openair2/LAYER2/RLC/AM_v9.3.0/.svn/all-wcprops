@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/AM_v9.3.0
+END
+rlc_am_timer_reordering.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_reordering.c
+END
+rlc_am_segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_segment.c
+END
+rlc_am_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_init.c
+END
+rlc_am_receiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_receiver.c
+END
+rlc_am_timer_reordering.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_reordering.h
+END
+rlc_am_segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_segment.h
+END
+rlc_am_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_init.h
+END
+rlc_am_receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_receiver.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/RLC/AM_v9.3.0/COPYING
+END
+rlc_am_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_structs.h
+END
+rlc_am_timer_poll_retransmit.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_poll_retransmit.c
+END
+rlc_am_status_report.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_status_report.c
+END
+rlc_am.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am.c
+END
+rlc_am_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_entity.h
+END
+rlc_am_in_sdu.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_in_sdu.c
+END
+rlc_am_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_constants.h
+END
+rlc_am_timer_status_prohibit.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_status_prohibit.c
+END
+rlc_am_timer_poll_retransmit.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_poll_retransmit.h
+END
+rlc_am_status_report.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_status_report.h
+END
+rlc_am.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am.h
+END
+rlc_am_in_sdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_in_sdu.h
+END
+rlc_am_timer_status_prohibit.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_timer_status_prohibit.h
+END
+rlc_am_windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_windows.c
+END
+rlc_am_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_proto_extern.h
+END
+rlc_am_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_windows.h
+END
+rlc_am_reassembly.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_reassembly.c
+END
+rlc_am_reassembly.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_reassembly.h
+END
+rlc_am_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_test.c
+END
+rlc_am_segments_holes.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_segments_holes.c
+END
+rlc_am_rx_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_rx_list.c
+END
+rlc_am_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_test.h
+END
+rlc_am_segments_holes.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_segments_holes.h
+END
+rlc_am_retransmit.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_retransmit.c
+END
+rlc_am_rx_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_rx_list.h
+END
+rlc_am_retransmit.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/AM_v9.3.0/rlc_am_retransmit.h
+END

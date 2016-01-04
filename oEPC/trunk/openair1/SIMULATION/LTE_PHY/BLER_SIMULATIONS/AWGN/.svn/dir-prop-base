@@ -1,0 +1,11 @@
+K 18
+svn:global-ignores
+V 20
+Perf_Curves_Abs.bak
+
+K 10
+svn:ignore
+V 20
+Perf_Curves_Abs.bak
+
+END

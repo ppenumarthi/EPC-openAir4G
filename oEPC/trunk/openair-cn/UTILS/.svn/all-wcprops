@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/openair4G/!svn/ver/6226/trunk/openair-cn/UTILS
+END
+mcc_mnc_itu.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5829/trunk/openair-cn/UTILS/mcc_mnc_itu.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5552/trunk/openair-cn/UTILS/log.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5541/trunk/openair-cn/UTILS/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5829/trunk/openair-cn/UTILS/Makefile.am
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/4234/trunk/openair-cn/UTILS/queue.h
+END
+enum_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5552/trunk/openair-cn/UTILS/enum_string.c
+END
+enum_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5552/trunk/openair-cn/UTILS/enum_string.h
+END
+mme_scanner.l
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/4568/trunk/openair-cn/UTILS/mme_scanner.l
+END
+mme_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6226/trunk/openair-cn/UTILS/mme_config.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/4234/trunk/openair-cn/UTILS/tree.h
+END
+mme_default_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5552/trunk/openair-cn/UTILS/mme_default_values.h
+END
+mme_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5916/trunk/openair-cn/UTILS/mme_config.h
+END
+conversions.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5552/trunk/openair-cn/UTILS/conversions.c
+END
+conversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5846/trunk/openair-cn/UTILS/conversions.h
+END
+mme_parser.y
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/4568/trunk/openair-cn/UTILS/mme_parser.y
+END
+mcc_mnc_itu.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5846/trunk/openair-cn/UTILS/mcc_mnc_itu.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5552/trunk/openair-cn/UTILS/log.c
+END

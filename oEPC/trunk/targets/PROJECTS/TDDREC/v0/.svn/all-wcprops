@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0
+END
+runmeas_mimo.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/runmeas_mimo.m
+END
+runmeas_full_duplex.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/runmeas_full_duplex.m
+END
+genorthqpskseq.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/genorthqpskseq.m
+END
+runmeas_long_chanest.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/runmeas_long_chanest.m
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/readme.txt
+END
+runmeas_woduplex.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/runmeas_woduplex.m
+END
+alterproj.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/alterproj.m
+END
+runmeas_wduplex.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/runmeas_wduplex.m
+END
+ofdm_mod.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/ofdm_mod.m
+END
+genrandpskseq.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/genrandpskseq.m
+END
+beamforming.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/beamforming.m
+END
+calibration.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/calibration.m
+END
+initparams.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/initparams.m
+END
+initparams2.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5910/trunk/targets/PROJECTS/TDDREC/v0/initparams2.m
+END

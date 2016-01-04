@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software
+END
+README.TEST
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2565/trunk/openair3/SCOREF-MGMT/Software/README.TEST
+END
+README.RUNNING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2851/trunk/openair3/SCOREF-MGMT/Software/README.RUNNING
+END
+README.RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/3018/trunk/openair3/SCOREF-MGMT/Software/README.RELEASE
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2565/trunk/openair3/SCOREF-MGMT/Software/Makefile
+END
+README.BUILD.ECLIPSE
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/2192/trunk/openair3/SCOREF-MGMT/Software/README.BUILD.ECLIPSE
+END
+README.HEADER_TEMPLATE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/2851/trunk/openair3/SCOREF-MGMT/Software/README.HEADER_TEMPLATE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2779/trunk/openair3/SCOREF-MGMT/Software/.project
+END
+TODO.cppcheck
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2865/trunk/openair3/SCOREF-MGMT/Software/TODO.cppcheck
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/3108/trunk/openair3/SCOREF-MGMT/Software/CHANGELOG
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2779/trunk/openair3/SCOREF-MGMT/Software/.cproject
+END
+README.BUILD.ECLIPSE.PATHS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/2567/trunk/openair3/SCOREF-MGMT/Software/README.BUILD.ECLIPSE.PATHS.xml
+END
+README.BUILD
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2851/trunk/openair3/SCOREF-MGMT/Software/README.BUILD
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2581/trunk/openair3/SCOREF-MGMT/Software/.pydevproject
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/2851/trunk/openair3/SCOREF-MGMT/Software/README
+END
+README.BUILD.ECLIPSE.CODING_STYLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/2192/trunk/openair3/SCOREF-MGMT/Software/README.BUILD.ECLIPSE.CODING_STYLE.xml
+END
+make-release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/3018/trunk/openair3/SCOREF-MGMT/Software/make-release.sh
+END
+README.DOCUMENTATION
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/2245/trunk/openair3/SCOREF-MGMT/Software/README.DOCUMENTATION
+END
+SCOREF-MGMT.doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/3108/trunk/openair3/SCOREF-MGMT/Software/SCOREF-MGMT.doxyfile
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/2865/trunk/openair3/SCOREF-MGMT/Software/TODO
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/2192/trunk/openair3/SCOREF-MGMT/Software/COPYING
+END

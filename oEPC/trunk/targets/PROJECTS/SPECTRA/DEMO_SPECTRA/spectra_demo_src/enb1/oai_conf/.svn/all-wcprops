@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5891/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/enb1/oai_conf
+END
+start_enb.bash
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/openair4G/!svn/ver/5891/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/enb1/oai_conf/start_enb.bash
+END
+enb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/enb1/oai_conf/enb.conf
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/scripts
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5535/trunk/openair-cn/OPENAIRHSS/scripts/COPYING
+END
+install_hss.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/scripts/install_hss.sh
+END

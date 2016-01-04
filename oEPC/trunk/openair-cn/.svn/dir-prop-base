@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 139
+ylwrap
+Makefile.in
+config.h.in
+configure
+depcomp
+install-sh
+m4
+autom4te.cache
+aclocal.m4
+compile
+config.guess
+config.sub
+ltmain.sh
+missing
+
+K 13
+svn:mergeinfo
+V 85
+/branches/lte-epc/openair-cn:4225-4233
+/tags/20140919_fk_fdd_tdd/openair-cn:5813-5841
+END

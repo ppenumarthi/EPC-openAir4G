@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/tosend
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/tosend/README
+END
+put_rules_on_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/tosend/put_rules_on_server.sh
+END
+CRMClient
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/tosend/CRMClient
+END
+CRMClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/tosend/CRMClient.java
+END
+CRMClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/tosend/CRMClient.cpp
+END
+del_rules_on_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/tosend/del_rules_on_server.sh
+END

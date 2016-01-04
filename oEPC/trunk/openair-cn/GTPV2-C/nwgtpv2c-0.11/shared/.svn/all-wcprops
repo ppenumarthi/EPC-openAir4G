@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared
+END
+NwGtpv2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared/NwGtpv2c.h
+END
+NwError.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared/NwError.h
+END
+NwGtpv2cMsgParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared/NwGtpv2cMsgParser.h
+END
+NwGtpv2cMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared/NwGtpv2cMsg.h
+END
+NwUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared/NwUtils.h
+END
+NwLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared/NwLog.h
+END
+NwGtpv2cIe.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared/NwGtpv2cIe.h
+END
+NwTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/shared/NwTypes.h
+END

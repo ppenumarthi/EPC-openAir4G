@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/1123/trunk/openair3/MESH/RRM/VCD
+END
+Config_wave.xxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1123/trunk/openair3/MESH/RRM/VCD/Config_wave.xxx
+END
+mkvcd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/1123/trunk/openair3/MESH/RRM/VCD/mkvcd
+END
+gtkwave.ini
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1123/trunk/openair3/MESH/RRM/VCD/gtkwave.ini
+END

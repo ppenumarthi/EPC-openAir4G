@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5952/trunk/targets/PROJECTS/CENTOS-LTE-EPC-INTEGRATION/CONF
+END
+enb.centos.memphis.conf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5849/trunk/targets/PROJECTS/CENTOS-LTE-EPC-INTEGRATION/CONF/enb.centos.memphis.conf
+END
+enb.centos.nord.conf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5952/trunk/targets/PROJECTS/CENTOS-LTE-EPC-INTEGRATION/CONF/enb.centos.nord.conf
+END
+enb.centos.calisson.conf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5850/trunk/targets/PROJECTS/CENTOS-LTE-EPC-INTEGRATION/CONF/enb.centos.calisson.conf
+END

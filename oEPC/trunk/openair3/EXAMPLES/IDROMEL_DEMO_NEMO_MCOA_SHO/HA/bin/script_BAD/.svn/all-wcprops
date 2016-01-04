@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD
+END
+deinitCN.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/deinitCN.sh
+END
+tcp_send.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/tcp_send.sh
+END
+initMR.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/initMR.sh
+END
+waitfortime.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/waitfortime.c
+END
+run_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/run_test.sh
+END
+tcp_recv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/tcp_recv.sh
+END
+radioconfig_WLAN.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/radioconfig_WLAN.sh
+END
+initHA.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/initHA.sh
+END
+deinitLFN.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/deinitLFN.sh
+END
+setting.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/setting.sh
+END
+radioconfig_3G.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/radioconfig_3G.sh
+END
+waitfortime
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/waitfortime
+END
+getlog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/getlog.sh
+END
+tcp_send_CBR.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/tcp_send_CBR.sh
+END
+initAR.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/initAR.sh
+END
+tcp_recv_dump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/tcp_recv_dump.sh
+END
+HOtrigger.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/1123/trunk/openair3/EXAMPLES/IDROMEL_DEMO_NEMO_MCOA_SHO/HA/bin/script_BAD/HOtrigger.sh
+END

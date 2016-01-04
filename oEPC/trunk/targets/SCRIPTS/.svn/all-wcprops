@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/4309/trunk/targets/SCRIPTS
+END
+asn1_generate_rrc_messaging_c_code.bash
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/3710/trunk/targets/SCRIPTS/asn1_generate_rrc_messaging_c_code.bash
+END
+svn-merge-meld.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/4309/trunk/targets/SCRIPTS/svn-merge-meld.py
+END
+install_asn1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/3711/trunk/targets/SCRIPTS/install_asn1.sh
+END
+msc_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/2620/trunk/targets/SCRIPTS/msc_gen.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S6A
+END
+s6a_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S6A/s6a_task.c
+END
+s6a.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S6A/s6a.h
+END
+s6a_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S6A/s6a_defs.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S6A/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/S6A/Makefile.am
+END

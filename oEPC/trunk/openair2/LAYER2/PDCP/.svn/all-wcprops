@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/PDCP
+END
+pdcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/1696/trunk/openair2/LAYER2/PDCP/pdcp.c
+END
+pdcp_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5096/trunk/openair2/LAYER2/PDCP/pdcp_primitives.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/PDCP/COPYING
+END
+pdcp_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5096/trunk/openair2/LAYER2/PDCP/pdcp_entity.h
+END
+pdcp_fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5222/trunk/openair2/LAYER2/PDCP/pdcp_fifo.c
+END
+pdcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/1436/trunk/openair2/LAYER2/PDCP/pdcp.h
+END
+pdcp_control_primitive.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5096/trunk/openair2/LAYER2/PDCP/pdcp_control_primitive.c
+END
+pdcp_control_primitives_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5096/trunk/openair2/LAYER2/PDCP/pdcp_control_primitives_proto_extern.h
+END
+pdcp_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5096/trunk/openair2/LAYER2/PDCP/pdcp_proto_extern.h
+END

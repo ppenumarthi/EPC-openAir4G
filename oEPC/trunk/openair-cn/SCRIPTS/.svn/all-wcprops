@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/6020/trunk/openair-cn/SCRIPTS
+END
+start_router.eur.bash
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/start_router.eur.bash
+END
+start_lte-enb-ovs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/start_lte-enb-ovs.bash
+END
+start_router.nord.eur.bash
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/start_router.nord.eur.bash
+END
+start_lte-epc-ovs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/start_lte-epc-ovs.bash
+END
+start_mme.bash
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/start_mme.bash
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5543/trunk/openair-cn/SCRIPTS/COPYING
+END
+start_spgw.bash
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/start_spgw.bash
+END
+start_lte-sgw.bash
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/start_lte-sgw.bash
+END
+utils.bash
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6019/trunk/openair-cn/SCRIPTS/utils.bash
+END
+start_enb.bash
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6020/trunk/openair-cn/SCRIPTS/start_enb.bash
+END
+install_asn1c_0.9.24.modified.bash
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5783/trunk/openair-cn/SCRIPTS/install_asn1c_0.9.24.modified.bash
+END
+install_openvswitch1.9.0.bash
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/install_openvswitch1.9.0.bash
+END
+start_lte-epc.bash
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5565/trunk/openair-cn/SCRIPTS/start_lte-epc.bash
+END

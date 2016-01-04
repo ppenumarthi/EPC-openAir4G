@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5714/trunk/openair2/RRM_4_RRC_LITE
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/ChangeLog
+END
+Makefile.cvs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/Makefile.cvs
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5578/trunk/openair2/RRM_4_RRC_LITE/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/Makefile.am
+END
+Makefile.objs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1202/trunk/openair2/RRM_4_RRC_LITE/Makefile.objs
+END
+Makefile.Defines.linux-x86-32
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1197/trunk/openair2/RRM_4_RRC_LITE/Makefile.Defines.linux-x86-32
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/4658/trunk/openair2/RRM_4_RRC_LITE/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1198/trunk/openair2/RRM_4_RRC_LITE/README
+END
+Makefile.Defines.linux-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1197/trunk/openair2/RRM_4_RRC_LITE/Makefile.Defines.linux-x86-64
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/configure.ac
+END

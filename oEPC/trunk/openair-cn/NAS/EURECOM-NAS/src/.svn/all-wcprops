@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS/src
+END
+nas_network.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/nas_network.h
+END
+nas_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/nas_user.c
+END
+nas_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/nas_parser.h
+END
+nas_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/nas_proc.c
+END
+nas_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/nas_user.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/COPYING
+END
+UEprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/UEprocess.c
+END
+nas_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/nas_proc.h
+END
+nas_network.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/nas_network.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/Makefile
+END
+MMEprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/MMEprocess.c
+END
+nas_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/nas_parser.c
+END

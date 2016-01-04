@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/GPIB
+END
+querygpib.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/GPIB/querygpib.m
+END
+gpibcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/GPIB/gpibcmd.c
+END
+sendgpib.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/GPIB/sendgpib.m
+END
+querygpib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/GPIB/querygpib
+END
+querygpib.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/GPIB/querygpib.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/GPIB/Makefile
+END

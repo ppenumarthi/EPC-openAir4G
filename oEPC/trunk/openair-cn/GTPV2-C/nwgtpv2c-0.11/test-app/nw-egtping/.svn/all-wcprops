@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/Makefile.am
+END
+NwEvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwEvt.h
+END
+NwMiniLogMgrEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniLogMgrEntity.h
+END
+NwMiniTmrMgrEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniTmrMgrEntity.h
+END
+NwMiniUdpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniUdpEntity.h
+END
+NwMiniUlpEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniUlpEntity.c
+END
+NwMiniUlpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniUlpEntity.h
+END
+NwMiniLogMgrEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniLogMgrEntity.c
+END
+NwEgtPingMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwEgtPingMain.c
+END
+NwMiniTmrMgrEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniTmrMgrEntity.c
+END
+NwMiniUdpEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping/NwMiniUdpEntity.c
+END

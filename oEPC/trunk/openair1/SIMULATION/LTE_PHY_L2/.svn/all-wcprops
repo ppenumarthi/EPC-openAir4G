@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_PHY_L2
+END
+phy_procedures_sim_form.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY_L2/phy_procedures_sim_form.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/LTE_PHY_L2/COPYING
+END
+phy_procedures_sim_form.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY_L2/phy_procedures_sim_form.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_PHY_L2/Makefile
+END
+phy_procedures_sim_form.fd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/LTE_PHY_L2/phy_procedures_sim_form.fd
+END
+phy_procedures_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_PHY_L2/phy_procedures_sim.c
+END

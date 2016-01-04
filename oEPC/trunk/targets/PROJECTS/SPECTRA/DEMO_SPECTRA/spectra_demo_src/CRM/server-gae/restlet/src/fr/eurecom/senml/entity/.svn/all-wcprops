@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity
+END
+Sensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/Sensor.java
+END
+Zone.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/Zone.java
+END
+RegisteredDeviceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/RegisteredDeviceType.java
+END
+SensorAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/SensorAdmin.java
+END
+ISensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/ISensor.java
+END
+ZoneAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/ZoneAdmin.java
+END
+SensorCheckAlarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/SensorCheckAlarm.java
+END
+IZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/IZone.java
+END
+PostValType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/PostValType.java
+END
+ISensorAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/ISensorAdmin.java
+END
+ContactTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/ContactTest.java
+END
+IZoneAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/IZoneAdmin.java
+END
+PostValAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/PostValAdmin.java
+END
+Measure.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/Measure.java
+END
+IPostVal.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/IPostVal.java
+END
+Units.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/senml/entity/Units.java
+END

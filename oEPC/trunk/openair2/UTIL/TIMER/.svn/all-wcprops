@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TIMER
+END
+umts_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TIMER/umts_timer.h
+END
+umts_timer_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TIMER/umts_timer_struct.h
+END
+umts_timer_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TIMER/umts_timer_proto_extern.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/TIMER/COPYING
+END
+umts_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TIMER/umts_timer.c
+END

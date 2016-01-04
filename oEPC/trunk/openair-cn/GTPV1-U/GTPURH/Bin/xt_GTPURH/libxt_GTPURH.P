@@ -1,0 +1,3 @@
+/home/phanik/oEPC/trunk/openair-cn/GTPV1-U/GTPURH/Bin/xt_GTPURH/libxt_GTPURH.o: \
+ libxt_GTPURH.c xt_GTPURH.h
+ libxt_GTPURH.c xt_GTPURH.h :

@@ -1,0 +1,40 @@
+10
+
+dir
+6329
+http://svn.eurecom.fr/openair4G/trunk/targets/ARCH/EXMIMO
+http://svn.eurecom.fr/openair4G
+
+
+
+2014-12-10T15:31:39.248495Z
+6234
+thomasl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+818b1a75-f10b-46b9-bf7c-635c3b92a50f
+
+DEFS
+dir
+
+BITSTREAM
+dir
+
+USERSPACE
+dir
+
+DRIVER
+dir
+

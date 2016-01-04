@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 116
+configure
+config.sub
+config.guess
+Makefile.in
+ylwrap
+missing
+ltmain.sh
+install-sh
+depcomp
+aclocal.m4
+autom4te.cache
+
+END

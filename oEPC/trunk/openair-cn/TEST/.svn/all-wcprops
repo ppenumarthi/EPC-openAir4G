@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/5579/trunk/openair-cn/TEST
+END
+oaisim_mme_list_benchmark.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/oaisim_mme_list_benchmark.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5539/trunk/openair-cn/TEST/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5565/trunk/openair-cn/TEST/Makefile.am
+END
+test_aes128_cmac_encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_aes128_cmac_encrypt.c
+END
+test_secu_kenb.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_secu_kenb.c
+END
+test_secu.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_secu.c
+END
+test_secu_knas_stream_int.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_secu_knas_stream_int.c
+END
+oaisim_mme_s1ap_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/oaisim_mme_s1ap_test.c
+END
+test_s1ap.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_s1ap.c
+END
+test_kdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5579/trunk/openair-cn/TEST/test_kdf.c
+END
+test_aes128_ctr_decrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_aes128_ctr_decrypt.c
+END
+oaisim_mme_sctp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/oaisim_mme_sctp_test.c
+END
+oaisim_mme_itti_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/oaisim_mme_itti_test.c
+END
+test_secu_knas_encrypt_eea1.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_secu_knas_encrypt_eea1.c
+END
+test_secu_knas.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_secu_knas.c
+END
+test_secu_knas_encrypt_eea2.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_secu_knas_encrypt_eea2.c
+END
+oaisim_mme_client_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/oaisim_mme_client_test.c
+END
+test_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/4234/trunk/openair-cn/TEST/test_util.c
+END
+test_secu_knas_encrypt_eia1.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_secu_knas_encrypt_eia1.c
+END
+test_aes128_ctr_encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_aes128_ctr_encrypt.c
+END
+test_secu_knas_encrypt_eia2.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/TEST/test_secu_knas_encrypt_eia2.c
+END
+test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/4234/trunk/openair-cn/TEST/test_util.h
+END

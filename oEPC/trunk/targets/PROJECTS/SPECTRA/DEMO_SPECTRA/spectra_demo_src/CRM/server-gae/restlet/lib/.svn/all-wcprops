@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib
+END
+org.restlet.ext.wadl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.restlet.ext.wadl.jar
+END
+json_simple-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/json_simple-1.1.jar
+END
+org.json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.json.jar
+END
+org.restlet.ext.json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.restlet.ext.json.jar
+END
+org.springframework.web-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.springframework.web-3.1.1.RELEASE.jar
+END
+org.springframework.web.servlet-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.springframework.web.servlet-3.1.1.RELEASE.jar
+END
+org.restlet.ext.xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.restlet.ext.xml.jar
+END
+org.springframework.context-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.springframework.context-3.1.1.RELEASE.jar
+END
+org.restlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.restlet.jar
+END
+gcm-server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/gcm-server.jar
+END
+org.restlet.ext.servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.restlet.ext.servlet.jar
+END
+org.springframework.beans-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/lib/org.springframework.beans-3.1.1.RELEASE.jar
+END

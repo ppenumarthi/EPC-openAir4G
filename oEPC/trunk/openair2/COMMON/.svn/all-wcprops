@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/6329/trunk/openair2/COMMON
+END
+gtpv1_u_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/6227/trunk/openair2/COMMON/gtpv1_u_messages_types.h
+END
+rrc_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5740/trunk/openair2/COMMON/rrc_messages_types.h
+END
+pdcp_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/pdcp_messages_types.h
+END
+udp_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5985/trunk/openair2/COMMON/udp_messages_types.h
+END
+s1ap_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5879/trunk/openair2/COMMON/s1ap_messages_def.h
+END
+phy_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5896/trunk/openair2/COMMON/phy_messages_types.h
+END
+mac_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/mac_messages_types.h
+END
+mac_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/mac_primitives.h
+END
+mac_rlc_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/mac_rlc_primitives.h
+END
+sctp_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/sctp_messages_def.h
+END
+mac_rrc_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/6253/trunk/openair2/COMMON/mac_rrc_primitives.h
+END
+rlc_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/rlc_messages_def.h
+END
+messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/messages_def.h
+END
+x2ap_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/x2ap_messages_types.h
+END
+nas_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/nas_messages_def.h
+END
+ral_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5800/trunk/openair2/COMMON/ral_messages_types.h
+END
+gtpv1_u_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/gtpv1_u_messages_def.h
+END
+rrc_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/rrc_messages_def.h
+END
+pdcp_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/pdcp_messages_def.h
+END
+udp_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/udp_messages_def.h
+END
+rtos_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/rtos_header.h
+END
+tasks_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/6132/trunk/openair2/COMMON/tasks_def.h
+END
+phy_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/phy_messages_def.h
+END
+mac_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/mac_messages_def.h
+END
+as_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/as_message.h
+END
+commonDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/commonDef.h
+END
+platform_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6329/trunk/openair2/COMMON/platform_types.h
+END
+networkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/networkDef.h
+END
+rrm_config_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/rrm_config_structs.h
+END
+s1ap_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6315/trunk/openair2/COMMON/s1ap_messages_types.h
+END
+x2ap_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/x2ap_messages_def.h
+END
+platform_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/platform_constants.h
+END
+openair_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/openair_types.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5578/trunk/openair2/COMMON/COPYING
+END
+ral_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5760/trunk/openair2/COMMON/ral_messages_def.h
+END
+sctp_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/sctp_messages_types.h
+END
+intertask_interface_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/intertask_interface_conf.h
+END
+rlc_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/rlc_messages_types.h
+END
+messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/messages_types.h
+END
+rrm_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/rrm_constants.h
+END
+nas_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/nas_messages_types.h
+END
+openair_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5714/trunk/openair2/COMMON/openair_defs.h
+END

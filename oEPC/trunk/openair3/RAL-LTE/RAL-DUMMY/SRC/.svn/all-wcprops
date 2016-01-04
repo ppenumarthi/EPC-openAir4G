@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC
+END
+mRALlte_parameters.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_parameters.c
+END
+eRALlte_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/eRALlte_action.c
+END
+eRALlte_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/eRALlte_process.c
+END
+nasRGdummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/nasRGdummy.c
+END
+eRALlte_thresholds.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/eRALlte_thresholds.c
+END
+nasUEdummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/nasUEdummy.c
+END
+eRALlte_subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/eRALlte_subscribe.c
+END
+eRALlte_NAS.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/eRALlte_NAS.c
+END
+eRALlte_mih_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/eRALlte_mih_msg.c
+END
+eRALlte_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/eRALlte_main.c
+END
+mRALlte_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_action.c
+END
+mRALlte_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_process.c
+END
+mRALlte_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_get.c
+END
+mRALlte_thresholds.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_thresholds.c
+END
+mRALlte_subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_subscribe.c
+END
+mRALlte_NAS.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_NAS.c
+END
+mRALlte_mih_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_mih_msg.c
+END
+mRALlte_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/mRALlte_main.c
+END
+eRALlte_parameters.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5728/trunk/openair3/RAL-LTE/RAL-DUMMY/SRC/eRALlte_parameters.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TRACE
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/TRACE/COPYING
+END
+fifo_printf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TRACE/fifo_printf.h
+END
+print.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TRACE/print.h
+END
+fifo_printf_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TRACE/fifo_printf_proto_extern.h
+END
+fifo_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/TRACE/fifo_printf.c
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE
+END
+MIH_C_F13_data_types_for_information_elements_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_F13_data_types_for_information_elements_codec.h
+END
+MIH_C_F2_general_data_types_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_F2_general_data_types_codec.h
+END
+MIH_C_F9_data_types_for_qos_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_F9_data_types_for_qos_codec.h
+END
+MIH_C.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C.h
+END
+MIH_C_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_log.h
+END
+MIH_C_F1_basic_data_types_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_F1_basic_data_types_codec.h
+END
+MIH_C_msg_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_msg_codec.h
+END
+MIH_C_Link_Messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_Link_Messages.h
+END
+MIH_C_header_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_header_codec.h
+END
+MIH_C_Link_Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_Link_Constants.h
+END
+MIH_C_F4_data_types_for_links_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_F4_data_types_for_links_codec.h
+END
+MIH_C_F3_data_types_for_address_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_F3_data_types_for_address_codec.h
+END
+MIH_C_L2_type_values_for_tlv_encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_L2_type_values_for_tlv_encoding.h
+END
+MIH_C_Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_Types.h
+END
+MIH_C_Medieval_extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_Medieval_extensions.h
+END
+MIH_C_primitive_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_primitive_codec.h
+END
+MIH_C_bit_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_bit_buffer.h
+END
+MIH_C_Link_Primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5725/trunk/openair3/RAL-LTE/INTERFACE-802.21/INCLUDE/MIH_C_Link_Primitives.h
+END

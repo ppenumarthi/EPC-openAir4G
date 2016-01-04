@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5778/trunk/openair1/SIMULATION/TOOLS
+END
+multipath_tv_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/multipath_tv_channel.c
+END
+random_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/random_channel.c
+END
+abstraction.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5778/trunk/openair1/SIMULATION/TOOLS/abstraction.c
+END
+ch_desc_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/ch_desc_proto.c
+END
+scm.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1861/trunk/openair1/SIMULATION/TOOLS/scm.m
+END
+taus.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/taus.c
+END
+scm_corrmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/scm_corrmat.h
+END
+llr_quantization.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/llr_quantization.c
+END
+multipath_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/multipath_channel.c
+END
+corr_mat.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/TOOLS/corr_mat.m
+END
+gauss.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/gauss.c
+END
+rangen_double.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/rangen_double.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/TOOLS/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/TOOLS/COPYING
+END

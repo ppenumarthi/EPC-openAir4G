@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5619/trunk/openair-cn/OPENAIRHSS/auc
+END
+auc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/auc/auc.h
+END
+fx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5479/trunk/openair-cn/OPENAIRHSS/auc/fx.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/auc/random.c
+END
+sequence_number.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5619/trunk/openair-cn/OPENAIRHSS/auc/sequence_number.c
+END
+kdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/auc/kdf.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5535/trunk/openair-cn/OPENAIRHSS/auc/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/auc/Makefile.am
+END
+rijndael.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/auc/rijndael.c
+END

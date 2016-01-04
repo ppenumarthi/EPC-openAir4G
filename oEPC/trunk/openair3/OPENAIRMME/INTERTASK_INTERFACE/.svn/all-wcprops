@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE
+END
+gtpv1_u_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/gtpv1_u_messages_def.h
+END
+sgw_lite_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/sgw_lite_def.h
+END
+timer_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/timer_messages_types.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/Makefile.in
+END
+udp_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/udp_messages_def.h
+END
+s6a_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/s6a_messages_def.h
+END
+gtpv1_u_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/gtpv1_u_messages_types.h
+END
+udp_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/udp_messages_types.h
+END
+s6a_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/s6a_messages_types.h
+END
+intertask_interface_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/intertask_interface_dump.c
+END
+s1ap_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/s1ap_messages_def.h
+END
+intertask_interface_dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/intertask_interface_dump.h
+END
+sctp_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/sctp_messages_def.h
+END
+s1ap_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/s1ap_messages_types.h
+END
+intertask_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/intertask_interface.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/Makefile.am
+END
+sctp_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/sctp_messages_types.h
+END
+intertask_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/intertask_interface.h
+END
+timer_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/timer_messages_def.h
+END
+sgw_lite_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/INTERTASK_INTERFACE/sgw_lite_messages_types.h
+END

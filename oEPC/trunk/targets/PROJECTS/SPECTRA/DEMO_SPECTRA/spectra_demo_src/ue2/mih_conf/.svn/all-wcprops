@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/ue2/mih_conf
+END
+odtone_ue.conf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/ue2/mih_conf/odtone_ue.conf
+END
+ue2_user.conf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/ue2/mih_conf/ue2_user.conf
+END
+link_sap.conf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/ue2/mih_conf/link_sap.conf
+END

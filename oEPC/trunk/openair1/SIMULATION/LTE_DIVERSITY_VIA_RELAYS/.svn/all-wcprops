@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_DIVERSITY_VIA_RELAYS
+END
+relays_sim_harq2.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_DIVERSITY_VIA_RELAYS/relays_sim_harq2.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/LTE_DIVERSITY_VIA_RELAYS/COPYING
+END
+relays_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_DIVERSITY_VIA_RELAYS/relays_sim.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1123/trunk/openair1/SIMULATION/LTE_DIVERSITY_VIA_RELAYS/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LTE_DIVERSITY_VIA_RELAYS/Makefile
+END
+relays_sim_harq.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LTE_DIVERSITY_VIA_RELAYS/relays_sim_harq.c
+END

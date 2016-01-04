@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg
+END
+TrackingAreaUpdateReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateReject.h
+END
+GutiReallocationComplete.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/GutiReallocationComplete.h
+END
+AuthenticationResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AuthenticationResponse.h
+END
+IdentityResponse.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/IdentityResponse.c
+END
+SecurityModeCommand.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/SecurityModeCommand.c
+END
+AuthenticationReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AuthenticationReject.c
+END
+IdentityResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/IdentityResponse.h
+END
+TrackingAreaUpdateAccept.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateAccept.c
+END
+AuthenticationReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AuthenticationReject.h
+END
+TrackingAreaUpdateAccept.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateAccept.h
+END
+EmmInformation.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/EmmInformation.c
+END
+AuthenticationFailure.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AuthenticationFailure.c
+END
+EmmInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/EmmInformation.h
+END
+AuthenticationFailure.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AuthenticationFailure.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/Makefile
+END
+GutiReallocationCommand.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/GutiReallocationCommand.c
+END
+GutiReallocationCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/GutiReallocationCommand.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/COPYING
+END
+ExtendedServiceRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/ExtendedServiceRequest.c
+END
+ServiceReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/ServiceReject.c
+END
+CsServiceNotification.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/CsServiceNotification.c
+END
+ExtendedServiceRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/ExtendedServiceRequest.h
+END
+DetachRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/DetachRequest.c
+END
+IdentityRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/IdentityRequest.c
+END
+ServiceReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/ServiceReject.h
+END
+CsServiceNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/CsServiceNotification.h
+END
+DownlinkNasTransport.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/DownlinkNasTransport.c
+END
+SecurityModeComplete.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/SecurityModeComplete.c
+END
+DetachRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/DetachRequest.h
+END
+IdentityRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/IdentityRequest.h
+END
+TrackingAreaUpdateRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateRequest.c
+END
+DetachAccept.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/DetachAccept.c
+END
+ServiceRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/ServiceRequest.c
+END
+SecurityModeReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/SecurityModeReject.c
+END
+DownlinkNasTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/DownlinkNasTransport.h
+END
+TrackingAreaUpdateRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateRequest.h
+END
+DetachAccept.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/DetachAccept.h
+END
+ServiceRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/ServiceRequest.h
+END
+SecurityModeReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/SecurityModeReject.h
+END
+EmmStatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/EmmStatus.c
+END
+EmmStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/EmmStatus.h
+END
+AttachComplete.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AttachComplete.c
+END
+AttachReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AttachReject.c
+END
+AttachComplete.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AttachComplete.h
+END
+emm_cause.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/emm_cause.h
+END
+AttachReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AttachReject.h
+END
+emm_msgDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/emm_msgDef.h
+END
+NASSecurityModeComplete.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/NASSecurityModeComplete.h
+END
+AttachRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5695/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AttachRequest.c
+END
+UplinkNasTransport.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/UplinkNasTransport.c
+END
+NASSecurityModeCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/NASSecurityModeCommand.h
+END
+AttachRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5695/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AttachRequest.h
+END
+emm_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5599/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/emm_msg.c
+END
+AttachAccept.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AttachAccept.c
+END
+UplinkNasTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/UplinkNasTransport.h
+END
+TrackingAreaUpdateComplete.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateComplete.c
+END
+AuthenticationRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AuthenticationRequest.c
+END
+emm_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/emm_msg.h
+END
+AttachAccept.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AttachAccept.h
+END
+TrackingAreaUpdateReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateReject.c
+END
+TrackingAreaUpdateComplete.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/TrackingAreaUpdateComplete.h
+END
+AuthenticationRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AuthenticationRequest.h
+END
+AuthenticationResponse.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/AuthenticationResponse.c
+END
+GutiReallocationComplete.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/msg/GutiReallocationComplete.c
+END

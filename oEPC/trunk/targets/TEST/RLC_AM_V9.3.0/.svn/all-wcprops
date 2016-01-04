@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6198/trunk/targets/TEST/RLC_AM_V9.3.0
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6198/trunk/targets/TEST/RLC_AM_V9.3.0/Makefile
+END
+oaisim.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1795/trunk/targets/TEST/RLC_AM_V9.3.0/oaisim.c
+END

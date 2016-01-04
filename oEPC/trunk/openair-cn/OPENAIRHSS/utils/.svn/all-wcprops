@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/utils
+END
+hss_parser.y
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/utils/hss_parser.y
+END
+hss_scanner.l
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/utils/hss_scanner.l
+END
+hss_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/utils/hss_config.c
+END
+conversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/utils/conversion.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5535/trunk/openair-cn/OPENAIRHSS/utils/COPYING
+END
+hss_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/utils/hss_config.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/utils/Makefile.am
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/utils/queue.h
+END
+conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/utils/conversion.h
+END

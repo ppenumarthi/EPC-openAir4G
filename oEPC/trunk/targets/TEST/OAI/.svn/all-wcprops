@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/openair4G/!svn/ver/6287/trunk/targets/TEST/OAI
+END
+case05.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5708/trunk/targets/TEST/OAI/case05.py
+END
+test01.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6253/trunk/targets/TEST/OAI/test01.py
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/4513/trunk/targets/TEST/OAI/log.py
+END
+test02.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6287/trunk/targets/TEST/OAI/test02.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/4736/trunk/targets/TEST/OAI/README
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/6181/trunk/targets/TEST/OAI/core.py
+END
+case01.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6181/trunk/targets/TEST/OAI/case01.py
+END
+case02.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6253/trunk/targets/TEST/OAI/case02.py
+END
+case11.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6161/trunk/targets/TEST/OAI/case11.py
+END
+openair.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/6253/trunk/targets/TEST/OAI/openair.py
+END
+case03.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6253/trunk/targets/TEST/OAI/case03.py
+END
+case12.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6286/trunk/targets/TEST/OAI/case12.py
+END
+case04.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6210/trunk/targets/TEST/OAI/case04.py
+END
+case13.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6286/trunk/targets/TEST/OAI/case13.py
+END

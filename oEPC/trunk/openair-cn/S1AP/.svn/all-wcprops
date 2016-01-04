@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/6317/trunk/openair-cn/S1AP
+END
+Makefile.eNB
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6314/trunk/openair-cn/S1AP/Makefile.eNB
+END
+s1ap_mme_encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_encoder.c
+END
+s1ap_mme_retransmission.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_retransmission.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5565/trunk/openair-cn/S1AP/Makefile.inc
+END
+s1ap_mme_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_encoder.h
+END
+s1ap_mme_retransmission.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_retransmission.h
+END
+s1ap_eNB_handlers.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5880/trunk/openair-cn/S1AP/s1ap_eNB_handlers.c
+END
+s1ap_eNB_nnsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_nnsf.c
+END
+s1ap_eNB_handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_handlers.h
+END
+s1ap_eNB_default_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_default_values.h
+END
+s1ap_eNB_nnsf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_nnsf.h
+END
+s1ap_eNB_context_management_procedures.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/6317/trunk/openair-cn/S1AP/s1ap_eNB_context_management_procedures.c
+END
+s1ap_eNB_ue_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_ue_context.c
+END
+s1ap_mme_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_decoder.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5551/trunk/openair-cn/S1AP/COPYING
+END
+s1ap_eNB_encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6314/trunk/openair-cn/S1AP/s1ap_eNB_encoder.c
+END
+s1ap_eNB_context_management_procedures.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/6316/trunk/openair-cn/S1AP/s1ap_eNB_context_management_procedures.h
+END
+s1ap_mme_itti_messaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_itti_messaging.c
+END
+s1ap_eNB_ue_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6223/trunk/openair-cn/S1AP/s1ap_eNB_ue_context.h
+END
+s1ap_eNB_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_encoder.h
+END
+s1ap_mme_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_decoder.h
+END
+s1ap_mme_itti_messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_itti_messaging.h
+END
+s1ap_eNB_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_defs.h
+END
+s1ap_mme_nas_procedures.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5656/trunk/openair-cn/S1AP/s1ap_mme_nas_procedures.c
+END
+s1ap_mme.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme.c
+END
+s1ap_mme_nas_procedures.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_nas_procedures.h
+END
+s1ap_eNB_trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_trace.c
+END
+s1ap_mme.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme.h
+END
+s1ap_eNB_trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/4342/trunk/openair-cn/S1AP/s1ap_eNB_trace.h
+END
+s1ap_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_common.c
+END
+s1ap_eNB_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5877/trunk/openair-cn/S1AP/s1ap_eNB_decoder.c
+END
+s1ap_eNB_itti_messaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6223/trunk/openair-cn/S1AP/s1ap_eNB_itti_messaging.c
+END
+s1ap_eNB_management_procedures.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_management_procedures.c
+END
+s1ap_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_common.h
+END
+s1ap_eNB_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_decoder.h
+END
+s1ap_mme_handlers.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5946/trunk/openair-cn/S1AP/s1ap_mme_handlers.c
+END
+s1ap_eNB_overload.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_overload.c
+END
+s1ap_eNB_itti_messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6223/trunk/openair-cn/S1AP/s1ap_eNB_itti_messaging.h
+END
+s1ap_eNB_nas_procedures.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6317/trunk/openair-cn/S1AP/s1ap_eNB_nas_procedures.c
+END
+s1ap_eNB_management_procedures.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_management_procedures.h
+END
+s1ap_mme_ta.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_ta.c
+END
+s1ap_mme_handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_handlers.h
+END
+s1ap_eNB_overload.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB_overload.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5565/trunk/openair-cn/S1AP/Makefile.am
+END
+s1ap_eNB.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6314/trunk/openair-cn/S1AP/s1ap_eNB.c
+END
+s1ap_eNB_nas_procedures.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6314/trunk/openair-cn/S1AP/s1ap_eNB_nas_procedures.h
+END
+s1ap_mme_ta.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_mme_ta.h
+END
+s1ap_eNB.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5552/trunk/openair-cn/S1AP/s1ap_eNB.h
+END

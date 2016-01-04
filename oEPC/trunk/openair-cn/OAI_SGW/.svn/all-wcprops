@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/5565/trunk/openair-cn/OAI_SGW
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5534/trunk/openair-cn/OAI_SGW/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5565/trunk/openair-cn/OAI_SGW/Makefile.am
+END
+oai_sgw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5552/trunk/openair-cn/OAI_SGW/oai_sgw.c
+END
+oai_sgw_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5552/trunk/openair-cn/OAI_SGW/oai_sgw_log.c
+END
+oai_sgw.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5552/trunk/openair-cn/OAI_SGW/oai_sgw.h
+END

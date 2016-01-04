@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6081/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5718/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/COPYING
+END
+module_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/module_main.c
+END
+exmimo_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/exmimo_fw.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/extern.h
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/irq.c
+END
+test_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5596/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/test_script.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6081/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/Makefile
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5596/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/compile.sh
+END
+do_reinsert_driver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5596/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/do_reinsert_driver.sh
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/vars.h
+END
+do_reenumerate_expressmimo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5596/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/do_reenumerate_expressmimo.sh
+END
+fileops.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/exmimo3/fileops.c
+END

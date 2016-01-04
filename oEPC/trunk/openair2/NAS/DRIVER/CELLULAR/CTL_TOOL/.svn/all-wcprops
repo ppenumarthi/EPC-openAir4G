@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/CTL_TOOL
+END
+nascell_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/CTL_TOOL/nascell_ioctl.h
+END
+nascell_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5096/trunk/openair2/NAS/DRIVER/CELLULAR/CTL_TOOL/nascell_ioctl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/3691/trunk/openair2/NAS/DRIVER/CELLULAR/CTL_TOOL/Makefile
+END

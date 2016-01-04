@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/NAS
+END
+rb_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/NAS/rb_config.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1999/trunk/openair2/RRC/NAS/Makefile.inc
+END
+nas_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/NAS/nas_config.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5578/trunk/openair2/RRC/NAS/COPYING
+END
+rb_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5714/trunk/openair2/RRC/NAS/rb_config.c
+END
+nas_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/NAS/nas_config.h
+END

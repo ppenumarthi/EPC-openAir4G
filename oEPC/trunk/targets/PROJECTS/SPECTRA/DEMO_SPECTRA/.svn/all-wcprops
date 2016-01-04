@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5891/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5891/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/README.txt
+END
+spectra_demo_prepare.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5874/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_prepare.sh
+END
+spectra_demo_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5874/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_install.sh
+END

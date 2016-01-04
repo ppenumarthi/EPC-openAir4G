@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6080/trunk/common/utils/itti
+END
+assertions.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/assertions.h
+END
+messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/messages_types.h
+END
+signals.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5870/trunk/common/utils/itti/signals.c
+END
+timer_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/timer_messages_types.h
+END
+itti_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/itti_types.h
+END
+signals.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/signals.h
+END
+tasks_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/tasks_def.h
+END
+intertask_interface_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/6080/trunk/common/utils/itti/intertask_interface_dump.c
+END
+intertask_interface_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/intertask_interface_init.h
+END
+intertask_interface_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/intertask_interface_types.h
+END
+intertask_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/intertask_messages_def.h
+END
+intertask_interface_dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/intertask_interface_dump.h
+END
+backtrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5870/trunk/common/utils/itti/backtrace.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/timer.c
+END
+memory_pools.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/memory_pools.c
+END
+intertask_messages_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/intertask_messages_types.h
+END
+intertask_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/6080/trunk/common/utils/itti/intertask_interface.c
+END
+backtrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/backtrace.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/timer.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/4528/trunk/common/utils/itti/Makefile.am
+END
+memory_pools.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/memory_pools.h
+END
+intertask_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5826/trunk/common/utils/itti/intertask_interface.h
+END
+messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/messages_def.h
+END
+timer_messages_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5717/trunk/common/utils/itti/timer_messages_def.h
+END

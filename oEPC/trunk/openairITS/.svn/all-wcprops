@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/openair4G/!svn/ver/6198/trunk/openairITS
+END
+ieee80211p_setup_vars.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5078/trunk/openairITS/ieee80211p_setup_vars.sh
+END
+ieee80211p_insert_modules.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5078/trunk/openairITS/ieee80211p_insert_modules.sh
+END
+ieee80211p_compile_modules.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5078/trunk/openairITS/ieee80211p_compile_modules.sh
+END
+ieee80211p_configure_interface.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2905/trunk/openairITS/ieee80211p_configure_interface.sh
+END

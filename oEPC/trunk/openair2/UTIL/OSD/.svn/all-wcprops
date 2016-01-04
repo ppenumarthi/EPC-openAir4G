@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/OSD
+END
+OCG.pid
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/2237/trunk/openair2/UTIL/OSD/OCG.pid
+END
+httpd-result.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2237/trunk/openair2/UTIL/OSD/httpd-result.conf
+END
+recep.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5299/trunk/openair2/UTIL/OSD/recep.php
+END
+OSD
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/2237/trunk/openair2/UTIL/OSD/OSD
+END
+Platform_is_running.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2237/trunk/openair2/UTIL/OSD/Platform_is_running.php
+END
+fake_oaisim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/2237/trunk/openair2/UTIL/OSD/fake_oaisim
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/OSD/COPYING
+END
+OpenAirEmu.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5231/trunk/openair2/UTIL/OSD/OpenAirEmu.conf
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5299/trunk/openair2/UTIL/OSD/form.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/OSD/README.txt
+END
+toto.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/2237/trunk/openair2/UTIL/OSD/toto.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2237/trunk/openair2/UTIL/OSD/index.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5299/trunk/openair2/UTIL/OSD/header.php
+END

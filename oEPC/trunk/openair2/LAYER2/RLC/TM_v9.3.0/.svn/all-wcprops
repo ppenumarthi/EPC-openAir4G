@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/TM_v9.3.0
+END
+rlc_tm_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/TM_v9.3.0/rlc_tm_structs.h
+END
+rlc_tm.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/TM_v9.3.0/rlc_tm.c
+END
+rlc_tm_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/TM_v9.3.0/rlc_tm_entity.h
+END
+rlc_tm_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/TM_v9.3.0/rlc_tm_init.c
+END
+rlc_tm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/TM_v9.3.0/rlc_tm.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/RLC/TM_v9.3.0/COPYING
+END
+rlc_tm_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/TM_v9.3.0/rlc_tm_init.h
+END

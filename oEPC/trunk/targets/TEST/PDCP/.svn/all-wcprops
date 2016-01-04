@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6198/trunk/targets/TEST/PDCP
+END
+test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1567/trunk/targets/TEST/PDCP/test_util.h
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/1564/trunk/targets/TEST/PDCP/todo.txt
+END
+test_pdcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1576/trunk/targets/TEST/PDCP/test_pdcp.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/1581/trunk/targets/TEST/PDCP/readme.txt
+END
+test_pdcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1532/trunk/targets/TEST/PDCP/test_pdcp.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6198/trunk/targets/TEST/PDCP/Makefile
+END

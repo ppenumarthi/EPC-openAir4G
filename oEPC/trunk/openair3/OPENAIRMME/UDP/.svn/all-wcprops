@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UDP
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/UDP/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/UDP/Makefile.am
+END
+udp_primitives_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UDP/udp_primitives_server.c
+END
+udp_primitives_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UDP/udp_primitives_server.h
+END

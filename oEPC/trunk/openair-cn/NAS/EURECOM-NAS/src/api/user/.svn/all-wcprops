@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user
+END
+at_command.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/at_command.c
+END
+at_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/at_error.h
+END
+at_response.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/at_response.c
+END
+user_indication.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/user_indication.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/COPYING
+END
+at_command.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/at_command.h
+END
+at_response.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/at_response.h
+END
+user_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/user_api.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/Makefile
+END
+user_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/user_api.h
+END
+at_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/at_error.c
+END
+user_indication.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/user_indication.c
+END

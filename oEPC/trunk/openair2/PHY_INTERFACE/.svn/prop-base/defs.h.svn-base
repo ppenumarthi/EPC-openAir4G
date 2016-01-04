@@ -1,0 +1,11 @@
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 182
+/branches/handover/openair2/PHY_INTERFACE/defs.h:2364-4188
+/tags/20140919_fk_fdd_tdd/openair2/PHY_INTERFACE/defs.h:5813-5841
+/tags/samurai_20121129/openair2/PHY_INTERFACE/defs.h:2892
+END

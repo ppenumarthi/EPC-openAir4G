@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS
+END
+nas_itti_messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5662/trunk/openair-cn/NAS/nas_itti_messaging.h
+END
+nas_ue_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/nas_ue_task.c
+END
+Makefile.UE
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5695/trunk/openair-cn/NAS/Makefile.UE
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5695/trunk/openair-cn/NAS/Makefile.inc
+END
+nas_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/nas_main.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5550/trunk/openair-cn/NAS/COPYING
+END
+nas_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/nas_defs.h
+END
+nas_itti_messaging.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/nas_itti_messaging.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/Makefile.am
+END

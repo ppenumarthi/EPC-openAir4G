@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 77
+Makefile.in
+s1ap_decoder.c
+s1ap_ies_defs.h
+s1ap_encoder.c
+s1ap_ieregen.stamp
+
+END

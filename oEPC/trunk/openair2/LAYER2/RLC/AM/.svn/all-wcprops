@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM
+END
+rlc_am_mac_status_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_mac_status_proto_extern.h
+END
+rlc_am.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am.c
+END
+rlc_am_receiver_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_receiver_proto_extern.h
+END
+rlc_am_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_constants.h
+END
+rlc_am_discard_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_discard_rx.c
+END
+rlc_am_discard_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_discard_tx.c
+END
+rlc_am_mux_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_mux_proto_extern.h
+END
+rlc_am_retrans_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_retrans_proto_extern.h
+END
+rlc_am_reset_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_reset_proto_extern.h
+END
+rlc_am_demux_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_demux_proto_extern.h
+END
+rlc_am_timers.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_timers.c
+END
+rlc_am_receiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_receiver.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/RLC/AM/COPYING
+END
+rlc_am_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_util.c
+END
+rlc_am_retrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_retrans.c
+END
+rlc_am_segment_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_segment_proto_extern.h
+END
+rlc_am_timers_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_timers_proto_extern.h
+END
+rlc_am_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_entity.h
+END
+rlc_am_reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_reset.c
+END
+rlc_am_demux.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_demux.c
+END
+rlc_am_reassembly_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_reassembly_proto_extern.h
+END
+rlc_am_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_status.c
+END
+rlc_am_discard_notif_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_discard_notif_proto_extern.h
+END
+rlc_am_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_fsm.c
+END
+rlc_am_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_errno.h
+END
+rlc_am_util_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_util_proto_extern.h
+END
+rlc_am_control_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_control_primitives.c
+END
+rlc_am_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_proto_extern.h
+END
+rlc_am_discard_rx_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_discard_rx_proto_extern.h
+END
+rlc_am_status_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_status_proto_extern.h
+END
+rlc_am_discard_tx_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_discard_tx_proto_extern.h
+END
+rlc_am_segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_segment.c
+END
+rlc_am_fsm_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_fsm_proto_extern.h
+END
+rlc_am_mac_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_mac_status.c
+END
+rlc_am_reassembly.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_reassembly.c
+END
+rlc_am_control_primitives_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_control_primitives_proto_extern.h
+END
+rlc_am_discard_notif.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_discard_notif.c
+END
+rlc_am_mux.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_mux.c
+END
+rlc_am_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM/rlc_am_structs.h
+END

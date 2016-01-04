@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5551/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8
+END
+S1AP-Constants.asn
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/4234/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8/S1AP-Constants.asn
+END
+S1AP-PDU-Descriptions.asn
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/4234/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8/S1AP-PDU-Descriptions.asn
+END
+S1AP-IEs.asn
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/4234/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8/S1AP-IEs.asn
+END
+S1AP-PDU-Contents.asn
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/4234/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8/S1AP-PDU-Contents.asn
+END
+S1AP-Containers.asn
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/4234/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8/S1AP-Containers.asn
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5551/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8/COPYING
+END
+S1AP-CommonDataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/4234/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8/S1AP-CommonDataTypes.asn
+END
+S1AP-PDU.asn
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/4234/trunk/openair-cn/S1AP/MESSAGES/ASN1/R9.8/S1AP-PDU.asn
+END

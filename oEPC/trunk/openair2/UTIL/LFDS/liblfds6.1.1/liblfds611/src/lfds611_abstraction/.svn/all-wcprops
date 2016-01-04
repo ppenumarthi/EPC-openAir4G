@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction
+END
+lfds611_abstraction_dcas.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_dcas.c
+END
+lfds611_abstraction_internal_body.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_internal_body.h
+END
+lfds611_abstraction_free.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_free.c
+END
+lfds611_abstraction_internal_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_internal_wrapper.h
+END
+lfds611_abstraction_increment.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_increment.c
+END
+lfds611_abstraction_cas.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_cas.c
+END
+lfds611_abstraction_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_malloc.c
+END

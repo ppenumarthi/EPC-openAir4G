@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/openair4G/!svn/ver/5167/trunk/openair3/OPENAIRMME
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/README
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/config.sub
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/config.h.in
+END

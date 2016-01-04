@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/3302/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS
+END
+rx_calibration_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/rx_calibration_quick.m
+END
+txsig.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/2603/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/txsig.m
+END
+phasenoise.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/2997/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/phasenoise.m
+END
+oarf_get_rtframe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_get_rtframe.cc
+END
+oarf_set_rx_rfmode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_set_rx_rfmode.cc
+END
+OFDM_TX.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/3301/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/OFDM_TX.m
+END
+bitplots.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/2804/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/bitplots.m
+END
+gain_table_v2_7_800_s1.mat
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_v2_7_800_s1.mat
+END
+gain_table_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_2.h
+END
+write_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/write_table.m
+END
+oarf_set_rx_gain.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_set_rx_gain.cc
+END
+oarf_send_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/2528/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_send_frame.cc
+END
+freq_calibration.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1839/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/freq_calibration.m
+END
+oarf_set_tx_gain.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_set_tx_gain.cc
+END
+oarf_config.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/2528/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_config.cc
+END
+gain_table_7.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_7.h
+END
+gain_table_v2_7_800_s1.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_v2_7_800_s1.h
+END
+OFDM_TX_FRAME.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/3301/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/OFDM_TX_FRAME.m
+END
+oarf_set_calibrated_rx_gain.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_set_calibrated_rx_gain.cc
+END
+gain_table_10.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_10.h
+END
+gain_table_v2_13_800_s3.mat
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_v2_13_800_s3.mat
+END
+gain_table_11.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_11.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/2528/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/Makefile
+END
+gain_table_12.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_12.h
+END
+oarf_stop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1522/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_stop.cc
+END
+gain_table_v2_13_800_s3.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_v2_13_800_s3.h
+END
+variouspowers.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/variouspowers.m
+END
+oarf_get_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/2528/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_get_frame.cc
+END
+rx_post.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/rx_post.m
+END
+oarf_set_tcxo_dac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_set_tcxo_dac.cc
+END
+MAX2391NF_v2_3_800.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/MAX2391NF_v2_3_800.png
+END
+rx_calibration.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/rx_calibration.m
+END
+plots.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/plots.m
+END
+rx_spec.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1522/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/rx_spec.m
+END
+gain_table_v2_8_800_s2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_v2_8_800_s2.mat
+END
+txsig_ofdm.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/3302/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/txsig_ofdm.m
+END
+rx_store.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/rx_store.m
+END
+gain_table_v2_8_800_s2.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_v2_8_800_s2.h
+END
+MAX2391Gain_v2_3_800.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/MAX2391Gain_v2_3_800.png
+END
+QAM_MOD.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/3301/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/QAM_MOD.m
+END
+rx_calibration_quick800_ue.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/rx_calibration_quick800_ue.m
+END
+rx_pss.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1887/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/rx_pss.m
+END
+openair_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/openair_init.m
+END
+plot_png.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/plot_png.m
+END
+gpib_send.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gpib_send.cc
+END
+gain_table_v2_3_800_ue.mat
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_v2_3_800_ue.mat
+END
+plots2.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/plots2.m
+END
+oarf_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/oarf_common.c
+END
+write_tcxo.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/write_tcxo.m
+END
+limeparms.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/2754/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/limeparms.m
+END
+launch_gpib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/launch_gpib.sh
+END
+gain_table_v2_3_800_ue.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1123/trunk/openair1/USERSPACE_TOOLS/OCTAVE/CBMIMO1_TOOLS/gain_table_v2_3_800_ue.h
+END

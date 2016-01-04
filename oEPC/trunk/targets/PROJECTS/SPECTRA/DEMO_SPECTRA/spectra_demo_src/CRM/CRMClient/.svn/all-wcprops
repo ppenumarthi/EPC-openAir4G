@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/CRMClient
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/CRMClient/Makefile
+END
+CRMClient
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/CRMClient/CRMClient
+END
+CRMClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/CRMClient/CRMClient.cpp
+END
+CRMClientmain
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/CRMClient/CRMClientmain
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/CRMClient/main.cpp
+END
+CRMClient.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/CRMClient/CRMClient.hpp
+END

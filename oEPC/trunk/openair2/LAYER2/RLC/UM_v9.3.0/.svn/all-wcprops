@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/UM_v9.3.0
+END
+rlc_um_reassembly.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_reassembly.h
+END
+rlc_um_dar.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_dar.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1123/trunk/openair2/LAYER2/RLC/UM_v9.3.0/README
+END
+rlc_um_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_structs.h
+END
+rlc_um_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_test.c
+END
+rlc_um.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.c
+END
+rlc_um_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_entity.h
+END
+rlc_um_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_constants.h
+END
+rlc_um_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_test.h
+END
+rlc_um_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_fsm.c
+END
+rlc_um.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/RLC/UM_v9.3.0/COPYING
+END
+rlc_um_fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_fsm.h
+END
+rlc_um_control_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_control_primitives.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1123/trunk/openair2/LAYER2/RLC/UM_v9.3.0/Makefile
+END
+rlc_um_very_simple_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_very_simple_test.c
+END
+rlc_um_control_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_control_primitives.h
+END
+rlc_um_segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_segment.c
+END
+rlc_um_very_simple_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_very_simple_test.h
+END
+rlc_um_receiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_receiver.c
+END
+rlc_um_reassembly.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_reassembly.c
+END
+rlc_um_dar.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_dar.c
+END
+rlc_um_segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_segment.h
+END
+rlc_um_receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/UM_v9.3.0/rlc_um_receiver.h
+END

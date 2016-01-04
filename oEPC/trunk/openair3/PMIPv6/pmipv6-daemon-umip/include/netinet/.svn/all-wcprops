@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/2771/trunk/openair3/PMIPv6/pmipv6-daemon-umip/include/netinet
+END
+icmp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/include/netinet/icmp6.h
+END
+ip6.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/include/netinet/ip6.h
+END
+ip6mh.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/2771/trunk/openair3/PMIPv6/pmipv6-daemon-umip/include/netinet/ip6mh.h
+END
+in.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/include/netinet/in.h
+END

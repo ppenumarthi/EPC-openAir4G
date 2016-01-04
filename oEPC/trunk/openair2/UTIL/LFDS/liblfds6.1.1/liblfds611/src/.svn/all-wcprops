@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/dirs
+END
+driver_entry_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/driver_entry_readme.txt
+END
+liblfds611_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/liblfds611_internal.h
+END
+driver_entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/driver_entry.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/openair4G/!svn/ver/6325/trunk/openair2/UTIL
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5576/trunk/openair2/UTIL/Makefile.inc
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/4214/trunk/openair2/UTIL/queue.h
+END

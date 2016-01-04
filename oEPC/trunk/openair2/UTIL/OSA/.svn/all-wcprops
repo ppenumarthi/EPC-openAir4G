@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6325/trunk/openair2/UTIL/OSA
+END
+osa_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6325/trunk/openair2/UTIL/OSA/osa_defs.h
+END
+osa_key_deriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OSA/osa_key_deriver.c
+END
+osa_rijndael.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5585/trunk/openair2/UTIL/OSA/osa_rijndael.c
+END
+osa_stream_eia.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OSA/osa_stream_eia.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/4158/trunk/openair2/UTIL/OSA/README
+END
+osa_rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5585/trunk/openair2/UTIL/OSA/osa_rijndael.h
+END
+osa_snow3g.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5585/trunk/openair2/UTIL/OSA/osa_snow3g.c
+END
+osa_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OSA/osa_internal.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/OSA/COPYING
+END
+osa_snow3g.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5585/trunk/openair2/UTIL/OSA/osa_snow3g.h
+END
+osa_stream_eea.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OSA/osa_stream_eea.c
+END

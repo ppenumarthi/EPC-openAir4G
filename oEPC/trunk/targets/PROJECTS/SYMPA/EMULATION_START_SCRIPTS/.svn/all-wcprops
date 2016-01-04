@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/3613/trunk/targets/PROJECTS/SYMPA/EMULATION_START_SCRIPTS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/3613/trunk/targets/PROJECTS/SYMPA/EMULATION_START_SCRIPTS/Makefile
+END
+start_enb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/3595/trunk/targets/PROJECTS/SYMPA/EMULATION_START_SCRIPTS/start_enb
+END
+start_ue_cx2android
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/3594/trunk/targets/PROJECTS/SYMPA/EMULATION_START_SCRIPTS/start_ue_cx2android
+END
+start_ue
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/3594/trunk/targets/PROJECTS/SYMPA/EMULATION_START_SCRIPTS/start_ue
+END
+AT_serial_bouchon.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/3567/trunk/targets/PROJECTS/SYMPA/EMULATION_START_SCRIPTS/AT_serial_bouchon.py
+END

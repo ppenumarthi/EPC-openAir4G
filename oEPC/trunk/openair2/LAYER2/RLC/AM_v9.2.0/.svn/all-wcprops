@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM_v9.2.0
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1123/trunk/openair2/LAYER2/RLC/AM_v9.2.0/README
+END
+rlc_am_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/AM_v9.2.0/rlc_am_entity.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/RLC/AM_v9.2.0/COPYING
+END

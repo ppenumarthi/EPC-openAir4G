@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/LTE_TRANSPORT
+END
+group_hopping.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/group_hopping.c
+END
+dlsch_coding.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/dlsch_coding.c
+END
+uci.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5950/trunk/openair1/PHY/LTE_TRANSPORT/uci.h
+END
+lte_mcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5933/trunk/openair1/PHY/LTE_TRANSPORT/lte_mcs.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6253/trunk/openair1/PHY/LTE_TRANSPORT/defs.h
+END
+dlsch_llr_computation.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/dlsch_llr_computation.c
+END
+dlsch_decoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/LTE_TRANSPORT/dlsch_decoding.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1123/trunk/openair1/PHY/LTE_TRANSPORT/README.txt
+END
+phich.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5927/trunk/openair1/PHY/LTE_TRANSPORT/phich.c
+END
+power_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/power_control.c
+END
+prach.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5854/trunk/openair1/PHY/LTE_TRANSPORT/prach.c
+END
+dlsch_scrambling.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/dlsch_scrambling.c
+END
+pilots_mbsfn.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/pilots_mbsfn.c
+END
+uci_tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6192/trunk/openair1/PHY/LTE_TRANSPORT/uci_tools.c
+END
+prach.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/prach.h
+END
+srs_modulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/srs_modulation.c
+END
+rar_tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5950/trunk/openair1/PHY/LTE_TRANSPORT/rar_tools.c
+END
+pss.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6190/trunk/openair1/PHY/LTE_TRANSPORT/pss.c
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/LTE_TRANSPORT/proto.h
+END
+sss.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6190/trunk/openair1/PHY/LTE_TRANSPORT/sss.c
+END
+ulsch_modulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5810/trunk/openair1/PHY/LTE_TRANSPORT/ulsch_modulation.c
+END
+dlsch_tbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/dlsch_tbs.h
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/extern.h
+END
+pbch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/pbch.c
+END
+sss.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/sss.h
+END
+mcs_tbs_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/mcs_tbs_tools.h
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/vars.h
+END
+ulsch_demodulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/6253/trunk/openair1/PHY/LTE_TRANSPORT/ulsch_demodulation.c
+END
+drs_modulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5774/trunk/openair1/PHY/LTE_TRANSPORT/drs_modulation.c
+END
+vrb_maps.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/3474/trunk/openair1/PHY/LTE_TRANSPORT/vrb_maps.m
+END
+initial_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/initial_sync.c
+END
+pmch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/pmch.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5710/trunk/openair1/PHY/LTE_TRANSPORT/COPYING
+END
+dlsch_modulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/LTE_TRANSPORT/dlsch_modulation.c
+END
+pcfich.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5739/trunk/openair1/PHY/LTE_TRANSPORT/pcfich.c
+END
+dlsch_tbs_full.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/dlsch_tbs_full.h
+END
+dci.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/dci.c
+END
+dlsch_demodulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/LTE_TRANSPORT/dlsch_demodulation.c
+END
+ulsch_coding.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5950/trunk/openair1/PHY/LTE_TRANSPORT/ulsch_coding.c
+END
+pucch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5774/trunk/openair1/PHY/LTE_TRANSPORT/pucch.c
+END
+dci.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_TRANSPORT/dci.h
+END
+print_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/6240/trunk/openair1/PHY/LTE_TRANSPORT/print_stats.c
+END
+pilots.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_TRANSPORT/pilots.c
+END
+ulsch_decoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/LTE_TRANSPORT/ulsch_decoding.c
+END
+sss_gen.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1369/trunk/openair1/PHY/LTE_TRANSPORT/sss_gen.m
+END
+dci_tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/LTE_TRANSPORT/dci_tools.c
+END

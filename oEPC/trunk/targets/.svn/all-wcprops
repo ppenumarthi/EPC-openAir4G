@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/openair4G/!svn/ver/6328/trunk/targets
+END
+Makerules
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6234/trunk/targets/Makerules
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/5563/trunk/targets/COPYING
+END
+build_helper.bash
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6324/trunk/targets/build_helper.bash
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/6206/trunk/targets/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/openair4G/!svn/ver/5793/trunk/targets/Makefile
+END
+itti_vcd_tasks.sav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5708/trunk/targets/itti_vcd_tasks.sav
+END
+build_oai.bash
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/6298/trunk/targets/build_oai.bash
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/6234/trunk/targets/Makefile.common
+END

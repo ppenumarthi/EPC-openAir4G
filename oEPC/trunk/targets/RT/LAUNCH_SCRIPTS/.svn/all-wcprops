@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS
+END
+start_eNb_mode6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/start_eNb_mode6.sh
+END
+nas_ue2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/nas_ue2.sh
+END
+stop_rf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/stop_rf.sh
+END
+start_emos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/start_emos.sh
+END
+load_module.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/load_module.sh
+END
+start_rf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/start_rf.sh
+END
+nas_enb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/nas_enb.sh
+END
+start_eNb_mode1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/start_eNb_mode1.sh
+END
+start_ue.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/start_ue.sh
+END
+start_eNb_mode2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/start_eNb_mode2.sh
+END
+start_test_fs4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/start_test_fs4.sh
+END
+start_ue2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/start_ue2.sh
+END
+nas_ue.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5394/trunk/targets/RT/LAUNCH_SCRIPTS/nas_ue.sh
+END

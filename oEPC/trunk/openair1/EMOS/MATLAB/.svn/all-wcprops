@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB
+END
+Antenna4Test.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/Antenna4Test.m
+END
+textable.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/textable.m
+END
+check_latex.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/check_latex.m
+END
+cap_iid_measured.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/cap_iid_measured.m
+END
+ecap_iid_snr.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/ecap_iid_snr.m
+END
+plot_gps_coordinates.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_gps_coordinates.m
+END
+capacityEMOS.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacityEMOS.m
+END
+plot_data_MU_SFR.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_data_MU_SFR.m
+END
+BD.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/BD.m
+END
+top_plot_data_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_plot_data_quick.m
+END
+plot_ber2.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_ber2.m
+END
+eval_data_MU_CVQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data_MU_CVQ.m
+END
+capacity_SU_TDMA_MMSE.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_SU_TDMA_MMSE.m
+END
+top_plot_data_MU.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_plot_data_MU.m
+END
+eval_data_SU_TDMA.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data_SU_TDMA.m
+END
+top_eval_data_quick_plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_eval_data_quick_plot.m
+END
+capacity_MU_ZF.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_MU_ZF.m
+END
+plot_capacity_comp_multiple_measurements2.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_capacity_comp_multiple_measurements2.m
+END
+capacity_SU_TDMA_ML.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_SU_TDMA_ML.m
+END
+megaMISO.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/megaMISO.m
+END
+cap_ZF.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/cap_ZF.m
+END
+top_eval_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_eval_data.m
+END
+capacity_SU_DSTTD.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_SU_DSTTD.m
+END
+eval_data_MU_RVQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data_MU_RVQ.m
+END
+capacity_MU_SUTS.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_MU_SUTS.m
+END
+eval_data_MU_plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data_MU_plot.m
+END
+capacity_SU_TDMA_CL_ML.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_SU_TDMA_CL_ML.m
+END
+eval_data_MU_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data_MU_test.m
+END
+plot_gps_coordinates_sophia.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_gps_coordinates_sophia.m
+END
+plot_ecap_comp.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_ecap_comp.m
+END
+cap_MMSE.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/cap_MMSE.m
+END
+scale_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/scale_test.m
+END
+top_plot_data_MU_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_plot_data_MU_quick.m
+END
+plot_eigval_dist.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_eigval_dist.m
+END
+cap_iid.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/cap_iid.m
+END
+antenna_selection.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/antenna_selection.m
+END
+cat_files.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/cat_files.m
+END
+capacity_SU_ML.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_SU_ML.m
+END
+top_eval_data_MU_quick_plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_eval_data_MU_quick_plot.m
+END
+top_eval_data_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_eval_data_quick.m
+END
+top_eval_data_MU_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_eval_data_MU_quick.m
+END
+MMSE_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/MMSE_test.m
+END
+gen_align_matrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/gen_align_matrix.m
+END
+eval_data_MU_DPC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data_MU_DPC.m
+END
+EMOS_generate_LaTex_file.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/EMOS_generate_LaTex_file.m
+END
+plot_capacity_comp_multiple_measurements.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_capacity_comp_multiple_measurements.m
+END
+plot_data_MU_CVQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_data_MU_CVQ.m
+END
+test_BD.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/test_BD.m
+END
+MISO_MMSE.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/MISO_MMSE.m
+END
+plot_ber3.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_ber3.m
+END
+top_ecap.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_ecap.m
+END
+plot_fer_snr.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_fer_snr.m
+END
+plot_capacity_comp_multiple_measurements3.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_capacity_comp_multiple_measurements3.m
+END
+top_eval_data_MU_plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_eval_data_MU_plot.m
+END
+top_eval_data_MU.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/top_eval_data_MU.m
+END
+DProfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/DProfile.m
+END
+EMOS_generate_LaTex_presentation.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/EMOS_generate_LaTex_presentation.m
+END
+capacity_SU_CL_ML.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_SU_CL_ML.m
+END
+capacity_SU_TDMA_DSTTD.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_SU_TDMA_DSTTD.m
+END
+eval_data_MU_multiSNR.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data_MU_multiSNR.m
+END
+plot_ecap_CVQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_ecap_CVQ.m
+END
+eval_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data.m
+END
+plot_capacity_comp_SU_MU.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_capacity_comp_SU_MU.m
+END
+eval_data_MU.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/eval_data_MU.m
+END
+capacity_SU_MMSE.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/capacity_SU_MMSE.m
+END
+plot_map_indoor.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_map_indoor.m
+END
+k_factor.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/k_factor.m
+END
+IWF_4users.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/IWF_4users.m
+END
+largest_contiguous_set.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/largest_contiguous_set.m
+END
+plot_data_corrmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_data_corrmat.m
+END
+plot_data_MU_DPC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_data_MU_DPC.m
+END
+plot_data_MU_CVQ3.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_data_MU_CVQ3.m
+END
+plot_ecap_comp2.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_ecap_comp2.m
+END
+plot_ber.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/plot_ber.m
+END
+cap_gui.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/MATLAB/cap_gui.m
+END

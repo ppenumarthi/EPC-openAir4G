@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5890/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles
+END
+dlsch_mu_mimo_llr.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/4241/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/dlsch_mu_mimo_llr.c
+END
+dlsch_decoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5890/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/dlsch_decoding.c
+END
+dlsch_decoding_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5890/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/dlsch_decoding_init.c
+END
+dlsch_detection_mrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5240/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/dlsch_detection_mrc.c
+END
+dlsch_channel_compensation_prec.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/openair4G/!svn/ver/5240/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/dlsch_channel_compensation_prec.c
+END
+dlsch_dual_stream_correlation.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/openair4G/!svn/ver/5240/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/dlsch_dual_stream_correlation.c
+END
+dlsch_encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/5890/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/dlsch_encoding.c
+END
+dlsch_channel_level_prec.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/5240/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/dlsch_channel_level_prec.c
+END
+get_tbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/4241/trunk/openair1/USERSPACE_TOOLS/MATLAB/PHY/LTE_TRANSPORT/mexfiles/get_tbs.c
+END

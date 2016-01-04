@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/3060/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios
+END
+send_get_bulk_conf_as_fac.sce
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/2994/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_get_bulk_conf_as_fac.sce
+END
+send_comm_prof_req_as_gn.sce
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/2994/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_comm_prof_req_as_gn.sce
+END
+send_network_state_as_gn.sce
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/2994/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_network_state_as_gn.sce
+END
+send_get_cont_conf_as_fac.sce
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/2994/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_get_cont_conf_as_fac.sce
+END
+send_comm_prof_req_as_fac.sce
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/openair4G/!svn/ver/2994/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_comm_prof_req_as_fac.sce
+END
+send_wireless_state_as_lte.sce
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/openair4G/!svn/ver/2994/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_wireless_state_as_lte.sce
+END
+send_location_update_as_fac.sce
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/3060/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_location_update_as_fac.sce
+END
+send_comm_prof_sel_req_as_fac.sce
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/3056/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_comm_prof_sel_req_as_fac.sce
+END
+send_conf_notification_as_fac.sce
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/openair4G/!svn/ver/3042/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_conf_notification_as_fac.sce
+END
+behave_as_gn.sce
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/2994/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/behave_as_gn.sce
+END
+send_get_bulk_conf_as_gn.sce
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/openair4G/!svn/ver/2994/trunk/openair3/SCOREF-MGMT/Software/test/simulation/scenarios/send_get_bulk_conf_as_gn.sce
+END

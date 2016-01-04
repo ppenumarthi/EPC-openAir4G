@@ -1,0 +1,409 @@
+Script started on Mon 13 Apr 2015 10:12:01 AM PDT
+root@ubuntu:/home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC# ./start_epc.bash te/epc.mme0.conf 
+[32mOPENAIR_DIR     = /home/phanik/oEPC/trunk[00m
+[32mOPENAIR_HOME    = /home/phanik/oEPC/trunk[00m
+[32mOPENAIR1_DIR    = /home/phanik/oEPC/trunk/openair1[00m
+[32mOPENAIR2_DIR    = /home/phanik/oEPC/trunk/openair2[00m
+[32mOPENAIR3_DIR    = /home/phanik/oEPC/trunk/openair3[00m
+[32mOPENAIRCN_DIR   = /home/phanik/oEPC/trunk/openair-cn[00m
+[32mOPENAIR_TARGETS = /home/phanik/oEPC/trunk/targets[00m
+RTNETLINK answers: No such process
+[32mCompiling...[00m
+make  all-recursive
+make[1]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs'
+Making all in .
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs'
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs'
+Making all in GTPV1-U
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV1-U'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV1-U'
+Making all in GTPV2-C
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C'
+Making all in nwgtpv2c-0.11/
+make[3]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11'
+Making all in src
+make[4]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/src'
+make[4]: Nothing to be done for `all'.
+make[4]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/src'
+Making all in test-app
+make[4]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/test-app'
+Making all in nw-egtping
+make[5]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping'
+make[5]: Nothing to be done for `all'.
+make[5]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/test-app/nw-egtping'
+Making all in nw-helloworld
+make[5]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld'
+make[5]: Nothing to be done for `all'.
+make[5]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/test-app/nw-helloworld'
+make[5]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/test-app'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/test-app'
+make[4]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11/test-app'
+make[4]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11'
+make[4]: Nothing to be done for `all-am'.
+make[4]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11'
+make[3]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C/nwgtpv2c-0.11'
+make[3]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C'
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/GTPV2-C'
+Making all in INTERTASK_INTERFACE
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/INTERTASK_INTERFACE'
+make  all-am
+make[3]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/INTERTASK_INTERFACE'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/INTERTASK_INTERFACE'
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/INTERTASK_INTERFACE'
+Making all in SGI
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/SGI'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/SGI'
+Making all in NAS
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/NAS'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/NAS'
+Making all in SCTP
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/SCTP'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/SCTP'
+Making all in S11
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S11'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S11'
+Making all in S1AP
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP'
+Making all in ./MESSAGES/
+make[3]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES'
+make  all-recursive
+make[4]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES'
+Making all in ASN1/
+make[5]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES/ASN1'
+make  all-am
+make[6]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES/ASN1'
+make[6]: Nothing to be done for `all-am'.
+make[6]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES/ASN1'
+make[5]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES/ASN1'
+Making all in .
+make[5]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES'
+make[5]: Nothing to be done for `all-am'.
+make[5]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES'
+make[4]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES'
+make[3]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP/MESSAGES'
+Making all in .
+make[3]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP'
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S1AP'
+Making all in S6A
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/S6A'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/S6A'
+Making all in SECU
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/SECU'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/SECU'
+Making all in SGW-LITE
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/SGW-LITE'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/SGW-LITE'
+Making all in UTILS
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/UTILS'
+Making all in .
+make[3]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/UTILS'
+make[3]: Nothing to be done for `all-am'.
+make[3]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/UTILS'
+Making all in HASHTABLE
+make[3]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/UTILS/HASHTABLE'
+make[3]: Nothing to be done for `all'.
+make[3]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/UTILS/HASHTABLE'
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/UTILS'
+Making all in UDP
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/UDP'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/UDP'
+Making all in MME_APP
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/MME_APP'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/MME_APP'
+Making all in TEST
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/TEST'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/TEST'
+Making all in OAISIM_MME
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/OAISIM_MME'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/OAISIM_MME'
+Making all in OAI_EPC
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/OAI_EPC'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/OAI_EPC'
+Making all in OAI_SGW
+make[2]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/objs/OAI_SGW'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs/OAI_SGW'
+make[1]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/objs'
+echo "Building for Kernel Version: 0"
+Building for Kernel Version: 0
+make -C /lib/modules/3.13.0-32-generic/build M=/home/phanik/oEPC/trunk/openair-cn/GTPV1-U/GTPUAH modules
+make[1]: Entering directory `/usr/src/linux-headers-3.13.0-32-generic'
+  Building modules, stage 2.
+  MODPOST 1 modules
+  LD [M]  /home/phanik/oEPC/trunk/openair-cn/GTPV1-U/GTPUAH/xt_GTPUAH.ko
+make[1]: Leaving directory `/usr/src/linux-headers-3.13.0-32-generic'
+mv xt_GTPUAH.ko /home/phanik/oEPC/trunk/openair-cn/GTPV1-U/GTPUAH/Bin/
+echo "Building for Kernel Version: 0"
+Building for Kernel Version: 0
+make -C /lib/modules/3.13.0-32-generic/build M=/home/phanik/oEPC/trunk/openair-cn/GTPV1-U/GTPURH modules
+make[1]: Entering directory `/usr/src/linux-headers-3.13.0-32-generic'
+  Building modules, stage 2.
+  MODPOST 1 modules
+  LD [M]  /home/phanik/oEPC/trunk/openair-cn/GTPV1-U/GTPURH/xt_GTPURH.ko
+make[1]: Leaving directory `/usr/src/linux-headers-3.13.0-32-generic'
+mv xt_GTPURH.ko /home/phanik/oEPC/trunk/openair-cn/GTPV1-U/GTPURH/Bin/
+CONFIG_FILE_EPC=te/epc.mme0.conf
+[33mEPC config file found is now te/epc.mme0.conf[00m
+[32mMME S6A: Found valid certificate in /usr/local/etc/freeDiameter[00m
+GNU_DEBUGGER:yes
+[32mRunning with GDB[00m
+GNU gdb (Ubuntu/Linaro 7.4-2012.04-0ubuntu2.1) 7.4-2012.04
+Copyright (C) 2012 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+For bug reporting instructions, please see:
+<http://bugs.launchpad.net/gdb-linaro/>.
+(gdb) r
+Starting program: /home/phanik/oEPC/trunk/openair-cn/objs/OAI_EPC/oai_epc -K /tmp/itti_epc.log -c /home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC/te/epc.mme0.conf
+warning: no loadable sections found in added symbol-file system-supplied DSO at 0x7ffff7ffa000
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+==== EURECOM oai_epc v0.3.6329M ====
+Configuration:
+- File ...............: /home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC/te/epc.mme0.conf
+- Verbosity level ....: 0
+- Realm ..............: pft
+- Max eNBs ...........: 10
+- Max UEs ............: 100
+- Emergency support ..: FALSE
+- Unauth IMSI support : TRUE
+- Relative capa ......: 10
+
+- Statistics timer ...: 10 (seconds)
+
+- S1-U:
+    port number ......: 2152
+- S1-MME:
+    port number ......: 36412
+- IP:
+    s1-u ip ..........: 192.168.1.2
+    s1-MME iface .....: eth0:oai0
+    s1-MME ip ........: 192.168.1.1
+    s11 MME iface ....: none
+    s11 S-GW ip ......: 0.0.0.0
+- ITTI:
+    queue size .......: 2000000 (bytes)
+    log file .........: /tmp/itti_epc.log
+- SCTP:
+    in streams .......: 32
+    out streams ......: 32
+- GUMMEI:
+    mme group ids ....:
+        | 3 | 4 | 5 | 30 | 8 | 9 | 50021 
+    mme codes ........:
+        | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 56 | 1 
+        | 8 
+    plmns ............: (mcc.mnc:tac)
+            208. 92:1
+            208. 10:1
+            209.130:4
+            209.012:2
+            310.028:1
+            208. 35:8
+- S6A:
+    conf file ........: /home/phanik/oEPC/trunk/openair-cn/S6A/freediameter/s6a.conf
+[0m../../NAS/EURECOM-NAS/src/nas_network.c[86]                           Entering nas_network_initialize()[0m
+[0m../../NAS/EURECOM-NAS/src/nas_proc.c[146]                             	Entering nas_proc_initialize()[0m
+[0m../../NAS/EURECOM-NAS/src/emm/emm_mai[1]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/UDP'
+make[1]: `/home/phanik/oEPC/trunk/targets/SIMU/USER/objs/openair-cn/UDP/libudp.a' is up to date.
+make[1]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/UDP'
+  Successfully remade target file `/home/phanik/oEPC/trunk/targets/SIMU/USER/objs/openair-cn/UDP/libudp.a'.
+   Prerequisite `force_look' of target `/home/phanik/oEPC/trunk/targets/SIMU/USER/objs/openair-cn/GTPV1-U/libgtpv1u.a' does not exist.
+  Must remake target `/home/phanik/oEPC/trunk/targets/SIMU/USER/objs/openair-cn/GTPV1-U/libgtpv1u.a'.
+GNU Make 3.81
+Copyright (C) 2006  Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.
+There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
+
+This program built for x86_64-pc-linux-gnu
+Reading makefiles...
+Updating goal targets....
+make[1]: Entering directory `/home/phanik/oEPC/trunk/openair-cn/GTPV1-U'
+make[1]: `/home/phanik/oEPC/trunk/targets/SIMU/USER/objs/openair-cn/GTPV1-U/libgtpv1u.a' is up to date.
+make[1]: Leaving directory `/home/phanik/oEPC/trunk/openair-cn/GTPV1-U'
+  Successfully remade target file `/home/phanik/oEPC/trunk/targets/SIMU/USER/objs/openair-cn/GTPV1-U/libgtpv1u.a'.
+ Prerequisite `/home/phanik/oEPC/trunk/targets/SIMU/USER/objs/openair2/ENB_APP/enb_app.o' is newer than target `oaisim'.
+Must remake target `oaisim'.
+Linking oaisim ...
+Successfully remade target file `oaisim'.
+make: Leaving directory `/home/phanik/oEPC/trunk/targets/SIMU/USER'
+[32mBringup UE interface...[00m
+[32minsmod  /home/phanik/oEPC/trunk/openair2/NETWORK_DRIVER/UE_IP/ue_ip.ko[00m
+[32mip route flush cache[00m
+[32mip link set eth0:oai4 up[00m
+[31mip addr add dev eth0:oai4 10.0.0.8/24: RTNETLINK answers: File exists[00m
+[31mip addr add dev eth0:oai4 2001:1::8/64: RTNETLINK answers: File exists[00m
+[32msysctl -w net.ipv4.conf.all.log_martians=1[00m
+   Disabling reverse path filtering
+[32msysctl -w net.ipv4.conf.all.rp_filter=0[00m
+[32mip route flush cache[00m
+RTNETLINK answers: File exists
+[33mBe careful of the lines below, for a specific virtual box setting[00m
+[32m/sbin/iptables  -t mangle -F[00m
+[32m/sbin/iptables  -t nat -F[00m
+[32m/sbin/iptables  -t raw -F[00m
+[32m/sbin/iptables  -t filter -F[00m
+[32m/sbin/ip6tables -t mangle -F[00m
+[32m/sbin/ip6tables -t filter -F[00m
+[32m/sbin/ip6tables -t raw -F[00m
+[32miptables -A OUTPUT  -o eth0 -p sctp  -j DROP[00m
+[32miptables -A INPUT   -i eth0 -p sctp  -j DROP[00m
+[32miptables -A FORWARD -i eth0 -p sctp  -j DROP[00m
+[32miptables -A OUTPUT  -o eth1 -p sctp  -j DROP[00m
+[32miptables -A INPUT   -i eth1 -p sctp  -j DROP[00m
+[32miptables -A FORWARD -i eth1 -p sctp  -j DROP[00m
+rm: cannot remove `/root/.gdbinit': No such file or directory
+GNU gdb (Ubuntu/Linaro 7.4-2012.04-0ubuntu2.1) 7.4-2012.04
+Copyright (C) 2012 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+For bug reporting instructions, please see:
+<http://bugs.launchpad.net/gdb-linaro/>...
+Reading symbols from /home/phanik/oEPC/trunk/targets/SIMU/USER/oaisim...done.
+(gdb) q
+[33moaisim ended, filtering stdout from oaisim[00m
+root@ubuntu:/home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC# exit
+exit
+
+Script done on Mon 13 Apr 2015 10:13:23 AM PDT
+iptables -F FORWARD
+[SPGW-APP][I]system command: iptables -t nat -F
+[SPGW-APP][I]system command: iptables -t mangle -F
+[SPGW-APP][I]system command: iptables -t filter -F
+[SPGW-APP][I]system command: iptables -t raw -F
+[SPGW-APP][I]system command: ip route flush cache
+[SPGW-APP][I]system command: rmmod iptable_raw > /dev/null 2>&1
+[SPGW-APP][I]system command: rmmod iptable_mangle > /dev/null 2>&1
+[SPGW-APP][I]system command: rmmod iptable_nat > /dev/null 2>&1
+[SPGW-APP][I]system command: rmmod iptable_filter > /dev/null 2>&1
+[SPGW-APP][I]system command: rmmod ip_tables > /dev/null 2>&1
+[SPGW-APP][I]system command: rmmod xt_state xt_mark xt_GTPUAH xt_GTPURH xt_tcpudp xt_connmark ipt_LOG ipt_MASQUERADE > /dev/null 2>&1
+[SPGW-APP][E]ERROR in system command rmmod xt_state xt_mark xt_GTPUAH xt_GTPURH xt_tcpudp xt_connmark ipt_LOG ipt_MASQUERADE > /dev/null 2>&1: 256 at ../../SGW-LITE/sgw_lite_task.c:171
+[SPGW-APP][I]system command: rmmod x_tables > /dev/null 2>&1
+[SPGW-APP][E]ERROR in system command rmmod x_tables > /dev/null 2>&1: 256 at ../../SGW-LITE/sgw_lite_task.c:172
+[SPGW-APP][I]system command: rmmod nf_conntrack_netlink nfnetlink nf_nat nf_conntrack_ipv4 nf_conntrack  > /dev/null 2>&1
+[SPGW-APP][E]ERROR in system command rmmod nf_conntrack_netlink nfnetlink nf_nat nf_conntrack_ipv4 nf_conntrack  > /dev/null 2>&1: 256 at ../../SGW-LITE/sgw_lite_task.c:173
+[SPGW-APP][I]system command: modprobe ip_tables
+[SPGW-APP][I]system command: modprobe x_tables
+[SPGW-APP][I]system command: sysctl -w net.ipv4.netfilter.ip_conntrack_max=16000
+[SPGW-APP][E]ERROR in system command sysctl -w net.ipv4.netfilter.ip_conntrack_max=16000: 65280 at ../../SGW-LITE/sgw_lite_task.c:176
+[SPGW-APP][I]system command: sysctl -w net.ipv4.ip_forward=1
+[SPGW-APP][I]system command: sysctl -w net.ipv4.conf.all.accept_local=1
+[SPGW-APP][I]system command: sysctl -w net.ipv4.conf.all.log_martians=1
+[SPGW-APP][I]system command: sysctl -w net.ipv4.conf.all.route_localnet=1
+[SPGW-APP][I]system command: sysctl -w net.ipv4.conf.all.rp_filter=0
+[SPGW-APP][I]Parsing configuration file provided /home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC/te/epc.mme0.conf
+[SPGW-APP][I]Parsing configuration file found sgw_ipv4_address_for_S1u_S12_S4_up: 192.168.1.2/24 on eth0:oai1
+[SPGW-APP][I]Parsing configuration file found sgw_ipv4_address_for_S5_S8_up: 0.0.0.0/24 on none
+[SPGW-APP][I]Parsing configuration file found sgw_ipv4_address_for_S11: 0.0.0.0/24 on none
+[SPGW-APP][I]Parsing configuration file found pgw_ipv4_address_for_S5_S8: 0.0.0.0/24 on none
+[SPGW-APP][I]Parsing configuration file found pgw_ipv4_address_for_SGI: 130.245.144.229/24 on eth0
+[SPGW-APP][I]No masquerading for SGI
+[SPGW-APP][I]system command: insmod $OPENAIR_TARGETS/bin/xt_GTPUAH.ko tunnel_local=0 gtpu_port=2152 mtu=1500
+[SPGW-APP][I]system command: insmod $OPENAIR_TARGETS/bin/xt_GTPURH.ko
+[SPGW-APP][I]system command: echo 0 > /proc/sys/net/ipv4/conf/all/send_redirects
+[SPGW-APP][I]Set S1U interface MTU: ip link set dev eth0:oai1 mtu 1500
+[SPGW-APP][I]system command: ip link set dev eth0:oai1 mtu 1500
+[SPGW-APP][I]system command: iptables -I POSTROUTING -t mangle -o eth0 -m mark ! --mark 0 ! --protocol sctp  -j CONNMARK --save-mark
+[SPGW-APP][I]system command: iptables -I OUTPUT -t mangle -m mark ! --mark 0 ! --protocol sctp  -j CONNMARK --save-mark
+[SPGW-APP][I]system command: iptables -I PREROUTING -t mangle -i eth0 ! --protocol sctp   -j CONNMARK --restore-mark
+[SPGW-APP][I]system command: ip route add 130.245.144.183 via 192.168.1.2 dev eth0:oai1
+[SPGW-APP][D]Initializing SPGW-APP task interface: DONE
+[SGI_IF][D]Initializing FW_IP task interface
+[SGI_IF][D]About to clla sgi_task_thread pthread_create: [SGI_IF][D]succesfully created a process with FW_IP using sgi_task_thread pthread_create: sigwait: Interrupted system call
+sigwait: Interrupted system call
+[New Thread 0x7fffe9d95700 (LWP 115519)]
+[New Thread 0x7fffe9594700 (LWP 115520)]
+[New Thread 0x7fffe8d93700 (LWP 115521)]
+[New Thread 0x7fffcffff700 (LWP 115522)]
+[New Thread 0x7fffcf7fe700 (LWP 115523)]
+[New Thread 0x7fffceffd700 (LWP 115603)]
+[New Thread 0x7fffce7fc700 (LWP 115604)]
+[New Thread 0x7fffcdffb700 (LWP 115605)]
+[New Thread 0x7fffcd7fa700 (LWP 115606)]
+sigwait: Interrupted system call
+sigwait: Interrupted system call
+sigwait: Interrupted system call
+sigwait: Interrupted system call
+sigwait: Interrupted system call
+[SGI_IF][D]succesfully created a process to listen on SGI interface using listen_task_thread pthread_create: [S6A] [D]Peer hss.pft is now connected...
+[S6A] [D]Creating message for sending S1AP 
+[S6A] [D]Allocated message for sending S1AP 
+[S6A] [D]Message sent for S1AP 
+[S6A] [D]Creating message for sending FWIP 
+[S6A] [D]Allocated message for sending FWIP 
+sigwait: Interrupted system call
+[S6A] [D]Message sent for TASK_FW_IP 
+[SGI_IF][D]-------------------------------
+[SGI_IF][D]Current local time and date: 1428945155.477662 
+[SGI_IF][D]Received message as 1 with size as: 2152
+[SGI_IF][D]GTPV1U_TUNNEL_DATA_IND:: 18, ACTIVATE_MESSAGE:: 1 
+[SGI_IF][D]ABCD 1428945155.477662 ACTIVATE_MESSAGE 2152
+[SGI_IF][D]-------------------------------
+[SGI_IF][D]Cleare received_message_p 
+[SGI_IF][D]HSS IS UNASSOCIATEDReceived signal 34
+[TMR][D]Timer with id 0x2e88590 has expired
+^C[MMEA][D]--------------------------------
+[MMEA][D]Current local time and date: 1428945156.321824 
+[MMEA][D]ITTI_MSG_ID(received_message_p) ::: 11 and size is ::: 2152 
+[MMEA][D]SGW_CREATE_SESSION_RESPONSE: 77, MME_APP_INITIAL_CONTEXT_SETUP_RSP: 87, MME_APP_CONNECTION_ESTABLISHMENT_IND: 85 
+[MMEA][D]ABCD 1428945156.321824 TIMER_HAS_EXPIRED 2152
+[MMEA][D]--------------------------------
+================== Statistics ==================
+        |   Global   | Since last display |
+UE      |          0 |              0     |
+Bearers |          0 |              0     |
+Received signal 2
+[SIG][D]Received SIGINT
+[SGI_IF][E]Unkwnon message ID 3:TERMINATE_MESSAGE
+[New Thread 0x7fffccff9700 (LWP 115607)]
+[Thread 0x7fffcd7fa700 (LWP 115606) exited]
+[Thread 0x7fffccff9700 (LWP 115607) exited]
+[New Thread 0x7fffccff9700 (LWP 115609)]
+[New Thread 0x7fffcd7fa700 (LWP 115610)]
+[Thread 0x7ffff4326700 (LWP 115507) exited]
+[Thread 0x7ffff2b23700 (LWP 115510) exited]
+[Thread 0x7fffcf7fe700 (LWP 115523) exited]
+[Thread 0x7ffff4b27700 (LWP 115506) exited]
+[Thread 0x7fffceffd700 (LWP 115603) exited]
+[Thread 0x7ffff2322700 (LWP 115511) exited]
+
+Program received signal SIGSEGV, Segmentation fault.
+pthread_tryjoin_np (threadid=0, thread_return=0x0) at pthread_tryjoin.c:41
+41	pthread_tryjoin.c: No such file or directory.
+(gdb) a[Kq
+A debugging session is active.
+
+	Inferior 1 [process 115502] will be killed.
+
+Quit anyway? (y or n) y
+root@ubuntu:/home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC# [H[Jroot@ubuntu:/home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC# [H[Jroot@ubuntu:/home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC# [H[Jroot@ubuntu:/home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC# [H[Jroot@ubuntu:/home/phanik/oEPC/trunk/targets/PROJECTS/GENERIC-LTE-EPC# exit
+exit
+
+Script done on Mon 13 Apr 2015 10:12:42 AM PDT

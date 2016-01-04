@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/util
+END
+mgmt_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/util/mgmt_exception.hpp
+END
+mgmt_udp_socket.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/util/mgmt_udp_socket.hpp
+END
+mgmt_log.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/util/mgmt_log.hpp
+END
+mgmt_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/2979/trunk/openair3/SCOREF-MGMT/Software/src/util/mgmt_util.cpp
+END
+mgmt_exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/2679/trunk/openair3/SCOREF-MGMT/Software/src/util/mgmt_exception.cpp
+END
+mgmt_udp_socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/2851/trunk/openair3/SCOREF-MGMT/Software/src/util/mgmt_udp_socket.cpp
+END
+mgmt_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/3068/trunk/openair3/SCOREF-MGMT/Software/src/util/mgmt_log.cpp
+END
+mgmt_util.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/util/mgmt_util.hpp
+END

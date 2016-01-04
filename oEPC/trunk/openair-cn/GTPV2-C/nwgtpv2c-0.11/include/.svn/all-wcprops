@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/include
+END
+NwGtpv2cMsgIeParseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cMsgIeParseInfo.h
+END
+NwGtpv2cTrxn.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cTrxn.h
+END
+NwGtpv2cLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cLog.h
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/tree.h
+END
+NwGtpv2cTunnel.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cTunnel.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/queue.h
+END
+NwGtpv2cPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV2-C/nwgtpv2c-0.11/include/NwGtpv2cPrivate.h
+END

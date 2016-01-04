@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6198/trunk/openairITS/phy/SIMULATION
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6198/trunk/openairITS/phy/SIMULATION/Makefile
+END
+dot11sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/4042/trunk/openairITS/phy/SIMULATION/dot11sim.c
+END

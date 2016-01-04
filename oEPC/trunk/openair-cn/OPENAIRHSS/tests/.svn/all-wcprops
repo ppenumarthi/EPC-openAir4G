@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/tests
+END
+test_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/tests/test_utils.h
+END
+test_security.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/test_security.c
+END
+test_security_kasme.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/test_security_kasme.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5535/trunk/openair-cn/OPENAIRHSS/tests/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/tests/Makefile.am
+END
+test_fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/test_fd.c
+END
+test_security_f1.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/test_security_f1.c
+END
+test_fd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/test_fd.h
+END
+test_security_f2_f3_f5.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/test_security_f2_f3_f5.c
+END
+test_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/tests/test_utils.c
+END
+up_loc_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/up_loc_test.c
+END
+test_kdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/test_kdf.c
+END
+test_security_f4_f5star.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/tests/test_security_f4_f5star.c
+END

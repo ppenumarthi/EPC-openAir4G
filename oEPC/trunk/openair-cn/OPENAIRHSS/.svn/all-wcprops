@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/6326/trunk/openair-cn/OPENAIRHSS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5391/trunk/openair-cn/OPENAIRHSS/README
+END
+hss_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/hss_main.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/4890/trunk/openair-cn/OPENAIRHSS/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6326/trunk/openair-cn/OPENAIRHSS/INSTALL
+END

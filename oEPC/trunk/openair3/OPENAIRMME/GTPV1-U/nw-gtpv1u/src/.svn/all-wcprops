@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/nw-gtpv1u/src
+END
+NwGtpv1u.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/nw-gtpv1u/src/NwGtpv1u.c
+END
+NwGtpv1uMsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/nw-gtpv1u/src/NwGtpv1uMsg.c
+END
+NwGtpv1uTunnelEndPoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/nw-gtpv1u/src/NwGtpv1uTunnelEndPoint.c
+END
+NwGtpv1uTrxn.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/nw-gtpv1u/src/NwGtpv1uTrxn.c
+END

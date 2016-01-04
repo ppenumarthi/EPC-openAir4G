@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6090/trunk/openair2/NETWORK_DRIVER/UE_IP
+END
+netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/6078/trunk/openair2/NETWORK_DRIVER/UE_IP/netlink.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5578/trunk/openair2/NETWORK_DRIVER/UE_IP/COPYING
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5714/trunk/openair2/NETWORK_DRIVER/UE_IP/common.c
+END
+sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/NETWORK_DRIVER/UE_IP/sap.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6090/trunk/openair2/NETWORK_DRIVER/UE_IP/Makefile
+END
+proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5714/trunk/openair2/NETWORK_DRIVER/UE_IP/proto_extern.h
+END
+constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5714/trunk/openair2/NETWORK_DRIVER/UE_IP/constant.h
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/6086/trunk/openair2/NETWORK_DRIVER/UE_IP/device.c
+END
+local.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5714/trunk/openair2/NETWORK_DRIVER/UE_IP/local.h
+END

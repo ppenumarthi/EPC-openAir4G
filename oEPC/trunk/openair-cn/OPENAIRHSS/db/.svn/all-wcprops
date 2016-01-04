@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5620/trunk/openair-cn/OPENAIRHSS/db
+END
+oai_db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5620/trunk/openair-cn/OPENAIRHSS/db/oai_db.sql
+END
+db_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/db/db_proto.h
+END
+db_connector.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/db/db_connector.c
+END
+db_subscription_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/db/db_subscription_data.c
+END
+db_epc_equipment.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/db/db_epc_equipment.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5535/trunk/openair-cn/OPENAIRHSS/db/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/db/Makefile.am
+END

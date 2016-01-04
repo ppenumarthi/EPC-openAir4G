@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC
+END
+lteRALue_rrc_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_rrc_msg.c
+END
+lteRALue_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_action.c
+END
+lteRALue_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/4850/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_process.c
+END
+lteRALue_mih_execute.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/4596/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_mih_execute.c
+END
+lteRALue_thresholds.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_thresholds.c
+END
+lteRALue_subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_subscribe.c
+END
+lteRALue_mih_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_mih_msg.c
+END
+lteRALue_parameters.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_parameters.c
+END
+lteRALue_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_main.c
+END
+lteRALue_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5096/trunk/openair3/RAL-LTE/LTE_RAL_UE/SRC/lteRALue_ioctl.c
+END

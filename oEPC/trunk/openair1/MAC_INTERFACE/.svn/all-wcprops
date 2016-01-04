@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5713/trunk/openair1/MAC_INTERFACE
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5713/trunk/openair1/MAC_INTERFACE/init.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1399/trunk/openair1/MAC_INTERFACE/Makefile.inc
+END
+register.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5713/trunk/openair1/MAC_INTERFACE/register.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5713/trunk/openair1/MAC_INTERFACE/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5709/trunk/openair1/MAC_INTERFACE/COPYING
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5713/trunk/openair1/MAC_INTERFACE/extern.h
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5713/trunk/openair1/MAC_INTERFACE/vars.h
+END

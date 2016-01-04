@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2769/trunk/openair3/PMIPv6/pmipv6-daemon-umip/man
+END
+mip6d.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/2769/trunk/openair3/PMIPv6/pmipv6-daemon-umip/man/mip6d.tmpl
+END
+mipv6.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/man/mipv6.tmpl
+END
+mip6d.conf.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/2769/trunk/openair3/PMIPv6/pmipv6-daemon-umip/man/mip6d.conf.tmpl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/2769/trunk/openair3/PMIPv6/pmipv6-daemon-umip/man/Makefile.am
+END

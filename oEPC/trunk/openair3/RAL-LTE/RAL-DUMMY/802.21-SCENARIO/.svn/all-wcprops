@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3866/trunk/openair3/RAL-LTE/RAL-DUMMY/802.21-SCENARIO
+END
+sendUDP-FF
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/3814/trunk/openair3/RAL-LTE/RAL-DUMMY/802.21-SCENARIO/sendUDP-FF
+END
+sendUDP-01
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/3814/trunk/openair3/RAL-LTE/RAL-DUMMY/802.21-SCENARIO/sendUDP-01
+END

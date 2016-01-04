@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/6198/trunk/openair1/EMOS/DUMP
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5709/trunk/openair1/EMOS/DUMP/COPYING
+END
+emos_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5713/trunk/openair1/EMOS/DUMP/emos_dump.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/6198/trunk/openair1/EMOS/DUMP/Makefile
+END
+emos_dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5713/trunk/openair1/EMOS/DUMP/emos_dump.h
+END
+dump_size.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5713/trunk/openair1/EMOS/DUMP/dump_size.c
+END

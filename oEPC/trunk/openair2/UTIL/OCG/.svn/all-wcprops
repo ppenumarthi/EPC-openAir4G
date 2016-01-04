@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/6198/trunk/openair2/UTIL/OCG
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/1123/trunk/openair2/UTIL/OCG/.directory
+END
+OCG_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_extern.h
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/1140/trunk/openair2/UTIL/OCG/Doxyfile
+END
+OCG_parse_filename.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_parse_filename.c
+END
+OCG_config_mobi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_config_mobi.c
+END
+OCG_detect_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_detect_file.h
+END
+eurecom_20110208110244.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair2/UTIL/OCG/eurecom_20110208110244.xml
+END
+OCG_save_XML.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_save_XML.c
+END
+OCG_parse_filename.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_parse_filename.h
+END
+OCG.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG.c
+END
+OCG_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_vars.h
+END
+OCG_config_mobi.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_config_mobi.h
+END
+OCG_call_emu.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/OCG/OCG_call_emu.c
+END
+OCG_save_XML.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_save_XML.h
+END
+OCG_generate_report.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_generate_report.c
+END
+OCG.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5740/trunk/openair2/UTIL/OCG/OCG.h
+END
+OCG_call_emu.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_call_emu.h
+END
+OCG_generate_report.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_generate_report.h
+END
+OCG_parse_XML.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5740/trunk/openair2/UTIL/OCG/OCG_parse_XML.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/OCG/COPYING
+END
+OCG_parse_XML.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_parse_XML.h
+END
+OCG_create_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_create_dir.c
+END
+OCG_get_opt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_get_opt.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/1123/trunk/openair2/UTIL/OCG/readme.txt
+END
+OCG_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_if.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6198/trunk/openair2/UTIL/OCG/makefile
+END
+OCG_get_opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_get_opt.h
+END
+Readme.doxy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/1123/trunk/openair2/UTIL/OCG/Readme.doxy
+END
+OCG_create_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_create_dir.h
+END
+OCG_detect_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/OCG/OCG_detect_file.c
+END

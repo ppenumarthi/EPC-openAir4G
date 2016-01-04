@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/5579/trunk/openair-cn/SECU
+END
+nas_stream_eia1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5552/trunk/openair-cn/SECU/nas_stream_eia1.c
+END
+nas_stream_eia2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5552/trunk/openair-cn/SECU/nas_stream_eia2.c
+END
+rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5552/trunk/openair-cn/SECU/rijndael.h
+END
+Makefile.eNB
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5565/trunk/openair-cn/SECU/Makefile.eNB
+END
+key_nas_encryption.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5579/trunk/openair-cn/SECU/key_nas_encryption.c
+END
+kdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/5579/trunk/openair-cn/SECU/kdf.c
+END
+secu_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5579/trunk/openair-cn/SECU/secu_defs.h
+END
+key_nas_deriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5579/trunk/openair-cn/SECU/key_nas_deriver.c
+END
+snow3g.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5552/trunk/openair-cn/SECU/snow3g.c
+END
+snow3g.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5552/trunk/openair-cn/SECU/snow3g.h
+END
+nas_stream_eea1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5579/trunk/openair-cn/SECU/nas_stream_eea1.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5545/trunk/openair-cn/SECU/COPYING
+END
+rijndael.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5511/trunk/openair-cn/SECU/rijndael.c
+END
+nas_stream_eea2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5579/trunk/openair-cn/SECU/nas_stream_eea2.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5565/trunk/openair-cn/SECU/Makefile.am
+END

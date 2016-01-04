@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5950/trunk/openair1/PHY/MODULATION
+END
+ofdm_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5739/trunk/openair1/PHY/MODULATION/ofdm_mod.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5739/trunk/openair1/PHY/MODULATION/defs.h
+END
+ul_7_5_kHz.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5854/trunk/openair1/PHY/MODULATION/ul_7_5_kHz.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5710/trunk/openair1/PHY/MODULATION/COPYING
+END
+gen_7_5_kHz.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/3653/trunk/openair1/PHY/MODULATION/gen_7_5_kHz.m
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/MODULATION/extern.h
+END
+kHz_7_5.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/MODULATION/kHz_7_5.h
+END
+slot_fep.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5950/trunk/openair1/PHY/MODULATION/slot_fep.c
+END
+slot_fep_ul.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/MODULATION/slot_fep_ul.c
+END
+slot_fep_mbsfn.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/MODULATION/slot_fep_mbsfn.c
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/MODULATION/vars.h
+END
+prach625Hz.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/MODULATION/prach625Hz.h
+END

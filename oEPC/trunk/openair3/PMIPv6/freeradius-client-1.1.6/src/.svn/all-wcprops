@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src
+END
+radembedded.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radembedded.c
+END
+radacct
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radacct
+END
+radexample.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radexample.c
+END
+radiusclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radiusclient.c
+END
+radius.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radius.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/Makefile.am
+END
+radstatus
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radstatus
+END
+local.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/local.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/Makefile
+END
+radembedded
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radembedded
+END
+radlogin.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radlogin.c
+END
+radexample
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radexample
+END
+radacct.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radacct.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/Makefile.in
+END
+radlogin.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radlogin.h
+END
+radiusclient
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radiusclient
+END
+radstatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radstatus.c
+END
+radlogin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/src/radlogin
+END

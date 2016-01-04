@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/openair4G/!svn/ver/6190/trunk/openair-cn/S6A
+END
+s6a_apn_conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/S6A/s6a_apn_conf.c
+END
+s6a_dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5552/trunk/openair-cn/S6A/s6a_dict.c
+END
+s6a_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5552/trunk/openair-cn/S6A/s6a_defs.h
+END
+s6a_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5552/trunk/openair-cn/S6A/s6a_error.c
+END
+s6a_peer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5946/trunk/openair-cn/S6A/s6a_peer.c
+END
+s6a_auth_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5846/trunk/openair-cn/S6A/s6a_auth_info.c
+END
+s6a_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5552/trunk/openair-cn/S6A/s6a_messages.h
+END
+s6a_subscription_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5552/trunk/openair-cn/S6A/s6a_subscription_data.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5542/trunk/openair-cn/S6A/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5565/trunk/openair-cn/S6A/Makefile.am
+END
+s6a_up_loc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5846/trunk/openair-cn/S6A/s6a_up_loc.c
+END
+s6a_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5946/trunk/openair-cn/S6A/s6a_task.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6090/trunk/openair2/NAS/DRIVER/CELLULAR
+END
+start_rg_cellular_noradvd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/3691/trunk/openair2/NAS/DRIVER/CELLULAR/start_rg_cellular_noradvd
+END
+start_rg_cellular_radvd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/3691/trunk/openair2/NAS/DRIVER/CELLULAR/start_rg_cellular_radvd
+END
+stop_mt_cellular
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/3691/trunk/openair2/NAS/DRIVER/CELLULAR/stop_mt_cellular
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/3691/trunk/openair2/NAS/DRIVER/CELLULAR/readme.txt
+END
+start_mt_cellular
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/3691/trunk/openair2/NAS/DRIVER/CELLULAR/start_mt_cellular
+END
+stop_rg_cellular
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/3691/trunk/openair2/NAS/DRIVER/CELLULAR/stop_rg_cellular
+END

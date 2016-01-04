@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/openair4G/!svn/ver/6329/trunk
+END
+oaienv
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/openair4G/!svn/ver/6190/trunk/oaienv
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/openair4G/!svn/ver/5564/trunk/COPYING
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/openair4G/!svn/ver/5798/trunk/README.txt
+END
+maketags
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/openair4G/!svn/ver/5079/trunk/maketags
+END

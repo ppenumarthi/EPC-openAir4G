@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/openair4G/!svn/ver/6326/trunk/openair-cn
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/6065/trunk/openair-cn/configure.ac
+END
+INTERTASK_INTERFACE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/4238/trunk/openair-cn/INTERTASK_INTERFACE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/4234/trunk/openair-cn/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/6321/trunk/openair-cn/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/4234/trunk/openair-cn/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/4234/trunk/openair-cn/COPYING
+END
+cppcheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/4234/trunk/openair-cn/cppcheck.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5565/trunk/openair-cn/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/4234/trunk/openair-cn/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/4234/trunk/openair-cn/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/5343/trunk/openair-cn/README
+END
+valgrind.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/4234/trunk/openair-cn/valgrind.sh
+END

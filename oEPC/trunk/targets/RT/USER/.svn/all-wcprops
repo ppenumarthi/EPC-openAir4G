@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/openair4G/!svn/ver/6312/trunk/targets/RT/USER
+END
+eNB.gtkw
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/6115/trunk/targets/RT/USER/eNB.gtkw
+END
+ue.gtkw
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5858/trunk/targets/RT/USER/ue.gtkw
+END
+stats.fd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5766/trunk/targets/RT/USER/stats.fd
+END
+sleeptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/sleeptest.c
+END
+msg_many.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/msg_many.c
+END
+synctest.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/synctest.c
+END
+init_b200.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5737/trunk/targets/RT/USER/init_b200.sh
+END
+Makefile.agilent
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6198/trunk/targets/RT/USER/Makefile.agilent
+END
+msg_many.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/msg_many.h
+END
+make_for_usrp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/make_for_usrp.sh
+END
+rt_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/rt_wrapper.c
+END
+msg_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/msg_helper.c
+END
+.ue_emm.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/.ue_emm.nvram
+END
+dot11.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/dot11.c
+END
+rt_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6115/trunk/targets/RT/USER/rt_wrapper.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/6306/trunk/targets/RT/USER/Makefile
+END
+stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5854/trunk/targets/RT/USER/stats.c
+END
+sched_dlsch.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5776/trunk/targets/RT/USER/sched_dlsch.c
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5854/trunk/targets/RT/USER/stats.h
+END
+Makefile.msg_many
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/Makefile.msg_many
+END
+lte-softmodem-usrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/lte-softmodem-usrp.c
+END
+init_exmimo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/init_exmimo.sh
+END
+init_rtai.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5779/trunk/targets/RT/USER/init_rtai.sh
+END
+.runinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5854/trunk/targets/RT/USER/.runinfo
+END
+lte_scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/lte_scope.c
+END
+ieee80211p-softmodem.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/ieee80211p-softmodem.c
+END
+lte-softmodem.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/6303/trunk/targets/RT/USER/lte-softmodem.c
+END
+sched_rx_pdsch.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5776/trunk/targets/RT/USER/sched_rx_pdsch.c
+END
+lte_scope.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/lte_scope.h
+END
+condtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/condtest.c
+END
+sched_ulsch.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/sched_ulsch.c
+END
+lte_scope.fd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/lte_scope.fd
+END
+lte-enb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/lte-enb.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5718/trunk/targets/RT/USER/COPYING
+END
+exmimo2_2arxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6002/trunk/targets/RT/USER/exmimo2_2arxg.lime
+END
+.ue.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/.ue.nvram
+END
+exmimo2_2brxg.lime
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6002/trunk/targets/RT/USER/exmimo2_2brxg.lime
+END
+emos-raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5719/trunk/targets/RT/USER/emos-raw.c
+END
+rrh.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/6312/trunk/targets/RT/USER/rrh.c
+END
+init_exmimo2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/6031/trunk/targets/RT/USER/init_exmimo2.sh
+END
+.usim.nvram
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5394/trunk/targets/RT/USER/.usim.nvram
+END

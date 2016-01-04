@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/access_restriction
+END
+access_restriction.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/access_restriction/access_restriction.h
+END
+access_restriction.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/OPENAIRHSS/access_restriction/access_restriction.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5535/trunk/openair-cn/OPENAIRHSS/access_restriction/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5565/trunk/openair-cn/OPENAIRHSS/access_restriction/Makefile.am
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common
+END
+ContactResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ContactResource.java
+END
+ZoneResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ZoneResource.java
+END
+ContactsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ContactsResource.java
+END
+ZonesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ZonesResource.java
+END
+SensorInResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/SensorInResource.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/Contact.java
+END
+ContactBaseResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ContactBaseResource.java
+END
+SensorPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/SensorPost.java
+END
+ContactsSubResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/src/fr/eurecom/restlet/resources/common/ContactsSubResource.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_ESTIMATION
+END
+adjust_gain.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5859/trunk/openair1/PHY/LTE_ESTIMATION/adjust_gain.c
+END
+lte_adjust_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5859/trunk/openair1/PHY/LTE_ESTIMATION/lte_adjust_sync.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2416/trunk/openair1/PHY/LTE_ESTIMATION/README.txt
+END
+lte_sync_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/lte_sync_time.c
+END
+lte_eNB_measurements.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/lte_eNB_measurements.c
+END
+lte_ue_measurements.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5950/trunk/openair1/PHY/LTE_ESTIMATION/lte_ue_measurements.c
+END
+lte_ul_channel_estimation.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5794/trunk/openair1/PHY/LTE_ESTIMATION/lte_ul_channel_estimation.c
+END
+lte_dl_channel_estimation_emos.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/lte_dl_channel_estimation_emos.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/extern.h
+END
+lte_dl_mbsfn_channel_estimation.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/lte_dl_mbsfn_channel_estimation.c
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/vars.h
+END
+lte_est_freq_offset.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5794/trunk/openair1/PHY/LTE_ESTIMATION/lte_est_freq_offset.c
+END
+freq_equalization.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/freq_equalization.c
+END
+freq_domain_filters.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1123/trunk/openair1/PHY/LTE_ESTIMATION/freq_domain_filters.m
+END
+filt96_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/filt96_32.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/LTE_ESTIMATION/defs.h
+END
+lte_dl_channel_estimation.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/LTE_ESTIMATION/lte_dl_channel_estimation.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5710/trunk/openair1/PHY/LTE_ESTIMATION/COPYING
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/openair4G/!svn/ver/5762/trunk/openair2/UTIL/MEM
+END
+mem_mngt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/MEM/mem_mngt.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/MEM/COPYING
+END
+mem_block.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/MEM/mem_block.c
+END
+mem_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/MEM/mem_pool.h
+END
+mem_block.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5762/trunk/openair2/UTIL/MEM/mem_block.h
+END
+mem_mngt_proto_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/MEM/mem_mngt_proto_extern.h
+END

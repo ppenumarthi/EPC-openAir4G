@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/3848/trunk/openair3/PMIPv6/pmipv6-daemon-umip/extras/VIRTUAL_BOX
+END
+mn_guest_setup.bash
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/3848/trunk/openair3/PMIPv6/pmipv6-daemon-umip/extras/VIRTUAL_BOX/mn_guest_setup.bash
+END
+mag_vm_setup.bash
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/3848/trunk/openair3/PMIPv6/pmipv6-daemon-umip/extras/VIRTUAL_BOX/mag_vm_setup.bash
+END
+lma_vm_setup.bash
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/3848/trunk/openair3/PMIPv6/pmipv6-daemon-umip/extras/VIRTUAL_BOX/lma_vm_setup.bash
+END
+mag_guest_setup.bash
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/3848/trunk/openair3/PMIPv6/pmipv6-daemon-umip/extras/VIRTUAL_BOX/mag_guest_setup.bash
+END
+mn_vm_setup.bash
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/3848/trunk/openair3/PMIPv6/pmipv6-daemon-umip/extras/VIRTUAL_BOX/mn_vm_setup.bash
+END
+lma_guest_setup.bash
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/3848/trunk/openair3/PMIPv6/pmipv6-daemon-umip/extras/VIRTUAL_BOX/lma_guest_setup.bash
+END

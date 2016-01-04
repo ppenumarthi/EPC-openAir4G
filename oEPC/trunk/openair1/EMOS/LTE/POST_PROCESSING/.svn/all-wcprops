@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING
+END
+scale_ideal_tp.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/scale_ideal_tp.m
+END
+gen_cap_siso_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/gen_cap_siso_table.m
+END
+post_processing_eNb_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/post_processing_eNb_quick.m
+END
+select_mu-mimo_ambialet.mat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/select_mu-mimo_ambialet.mat
+END
+capacity_mode5_tab_4_16.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/capacity_mode5_tab_4_16.m
+END
+post_processing_UE_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/post_processing_UE_quick.m
+END
+find_closest_points.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/find_closest_points.m
+END
+plot_results_eNb_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_results_eNb_quick.m
+END
+penne_zoom1.mat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/penne_zoom1.mat
+END
+capacity_mode1_siso.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/capacity_mode1_siso.m
+END
+penne_zoom2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/penne_zoom2.mat
+END
+penne_zoom3.mat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/penne_zoom3.mat
+END
+mode1_mode2_comparison.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/mode1_mode2_comparison.m
+END
+get_tbs.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/get_tbs.m
+END
+gen_cap_SISO_tab_new.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/gen_cap_SISO_tab_new.m
+END
+plot_distance_travelled_cordes.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_distance_travelled_cordes.m
+END
+my_data_tip.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/my_data_tip.m
+END
+cordes_zoom2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/cordes_zoom2.mat
+END
+get_chunks.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/get_chunks.m
+END
+start_post_processing_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/start_post_processing_quick.m
+END
+cordes_zoom3.mat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/cordes_zoom3.mat
+END
+post_processing_eNB_nomadic_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/post_processing_eNB_nomadic_quick.m
+END
+plot_figures_cordes.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_figures_cordes.m
+END
+pfair.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/pfair.m
+END
+SISO_scaling.mat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/SISO_scaling.mat
+END
+SISO.mat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/SISO.mat
+END
+channel.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/channel.m
+END
+distance_traveled_comparison.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/distance_traveled_comparison.m
+END
+eval_nomadic_points.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/eval_nomadic_points.m
+END
+capacity_mode2_alamouti.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/capacity_mode2_alamouti.m
+END
+plot_in_bins.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_in_bins.m
+END
+capacity_siso_tab.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/capacity_siso_tab.m
+END
+plot_results_I0_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_results_I0_quick.m
+END
+plot_comparison_all_modes.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_comparison_all_modes.m
+END
+plot_distance_travelled_ideal.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_distance_travelled_ideal.m
+END
+capacity_mode5_tab_16_16.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/capacity_mode5_tab_16_16.m
+END
+ambialet_zoom1.mat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/ambialet_zoom1.mat
+END
+ambialet_zoom2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/ambialet_zoom2.mat
+END
+ambialet_zoom3.mat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/ambialet_zoom3.mat
+END
+mapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/mapping.m
+END
+align_routes.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/align_routes.m
+END
+table_LTE_MODE_4_5.mat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/table_LTE_MODE_4_5.mat
+END
+plot_results_UE_quick_common.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_results_UE_quick_common.m
+END
+map_q.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/map_q.m
+END
+plot_all_ue.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_all_ue.m
+END
+post_processing_UE_nomadic_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/post_processing_UE_nomadic_quick.m
+END
+plot_figures_ambialet.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_figures_ambialet.m
+END
+plot_results_eNb_aligned.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_results_eNb_aligned.m
+END
+Mode5_ConCat_Table.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/Mode5_ConCat_Table.m
+END
+gps_link_brush.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/gps_link_brush.m
+END
+integrity_check.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/integrity_check.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/README.txt
+END
+plot_results_UE_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_results_UE_quick.m
+END
+start_post_processing_nomadic_quick.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/start_post_processing_nomadic_quick.m
+END
+plot_comparison_all_modes_cordes.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_comparison_all_modes_cordes.m
+END
+filter_routes.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/filter_routes.m
+END
+plot_figures_penne.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_figures_penne.m
+END
+eval_village_ambialet.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/eval_village_ambialet.m
+END
+plot_distance_travelled.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_distance_travelled.m
+END
+plot_all_eNb.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/plot_all_eNb.m
+END
+cost231_hata.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/cost231_hata.m
+END
+post_processing_UE_channel.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/post_processing_UE_channel.m
+END
+select_dist_travelled_ideal.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/select_dist_travelled_ideal.m
+END
+post_processing_MUMIMO.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/post_processing_MUMIMO.m
+END
+capacity_mode5_tab_16_4.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/capacity_mode5_tab_16_4.m
+END
+get_gps_coordinates_eNB.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/get_gps_coordinates_eNB.m
+END
+capacity_siso_tab_measurements.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/capacity_siso_tab_measurements.m
+END
+capacity_mode5_tab.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/capacity_mode5_tab.m
+END
+get_mcs.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/get_mcs.m
+END
+rank_pmi_calc.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/rank_pmi_calc.m
+END
+start_post_processing_channel.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1123/trunk/openair1/EMOS/LTE/POST_PROCESSING/start_post_processing_channel.m
+END

@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg
+END
+DeactivateEpsBearerContextRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/DeactivateEpsBearerContextRequest.c
+END
+BearerResourceAllocationReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/BearerResourceAllocationReject.h
+END
+ActivateDefaultEpsBearerContextRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDefaultEpsBearerContextRequest.h
+END
+ActivateDedicatedEpsBearerContextReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDedicatedEpsBearerContextReject.c
+END
+ModifyEpsBearerContextReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ModifyEpsBearerContextReject.c
+END
+DeactivateEpsBearerContextRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/DeactivateEpsBearerContextRequest.h
+END
+ActivateDedicatedEpsBearerContextReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDedicatedEpsBearerContextReject.h
+END
+BearerResourceAllocationRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/BearerResourceAllocationRequest.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/COPYING
+END
+ModifyEpsBearerContextReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ModifyEpsBearerContextReject.h
+END
+PdnDisconnectReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/PdnDisconnectReject.c
+END
+esm_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/esm_msg.c
+END
+BearerResourceModificationReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/BearerResourceModificationReject.c
+END
+BearerResourceAllocationRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/BearerResourceAllocationRequest.h
+END
+PdnDisconnectReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/PdnDisconnectReject.h
+END
+esm_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/esm_msg.h
+END
+ActivateDefaultEpsBearerContextReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDefaultEpsBearerContextReject.c
+END
+BearerResourceModificationReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/BearerResourceModificationReject.h
+END
+ActivateDedicatedEpsBearerContextAccept.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDedicatedEpsBearerContextAccept.c
+END
+ActivateDefaultEpsBearerContextReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDefaultEpsBearerContextReject.h
+END
+ModifyEpsBearerContextAccept.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ModifyEpsBearerContextAccept.c
+END
+BearerResourceModificationRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/BearerResourceModificationRequest.c
+END
+EsmInformationResponse.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/EsmInformationResponse.c
+END
+ModifyEpsBearerContextAccept.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ModifyEpsBearerContextAccept.h
+END
+ActivateDedicatedEpsBearerContextAccept.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDedicatedEpsBearerContextAccept.h
+END
+BearerResourceModificationRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/BearerResourceModificationRequest.h
+END
+PdnConnectivityReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/PdnConnectivityReject.c
+END
+EsmInformationResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/EsmInformationResponse.h
+END
+PdnConnectivityReject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/PdnConnectivityReject.h
+END
+ActivateDefaultEpsBearerContextAccept.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDefaultEpsBearerContextAccept.c
+END
+DeactivateEpsBearerContextAccept.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/DeactivateEpsBearerContextAccept.c
+END
+EsmStatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/EsmStatus.c
+END
+ActivateDefaultEpsBearerContextAccept.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDefaultEpsBearerContextAccept.h
+END
+PdnConnectivityRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/PdnConnectivityRequest.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/Makefile
+END
+DeactivateEpsBearerContextAccept.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/DeactivateEpsBearerContextAccept.h
+END
+EsmStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/EsmStatus.h
+END
+ActivateDedicatedEpsBearerContextRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDedicatedEpsBearerContextRequest.c
+END
+PdnConnectivityRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/PdnConnectivityRequest.h
+END
+ModifyEpsBearerContextRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ModifyEpsBearerContextRequest.c
+END
+ActivateDedicatedEpsBearerContextRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDedicatedEpsBearerContextRequest.h
+END
+EsmInformationRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/EsmInformationRequest.c
+END
+ModifyEpsBearerContextRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ModifyEpsBearerContextRequest.h
+END
+PdnDisconnectRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/PdnDisconnectRequest.c
+END
+EsmInformationRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/EsmInformationRequest.h
+END
+esm_cause.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/esm_cause.h
+END
+PdnDisconnectRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/PdnDisconnectRequest.h
+END
+BearerResourceAllocationReject.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/BearerResourceAllocationReject.c
+END
+ActivateDefaultEpsBearerContextRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/openair4G/!svn/ver/5686/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/ActivateDefaultEpsBearerContextRequest.c
+END
+esm_msgDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/msg/esm_msgDef.h
+END

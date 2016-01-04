@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/6190/trunk/openair-cn/S6A/freediameter
+END
+make_certs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6154/trunk/openair-cn/S6A/freediameter/make_certs.sh
+END
+freediameter-1.1.5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/4234/trunk/openair-cn/S6A/freediameter/freediameter-1.1.5.patch
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4234/trunk/openair-cn/S6A/freediameter/README.txt
+END
+install_freediameter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/6190/trunk/openair-cn/S6A/freediameter/install_freediameter.sh
+END
+s6a.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/4234/trunk/openair-cn/S6A/freediameter/s6a.conf
+END

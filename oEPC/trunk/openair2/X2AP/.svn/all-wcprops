@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/openair4G/!svn/ver/5783/trunk/openair2/X2AP
+END
+x2ap.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/5714/trunk/openair2/X2AP/x2ap.h
+END
+x2ap_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5714/trunk/openair2/X2AP/x2ap_common.c
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5783/trunk/openair2/X2AP/Makefile.inc
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/5578/trunk/openair2/X2AP/COPYING
+END
+x2ap_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5714/trunk/openair2/X2AP/x2ap_common.h
+END
+x2ap.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/5714/trunk/openair2/X2AP/x2ap.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5846/trunk/openair-cn/NAS/EURECOM-NAS/src/api/mme
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/api/mme/Makefile
+END
+mme_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5623/trunk/openair-cn/NAS/EURECOM-NAS/src/api/mme/mme_api.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/api/mme/COPYING
+END
+mme_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5846/trunk/openair-cn/NAS/EURECOM-NAS/src/api/mme/mme_api.c
+END

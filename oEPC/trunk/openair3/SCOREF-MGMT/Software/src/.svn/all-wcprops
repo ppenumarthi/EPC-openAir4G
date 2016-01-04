@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src
+END
+mgmt_inquiry_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/2865/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_inquiry_thread.cpp
+END
+mgmt_inquiry_thread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_inquiry_thread.hpp
+END
+mgmt_packet_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/2995/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_packet_factory.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3056/trunk/openair3/SCOREF-MGMT/Software/src/main.cpp
+END
+mgmt_its_key_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/2865/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_its_key_manager.cpp
+END
+mgmt_packet_factory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_packet_factory.hpp
+END
+mgmt_packet_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/3060/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_packet_handler.cpp
+END
+mgmt_its_key_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_its_key_manager.hpp
+END
+mgmt_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/3068/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_server.cpp
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/version.hpp
+END
+mgmt_configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/3068/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_configuration.cpp
+END
+mgmt_client_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/2979/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_client_manager.cpp
+END
+mgmt_packet_handler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_packet_handler.hpp
+END
+mgmt_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_types.hpp
+END
+mgmt_comm_prof_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/3060/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_comm_prof_manager.cpp
+END
+mgmt_server.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_server.hpp
+END
+mgmt_configuration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_configuration.hpp
+END
+mgmt_client_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/2894/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_client_manager.hpp
+END
+mgmt_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/2938/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_client.cpp
+END
+mgmt_information_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/3060/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_information_base.cpp
+END
+mgmt_comm_prof_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_comm_prof_manager.hpp
+END
+mgmt_client.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_client.hpp
+END
+mgmt_information_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5732/trunk/openair3/SCOREF-MGMT/Software/src/mgmt_information_base.hpp
+END

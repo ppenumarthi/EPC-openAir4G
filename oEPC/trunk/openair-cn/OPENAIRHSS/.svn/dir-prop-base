@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 54
+Makefile.in
+Makefile
+aclocal.m4
+config.h.in
+configure
+
+K 13
+svn:mergeinfo
+V 196
+/tags/20140919_fk_fdd_tdd/openair-cn/OPENAIRHSS:5813-5841
+/tags/samurai_20121129/openair3/OPENAIRHSS:2892
+/trunk/common/openair3/OPENAIRHSS:4229-4230
+/trunk/openair3/OPENAIRHSS:3020-4125,4224,4228
+END

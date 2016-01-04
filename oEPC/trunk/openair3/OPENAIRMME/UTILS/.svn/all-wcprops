@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UTILS
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UTILS/Makefile.am
+END
+mme_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UTILS/mme_config.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/UTILS/queue.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UTILS/Makefile.in
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/UTILS/log.c
+END
+mme_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UTILS/mme_config.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UTILS/tree.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/2842/trunk/openair3/OPENAIRMME/UTILS/log.h
+END
+mme_default_values.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/UTILS/mme_default_values.h
+END

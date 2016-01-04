@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/openair4G/!svn/ver/6264/trunk/openair1/PHY
+END
+impl_defs_lte.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/impl_defs_lte.h
+END
+spec_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/spec_defs.h
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/openair4G/!svn/ver/6096/trunk/openair1/PHY/vars.h
+END
+spec_defs_top.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/spec_defs_top.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5351/trunk/openair1/PHY/Makefile.inc
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/openair4G/!svn/ver/6264/trunk/openair1/PHY/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/5710/trunk/openair1/PHY/COPYING
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/5713/trunk/openair1/PHY/types.h
+END
+impl_defs_top.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6182/trunk/openair1/PHY/impl_defs_top.h
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/6096/trunk/openair1/PHY/extern.h
+END

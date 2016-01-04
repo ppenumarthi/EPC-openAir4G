@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN
+END
+X2AP-CommonDataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/X2AP-CommonDataTypes.asn
+END
+X2AP-PDU.asn
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/X2AP-PDU.asn
+END
+X2AP-Constants.asn
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/X2AP-Constants.asn
+END
+X2AP-PDU-Descriptions.asn
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/X2AP-PDU-Descriptions.asn
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/Makefile.inc
+END
+X2AP-IEs.asn
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/X2AP-IEs.asn
+END
+X2AP-PDU-Definitions.asn
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/X2AP-PDU-Definitions.asn
+END
+X2AP-PDU-Contents.asn
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/X2AP-PDU-Contents.asn
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/Makefile
+END
+X2AP-Containers.asn
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/5430/trunk/openair2/X2AP/MESSAGES/ASN1/R.UNKNOWN/X2AP-Containers.asn
+END

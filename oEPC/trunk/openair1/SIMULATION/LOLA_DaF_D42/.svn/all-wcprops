@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LOLA_DaF_D42
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/6198/trunk/openair1/SIMULATION/LOLA_DaF_D42/Makefile
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1882/trunk/openair1/SIMULATION/LOLA_DaF_D42/TODO
+END
+read_results.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/2184/trunk/openair1/SIMULATION/LOLA_DaF_D42/read_results.m
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5711/trunk/openair1/SIMULATION/LOLA_DaF_D42/COPYING
+END
+colabsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5713/trunk/openair1/SIMULATION/LOLA_DaF_D42/colabsim.c
+END

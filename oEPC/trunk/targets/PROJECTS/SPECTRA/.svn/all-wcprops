@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5891/trunk/targets/PROJECTS/SPECTRA
+END
+CRMClientmain
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/CRMClientmain
+END
+libcrmclient.so.1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/libcrmclient.so.1
+END
+env_802dot21.bash
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/env_802dot21.bash
+END
+libcrmclient.so
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/libcrmclient.so
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5558/trunk/targets/PROJECTS/SPECTRA/COPYING
+END
+enb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/enb.conf
+END
+utils.bash
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5719/trunk/targets/PROJECTS/SPECTRA/utils.bash
+END
+start_enb.bash
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5891/trunk/targets/PROJECTS/SPECTRA/start_enb.bash
+END
+libcasablanca.so
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/libcasablanca.so
+END
+loadcasablancalib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/loadcasablancalib
+END
+CRMClient
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/CRMClient
+END
+start_ue.bash
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5872/trunk/targets/PROJECTS/SPECTRA/start_ue.bash
+END
+build_all.bash
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5800/trunk/targets/PROJECTS/SPECTRA/build_all.bash
+END
+libcrmclient.so.1.0
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5821/trunk/targets/PROJECTS/SPECTRA/libcrmclient.so.1.0
+END

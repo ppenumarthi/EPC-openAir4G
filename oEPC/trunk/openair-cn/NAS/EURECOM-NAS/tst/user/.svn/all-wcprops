@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/tst/user
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5547/trunk/openair-cn/NAS/EURECOM-NAS/tst/user/COPYING
+END
+user_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/user/user_parser.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/tst/user/Makefile
+END
+user_simulator.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/user/user_simulator.c
+END
+user_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/user/user_parser.h
+END

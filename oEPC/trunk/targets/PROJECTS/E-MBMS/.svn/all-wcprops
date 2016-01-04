@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5163/trunk/targets/PROJECTS/E-MBMS
+END
+enb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5115/trunk/targets/PROJECTS/E-MBMS/enb.conf
+END
+utils.bash
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5163/trunk/targets/PROJECTS/E-MBMS/utils.bash
+END
+start_enb.bash
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5163/trunk/targets/PROJECTS/E-MBMS/start_enb.bash
+END
+start_ue.bash
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5163/trunk/targets/PROJECTS/E-MBMS/start_ue.bash
+END
+build_all.bash
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5163/trunk/targets/PROJECTS/E-MBMS/build_all.bash
+END

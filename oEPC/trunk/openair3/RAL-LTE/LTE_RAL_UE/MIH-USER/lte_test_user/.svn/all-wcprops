@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5727/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/lte_test_user
+END
+lte_user.conf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/4902/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/lte_test_user/lte_user.conf
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/4902/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/lte_test_user/Jamfile
+END
+mih_usr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5727/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/lte_test_user/mih_usr.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/4902/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/lte_test_user/README.txt
+END
+ue_lte_user.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5727/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/lte_test_user/ue_lte_user.cpp
+END
+ue_lte_user.conf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/4902/trunk/openair3/RAL-LTE/LTE_RAL_UE/MIH-USER/lte_test_user/ue_lte_user.conf
+END

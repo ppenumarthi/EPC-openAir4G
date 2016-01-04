@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/Makefile.in
+END
+gtpv1_u_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/gtpv1_u_task.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/Makefile.am
+END
+gtpv1_u.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/GTPV1-U/gtpv1_u.h
+END

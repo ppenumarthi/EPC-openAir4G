@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5664/trunk/openair-cn/NAS/EURECOM-NAS/src/util
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/memory.h
+END
+nas_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/nas_timer.c
+END
+nas_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/nas_log.c
+END
+nas_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/nas_timer.h
+END
+nas_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/nas_log.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/util/COPYING
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/socket.c
+END
+TLVDecoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/TLVDecoder.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/util/Makefile
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/parser.c
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/socket.h
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/device.c
+END
+TLVDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5664/trunk/openair-cn/NAS/EURECOM-NAS/src/util/TLVDecoder.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/parser.h
+END
+stty.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/stty.c
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/device.h
+END
+TLVEncoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/TLVEncoder.c
+END
+OctetString.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5579/trunk/openair-cn/NAS/EURECOM-NAS/src/util/OctetString.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/memory.c
+END
+TLVEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/util/TLVEncoder.h
+END
+OctetString.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5579/trunk/openair-cn/NAS/EURECOM-NAS/src/util/OctetString.h
+END

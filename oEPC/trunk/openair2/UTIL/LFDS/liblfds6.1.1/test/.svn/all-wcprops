@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/test
+END
+makefile.windows
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/test/makefile.windows
+END
+test.sln
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/test/test.sln
+END
+building.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/test/building.txt
+END
+makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/test/makefile.linux
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/3965/trunk/openair2/UTIL/LFDS/liblfds6.1.1/test/test.vcproj
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5579/trunk/openair-cn/NAS/EURECOM-NAS/src/api/usim
+END
+aka_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/api/usim/aka_functions.c
+END
+usim_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5579/trunk/openair-cn/NAS/EURECOM-NAS/src/api/usim/usim_api.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/api/usim/COPYING
+END
+aka_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/usim/aka_functions.h
+END
+usim_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/usim/usim_api.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5567/trunk/openair-cn/NAS/EURECOM-NAS/src/api/usim/Makefile
+END

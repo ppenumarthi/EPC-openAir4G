@@ -1,0 +1,129 @@
+10
+
+dir
+6329
+http://svn.eurecom.fr/openair4G/trunk/openair2
+http://svn.eurecom.fr/openair4G
+
+
+
+2015-01-07T16:13:16.421380Z
+6329
+gauthier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+818b1a75-f10b-46b9-bf7c-635c3b92a50f
+
+ENB_APP
+dir
+
+NETWORK_DRIVER
+dir
+
+S1AP
+file
+
+
+
+
+2015-01-07T18:17:44.189050Z
+63765b94bb21a10345c22c187148a545
+2012-11-13T10:27:13.224153Z
+2778
+roux
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+
+RRC
+dir
+
+RRM_4_RRC_LITE
+dir
+
+COMMON
+dir
+
+DOCS
+dir
+
+X2AP
+dir
+
+UTIL
+dir
+
+Makefile
+file
+
+
+
+
+2015-01-07T18:17:44.189050Z
+29798f9d74c104627621b72c8278343c
+2014-12-09T12:01:38.233856Z
+6201
+thomasl
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9345
+
+LAYER2
+dir
+
+PHY_INTERFACE
+dir
+
+NAS
+dir
+

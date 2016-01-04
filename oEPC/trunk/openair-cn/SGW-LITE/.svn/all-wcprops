@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/openair4G/!svn/ver/6293/trunk/openair-cn/SGW-LITE
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5538/trunk/openair-cn/SGW-LITE/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/6060/trunk/openair-cn/SGW-LITE/Makefile.am
+END
+pgw_lite_paa.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/pgw_lite_paa.c
+END
+sgw_lite_handlers.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/6293/trunk/openair-cn/SGW-LITE/sgw_lite_handlers.c
+END
+sgw_lite_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/6285/trunk/openair-cn/SGW-LITE/sgw_lite_task.c
+END
+sgw_lite_ie_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/sgw_lite_ie_defs.h
+END
+pgw_lite_paa.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/pgw_lite_paa.h
+END
+sgw_lite_handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/sgw_lite_handlers.h
+END
+spgw_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6293/trunk/openair-cn/SGW-LITE/spgw_config.c
+END
+s11_causes.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/s11_causes.c
+END
+spgw_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6285/trunk/openair-cn/SGW-LITE/spgw_config.h
+END
+sgw_lite_context_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/sgw_lite_context_manager.c
+END
+s11_causes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/s11_causes.h
+END
+sgw_lite_context_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/6059/trunk/openair-cn/SGW-LITE/sgw_lite_context_manager.h
+END
+sgw_lite.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/sgw_lite.h
+END
+sgw_lite_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5552/trunk/openair-cn/SGW-LITE/sgw_lite_defs.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5167/trunk/openair3/OPENAIRMME/SGW-LITE
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/SGW-LITE/Makefile.in
+END
+sgw_lite_handlers.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/SGW-LITE/sgw_lite_handlers.h
+END
+sgw_lite_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/SGW-LITE/sgw_lite_defs.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/SGW-LITE/Makefile.am
+END
+sgw_lite_context_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/SGW-LITE/sgw_lite_context_manager.c
+END
+sgw_lite_handlers.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/SGW-LITE/sgw_lite_handlers.c
+END
+sgw_lite_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/SGW-LITE/sgw_lite_task.c
+END
+sgw_lite_context_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/SGW-LITE/sgw_lite_context_manager.h
+END
+sgw_lite_ie_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5167/trunk/openair3/OPENAIRMME/SGW-LITE/sgw_lite_ie_defs.h
+END

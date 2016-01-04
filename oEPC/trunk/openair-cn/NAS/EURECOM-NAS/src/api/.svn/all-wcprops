@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5846/trunk/openair-cn/NAS/EURECOM-NAS/src/api
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/api/COPYING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/api/Makefile
+END

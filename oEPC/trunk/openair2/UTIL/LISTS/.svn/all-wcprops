@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/openair4G/!svn/ver/6214/trunk/openair2/UTIL/LISTS
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/LISTS/COPYING
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6214/trunk/openair2/UTIL/LISTS/list.c
+END
+list2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/LISTS/list2.c
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/6214/trunk/openair2/UTIL/LISTS/list.h
+END

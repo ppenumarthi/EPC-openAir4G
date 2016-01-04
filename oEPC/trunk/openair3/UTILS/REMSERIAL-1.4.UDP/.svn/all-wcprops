@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/2991/trunk/openair3/UTILS/REMSERIAL-1.4.UDP
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2991/trunk/openair3/UTILS/REMSERIAL-1.4.UDP/Makefile
+END
+remserial.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2991/trunk/openair3/UTILS/REMSERIAL-1.4.UDP/remserial.c
+END
+stty.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2991/trunk/openair3/UTILS/REMSERIAL-1.4.UDP/stty.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2991/trunk/openair3/UTILS/REMSERIAL-1.4.UDP/README.txt
+END

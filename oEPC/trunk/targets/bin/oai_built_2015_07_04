@@ -1,0 +1,6 @@
+OPENAIR_HOME    = /home/phanik/oEPC/trunk
+OPENAIR1_DIR    = /home/phanik/oEPC/trunk/openair1
+OPENAIR2_DIR    = /home/phanik/oEPC/trunk/openair2
+OPENAIR3_DIR    = /home/phanik/oEPC/trunk/openair3
+OPENAIRCN_DIR   = /home/phanik/oEPC/trunk/openair-cn
+OPENAIR_TARGETS = /home/phanik/oEPC/trunk/targets

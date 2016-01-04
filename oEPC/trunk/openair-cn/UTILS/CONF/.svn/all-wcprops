@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/5946/trunk/openair-cn/UTILS/CONF
+END
+s6a.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5946/trunk/openair-cn/UTILS/CONF/s6a.conf.in
+END
+enb_orcus.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/4234/trunk/openair-cn/UTILS/CONF/enb_orcus.conf
+END
+enb_yang.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4908/trunk/openair-cn/UTILS/CONF/enb_yang.conf
+END
+epc_orcus.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/4234/trunk/openair-cn/UTILS/CONF/epc_orcus.conf
+END
+epc_sud.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/4936/trunk/openair-cn/UTILS/CONF/epc_sud.conf
+END
+mme_default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4234/trunk/openair-cn/UTILS/CONF/mme_default.conf
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5541/trunk/openair-cn/UTILS/CONF/COPYING
+END
+epc_yang.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4908/trunk/openair-cn/UTILS/CONF/epc_yang.conf
+END
+enb_default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4234/trunk/openair-cn/UTILS/CONF/enb_default.conf
+END
+epc_tapenade.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/4936/trunk/openair-cn/UTILS/CONF/epc_tapenade.conf
+END
+epc_nord.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4234/trunk/openair-cn/UTILS/CONF/epc_nord.conf
+END
+epc_caviar.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/4936/trunk/openair-cn/UTILS/CONF/epc_caviar.conf
+END
+mme_yang.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4908/trunk/openair-cn/UTILS/CONF/mme_yang.conf
+END

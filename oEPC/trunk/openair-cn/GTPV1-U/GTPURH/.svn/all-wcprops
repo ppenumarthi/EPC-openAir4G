@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6321/trunk/openair-cn/GTPV1-U/GTPURH
+END
+cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPURH/cmd.sh
+END
+libxt_GTPURH.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/6273/trunk/openair-cn/GTPV1-U/GTPURH/libxt_GTPURH.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6321/trunk/openair-cn/GTPV1-U/GTPURH/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPURH/README
+END
+xt_GTPURH.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6290/trunk/openair-cn/GTPV1-U/GTPURH/xt_GTPURH.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPURH/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPURH/COPYING
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/6052/trunk/openair-cn/GTPV1-U/GTPURH/RELEASE_NOTES
+END
+xt_GTPURH.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6266/trunk/openair-cn/GTPV1-U/GTPURH/xt_GTPURH.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/6234/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/6234/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/Makefile
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/3235/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/compile.sh
+END
+do_reinsert_driver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/3235/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/do_reinsert_driver.sh
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/vars.h
+END
+do_reenumerate_expressmimo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/3235/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/do_reenumerate_expressmimo.sh
+END
+fileops.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/fileops.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5718/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/COPYING
+END
+module_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/module_main.c
+END
+exmimo_fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/exmimo_fw.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/extern.h
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DRIVER/eurecom/irq.c
+END

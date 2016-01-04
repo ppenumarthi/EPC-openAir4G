@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/BIGPHYS
+END
+bigphys.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/BIGPHYS/bigphys.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5714/trunk/openair2/UTIL/BIGPHYS/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5578/trunk/openair2/UTIL/BIGPHYS/COPYING
+END

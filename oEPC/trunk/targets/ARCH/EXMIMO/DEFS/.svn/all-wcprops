@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DEFS
+END
+openair_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DEFS/openair_device.h
+END
+pcie_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/DEFS/pcie_interface.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5718/trunk/targets/ARCH/EXMIMO/DEFS/COPYING
+END

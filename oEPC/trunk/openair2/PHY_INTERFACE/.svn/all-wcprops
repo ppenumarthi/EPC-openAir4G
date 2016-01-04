@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5936/trunk/openair2/PHY_INTERFACE
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5936/trunk/openair2/PHY_INTERFACE/defs.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5578/trunk/openair2/PHY_INTERFACE/COPYING
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5714/trunk/openair2/PHY_INTERFACE/extern.h
+END
+mac_phy_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5714/trunk/openair2/PHY_INTERFACE/mac_phy_primitives.c
+END
+mac_phy_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5714/trunk/openair2/PHY_INTERFACE/mac_phy_primitives.h
+END
+vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5714/trunk/openair2/PHY_INTERFACE/vars.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/4042/trunk/openairITS/phy/DOT11
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/2707/trunk/openairITS/phy/DOT11/Makefile.inc
+END
+STS_LTS_F.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DOT11/STS_LTS_F.h
+END
+generate_STSLTS_corr.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DOT11/generate_STSLTS_corr.m
+END
+initial_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4042/trunk/openairITS/phy/DOT11/initial_sync.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2789/trunk/openairITS/phy/DOT11/defs.h
+END
+data_detection.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/4042/trunk/openairITS/phy/DOT11/data_detection.c
+END
+phy_tx_start.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4042/trunk/openairITS/phy/DOT11/phy_tx_start.c
+END
+commonvars.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DOT11/commonvars.h
+END
+scrambler.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DOT11/scrambler.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DOT11/crc32.c
+END
+txvars.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DOT11/txvars.h
+END
+interleaver.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DOT11/interleaver.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/TEST
+END
+oaisim_mme_client_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/TEST/oaisim_mme_client_test.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/TEST/Makefile.in
+END
+oaisim_mme_s1ap_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/TEST/oaisim_mme_s1ap_test.c
+END
+oaisim_mme_list_benchmark.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/2891/trunk/openair3/OPENAIRMME/TEST/oaisim_mme_list_benchmark.c
+END
+oaisim_mme_sctp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/TEST/oaisim_mme_sctp_test.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/TEST/Makefile.am
+END

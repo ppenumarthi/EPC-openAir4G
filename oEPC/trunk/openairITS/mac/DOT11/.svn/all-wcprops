@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/5078/trunk/openairITS/mac/DOT11
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/.gitignore
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/COPYRIGHT
+END
+compat_version
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/compat_version
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/MAINTAINERS
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/config.mk
+END
+code-metrics.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/code-metrics.txt
+END
+compat_base_tree
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/compat_base_tree
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/README
+END
+compat_base_tree_version
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/2455/trunk/openairITS/mac/DOT11/compat_base_tree_version
+END

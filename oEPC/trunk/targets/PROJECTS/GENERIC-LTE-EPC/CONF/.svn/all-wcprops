@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/6292/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF
+END
+enb.band13.rel10.exmimo2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/6249/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band13.rel10.exmimo2.conf
+END
+enb.sequans.sud.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5906/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.sequans.sud.conf
+END
+enb.band7.tm1.exmimo2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/6191/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.tm1.exmimo2.conf
+END
+enb.band7.exmimo2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/6190/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.exmimo2.conf
+END
+epc.on.enb.example.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/6292/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/epc.on.enb.example.conf
+END
+enb.band38.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5909/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band38.conf
+END
+epc.generic.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/6032/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/epc.generic.conf
+END
+epc.sfr.default.vlan.conf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5625/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/epc.sfr.default.vlan.conf
+END
+enb.band39.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/5906/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band39.conf
+END
+enb.dual.band13_band4.exmimo2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/6187/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.dual.band13_band4.exmimo2.conf
+END
+enb.sfr.sud.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5906/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.sfr.sud.conf
+END
+epc.pft.sud.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5742/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/epc.pft.sud.conf
+END
+enb.band13.exmimo2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/6248/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band13.exmimo2.conf
+END
+enb.pft.memphis.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5906/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.pft.memphis.conf
+END
+enb.centos.nord.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5906/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.centos.nord.conf
+END
+enb.band7.exmimo2_2a.conf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/6106/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.exmimo2_2a.conf
+END
+epc.pft.memphis.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/5625/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/epc.pft.memphis.conf
+END
+enb.dual.band38_band44.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/6187/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.dual.band38_band44.conf
+END
+enb.band3.tm1.usrpb210.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/6191/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band3.tm1.usrpb210.conf
+END
+enb.dual.band7_band20.conf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/6187/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.dual.band7_band20.conf
+END
+enb.band7.generic.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/6253/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.generic.conf
+END
+enb.band7.usrpb210.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/6190/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.usrpb210.conf
+END
+enb.band7.tm1.usrpb210.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/6195/trunk/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.tm1.usrpb210.conf
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/tst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/tst/Makefile
+END
+at_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/tst/at_parser.c
+END
+at_parser.in.bis
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/tst/at_parser.in.bis
+END
+at_parser.out.bis
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/tst/at_parser.out.bis
+END
+smartcom.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/tst/smartcom.txt
+END
+at_parser.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/tst/at_parser.in
+END
+at_parser.out
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/src/api/user/tst/at_parser.out
+END

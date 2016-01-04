@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC
+END
+rlc_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/rlc_primitives.h
+END
+rlc_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/rlc_mac.c
+END
+mac_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5164/trunk/openair2/LAYER2/RLC/mac_primitives.h
+END
+rlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/rlc.c
+END
+rlc_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/rlc_def.h
+END
+rlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/rlc.h
+END
+rlc_rrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/6329/trunk/openair2/LAYER2/RLC/rlc_rrc.c
+END
+rlc_def_lte.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5714/trunk/openair2/LAYER2/RLC/rlc_def_lte.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/openair4G/!svn/ver/5554/trunk/openair2/LAYER2/RLC/COPYING
+END
+rlc_mpls.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/6326/trunk/openair2/LAYER2/RLC/rlc_mpls.c
+END

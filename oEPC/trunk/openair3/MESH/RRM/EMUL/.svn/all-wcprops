@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/5732/trunk/openair3/MESH/RRM/EMUL
+END
+emul_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5732/trunk/openair3/MESH/RRM/EMUL/emul_interface.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/1123/trunk/openair3/MESH/RRM/EMUL/Makefile
+END
+actdiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5732/trunk/openair3/MESH/RRM/EMUL/actdiff.c
+END
+emul_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5732/trunk/openair3/MESH/RRM/EMUL/emul_interface.c
+END
+scenario.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5732/trunk/openair3/MESH/RRM/EMUL/scenario.c
+END
+actdiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5732/trunk/openair3/MESH/RRM/EMUL/actdiff.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/openair4G/!svn/ver/6054/trunk/openair-cn/OAI_EPC
+END
+oai_epc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/5552/trunk/openair-cn/OAI_EPC/oai_epc.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5533/trunk/openair-cn/OAI_EPC/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/5565/trunk/openair-cn/OAI_EPC/Makefile.am
+END
+oai_epc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/openair4G/!svn/ver/6054/trunk/openair-cn/OAI_EPC/oai_epc.c
+END
+oai_epc_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5552/trunk/openair-cn/OAI_EPC/oai_epc_log.c
+END

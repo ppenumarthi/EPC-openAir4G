@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/3848/trunk/openair3/PMIPv6/pmipv6-daemon-umip
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/README
+END
+README.IPsec
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/README.IPsec
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/BUGS
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/2767/trunk/openair3/PMIPv6/pmipv6-daemon-umip/configure.ac
+END
+COPYING.NEMO
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/COPYING.NEMO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2767/trunk/openair3/PMIPv6/pmipv6-daemon-umip/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/2767/trunk/openair3/PMIPv6/pmipv6-daemon-umip/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/NEWS
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/install-sh
+END
+chkconf_kernel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/chkconf_kernel.sh
+END
+INSTALL.kernel
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/INSTALL.kernel
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/ChangeLog
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/THANKS
+END
+README.NEMO
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/2103/trunk/openair3/PMIPv6/pmipv6-daemon-umip/README.NEMO
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian
+END
+libradius-ng-dev.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/libradius-ng-dev.dirs
+END
+substvars
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/substvars
+END
+libradius-ng-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/libradius-ng-dev.files
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/dirs
+END
+files
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/files
+END
+libradius-ng.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/libradius-ng.postinst
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/watch
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/copyright
+END
+conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/conffiles
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/Makefile.am
+END
+radiusclient-ng.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/radiusclient-ng.postinst
+END
+libradius-ng.substvars
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/libradius-ng.substvars
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/Makefile
+END
+examples
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/examples
+END
+README.debian
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/README.debian
+END
+libradius-ng.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/libradius-ng.dirs
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/control
+END
+libradius-ng.files
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/libradius-ng.files
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/Makefile.in
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/postrm
+END
+libradius-ng.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/libradius-ng.conffiles
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/changelog
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/docs
+END
+radiusclient-ng.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/radiusclient-ng.dirs
+END
+radiusclient-ng.files
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/radiusclient-ng.files
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/1963/trunk/openair3/PMIPv6/freeradius-client-1.1.6/debian/rules
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/openair4G/!svn/ver/2905/trunk/openairITS/phy/DRIVERS
+END
+ieee80211p-netlinkapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/2837/trunk/openairITS/phy/DRIVERS/ieee80211p-netlinkapi.c
+END
+ieee80211p-driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2798/trunk/openairITS/phy/DRIVERS/ieee80211p-driver.h
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DRIVERS/.project
+END
+ieee80211p-netlinkapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DRIVERS/ieee80211p-netlinkapi.h
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DRIVERS/.cproject
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/2903/trunk/openairITS/phy/DRIVERS/Makefile
+END
+ieee80211p-driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/2902/trunk/openairITS/phy/DRIVERS/ieee80211p-driver.c
+END
+ieee80211p-softmodem.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/2380/trunk/openairITS/phy/DRIVERS/ieee80211p-softmodem.c
+END

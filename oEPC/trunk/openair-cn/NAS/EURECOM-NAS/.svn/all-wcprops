@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/Makefile.inc
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5549/trunk/openair-cn/NAS/EURECOM-NAS/COPYING
+END
+Makerules
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/Makerules
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/Makefile
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld
+END
+NwMiniUlpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwMiniUlpEntity.h
+END
+NwMiniLogMgrEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwMiniLogMgrEntity.c
+END
+NwMiniTmrMgrEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwMiniTmrMgrEntity.c
+END
+NwMiniUdpEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwMiniUdpEntity.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/Makefile.am
+END
+NwEvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwEvt.h
+END
+NwMiniLogMgrEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwMiniLogMgrEntity.h
+END
+helloworld.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/helloworld.c
+END
+NwMiniTmrMgrEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwMiniTmrMgrEntity.h
+END
+NwMiniUdpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwMiniUdpEntity.h
+END
+NwMiniUlpEntity.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/NwMiniUlpEntity.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/4234/trunk/openair-cn/GTPV1-U/nw-gtpv1u/test-app/nw-helloworld/Makefile.in
+END

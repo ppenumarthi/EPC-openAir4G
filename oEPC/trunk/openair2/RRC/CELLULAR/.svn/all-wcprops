@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/6198/trunk/openair2/RRC/CELLULAR
+END
+rrc_qos_definitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_qos_definitions.h
+END
+rrc_util_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_util_config.c
+END
+rrc_rg_mbms_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg_mbms_encode.c
+END
+rrc_rg_L2_frontend.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5096/trunk/openair2/RRC/CELLULAR/rrc_rg_L2_frontend.c
+END
+rrc_msg_constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_msg_constant.h
+END
+rrc_L2_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_L2_proto.h
+END
+rrc_ue_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_ue_process.c
+END
+rrc_rg_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4167/trunk/openair2/RRC/CELLULAR/rrc_rg_vars.h
+END
+rrc_rg_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/4167/trunk/openair2/RRC/CELLULAR/rrc_rg_entity.h
+END
+rrc_ue.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue.c
+END
+rrc_ue_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_ue_control.c
+END
+rrc_ue_entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/3689/trunk/openair2/RRC/CELLULAR/rrc_ue_entity.h
+END
+rrc_ue_outputs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_ue_outputs.c
+END
+rrc_ue.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue.h
+END
+rrc_ue_bch_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_ue_bch_read.c
+END
+rrc_ue_bch_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_ue_bch_process.c
+END
+rrc_bch_mib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_bch_mib.c
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/3689/trunk/openair2/RRC/CELLULAR/Readme.txt
+END
+rrc_qos_classes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_qos_classes.h
+END
+rrc_rb_ue_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rb_ue_data.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/6198/trunk/openair2/RRC/CELLULAR/Makefile
+END
+rrc_bch_mib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_bch_mib.h
+END
+rrc_rg_nas_intf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_rg_nas_intf.c
+END
+as_configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/3689/trunk/openair2/RRC/CELLULAR/as_configuration.h
+END
+rrc_rg_rrm_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_rg_rrm_decode.c
+END
+rrc_rb_ue.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rb_ue.c
+END
+rrc_ue_dummies.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue_dummies.c
+END
+rrc_ue_mbms_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_ue_mbms_fsm.c
+END
+rrc_rb_ue.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rb_ue.h
+END
+rrc_nas_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3950/trunk/openair2/RRC/CELLULAR/rrc_nas_primitives.h
+END
+rrc_ue_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue_data.c
+END
+esterel_header.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1123/trunk/openair2/RRC/CELLULAR/esterel_header.txt
+END
+rrc_ue_L2_frontend.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5096/trunk/openair2/RRC/CELLULAR/rrc_ue_L2_frontend.c
+END
+rrc_ue_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue_variables.h
+END
+rrc_rrm_sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rrm_sap.h
+END
+rrc_utilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_utilities.c
+END
+rrc_rg_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_rg_main.c
+END
+rrc_mbms_constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_mbms_constant.h
+END
+rrc_rrm_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rrm_primitives.h
+END
+rrc_ue_esterfsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue_esterfsm.c
+END
+rrc_rg_msg_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_rg_msg_decode.c
+END
+rrc_proto_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/3689/trunk/openair2/RRC/CELLULAR/rrc_proto_int.h
+END
+rrc_ue_msg_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/3689/trunk/openair2/RRC/CELLULAR/rrc_ue_msg_decode.c
+END
+rrc_ue_bch_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_ue_bch_variables.h
+END
+rrc_rg_L2_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/3689/trunk/openair2/RRC/CELLULAR/rrc_rg_L2_interface.c
+END
+rrc_ue_mbms_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_ue_mbms_process.c
+END
+rrc_proto_intf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_proto_intf.h
+END
+rrc_rg_msg_peer.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg_msg_peer.c
+END
+rrc_nas_sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/3689/trunk/openair2/RRC/CELLULAR/rrc_nas_sap.h
+END
+rrc_rg_srb_bch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_rg_srb_bch.c
+END
+rrc_ue_mbms_outputs.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue_mbms_outputs.c
+END
+rrc_rg_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_rg_init.c
+END
+rrc_msg_ies.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_msg_ies.h
+END
+rrc_rg_vars_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1992/trunk/openair2/RRC/CELLULAR/rrc_rg_vars_extern.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/1990/trunk/openair2/RRC/CELLULAR/Makefile.inc
+END
+rrc_rg_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg_variables.h
+END
+rrc_rg_mbms_nas_if.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_rg_mbms_nas_if.c
+END
+rrc_rg_bch_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_rg_bch_init.c
+END
+rrc_ue_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4167/trunk/openair2/RRC/CELLULAR/rrc_ue_vars.h
+END
+rrc_platform_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1992/trunk/openair2/RRC/CELLULAR/rrc_platform_types.h
+END
+rrc_proto_fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_proto_fsm.h
+END
+rrc_proto_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_proto_msg.h
+END
+rrc_msg_class.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_msg_class.h
+END
+rrc_rg_bch_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_rg_bch_variables.h
+END
+rrc_msg_pdus.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_msg_pdus.c
+END
+rrc_ue_L2_intf_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/3689/trunk/openair2/RRC/CELLULAR/rrc_ue_L2_intf_variables.h
+END
+rrc_rg_mbms_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_rg_mbms_variables.h
+END
+rrc_ue_mbms_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue_mbms_variables.h
+END
+rrc_rg_rrm_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg_rrm_variables.h
+END
+rrc_msg_pdus.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_msg_pdus.h
+END
+rrc_proto_mbms.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_proto_mbms.h
+END
+rrc_ue_nas_intf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_ue_nas_intf.c
+END
+rrc_ue_srb_bch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_ue_srb_bch.c
+END
+rrc_bch_ies.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_bch_ies.c
+END
+rrc_rg_bch_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_rg_bch_write.c
+END
+rrc_constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/4167/trunk/openair2/RRC/CELLULAR/rrc_constant.h
+END
+rrc_ue_vars_extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/1992/trunk/openair2/RRC/CELLULAR/rrc_ue_vars_extern.h
+END
+rrc_rg_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg_data.c
+END
+rrc_bch_ies.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_bch_ies.h
+END
+rrc_rb_ue_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rb_ue_debug.c
+END
+rrc_mbms_ies.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_mbms_ies.h
+END
+rrc_bch_per_basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_bch_per_basic.c
+END
+rrc_rg_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_rg_process.c
+END
+rrc_bch_per_basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_bch_per_basic.h
+END
+rrc_rg_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg_control.c
+END
+rrc_rg.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg.c
+END
+rrc_bch_constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_bch_constant.h
+END
+rrc_rg_outputs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_rg_outputs.c
+END
+rrc_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_messages.h
+END
+rrc_ue_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_ue_main.c
+END
+rrc_rg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg.h
+END
+rrc_rg_esterfsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg_esterfsm.c
+END
+rrc_rg_L2_intf_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/4167/trunk/openair2/RRC/CELLULAR/rrc_rg_L2_intf_variables.h
+END
+rrc_proto_bch.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_proto_bch.h
+END
+rrc_rg_mbms_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_rg_mbms_process.c
+END
+rrc_ue_L2_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_ue_L2_interface.c
+END
+rrc_rg_rrm_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_rg_rrm_process.c
+END
+rrc_proto_rrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_proto_rrm.h
+END
+rrc_mbms_pdus.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_mbms_pdus.c
+END
+rrc_rg_mbms_outputs.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_rg_mbms_outputs.c
+END
+rrc_ue_mbms_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3987/trunk/openair2/RRC/CELLULAR/rrc_ue_mbms_decode.c
+END
+rrc_ue_msg_peer.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_ue_msg_peer.c
+END
+rrc_rg_dummies.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_rg_dummies.c
+END
+rrc_rg_rrm_outputs.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3203/trunk/openair2/RRC/CELLULAR/rrc_rg_rrm_outputs.c
+END
+rrc_ue_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4166/trunk/openair2/RRC/CELLULAR/rrc_ue_init.c
+END
+rrc_mbms_pdus.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/1991/trunk/openair2/RRC/CELLULAR/rrc_mbms_pdus.h
+END

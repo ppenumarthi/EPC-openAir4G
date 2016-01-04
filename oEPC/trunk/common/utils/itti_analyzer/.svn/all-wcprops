@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/openair4G/!svn/ver/5717/trunk/common/utils/itti_analyzer
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/4696/trunk/common/utils/itti_analyzer/configure.ac
+END
+filters_ue_enb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/5652/trunk/common/utils/itti_analyzer/filters_ue_enb.xml
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/4233/trunk/common/utils/itti_analyzer/AUTHORS
+END
+filters_mme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/4989/trunk/common/utils/itti_analyzer/filters_mme.xml
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/4233/trunk/common/utils/itti_analyzer/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/4233/trunk/common/utils/itti_analyzer/ChangeLog
+END
+filters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4817/trunk/common/utils/itti_analyzer/filters.xml
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5568/trunk/common/utils/itti_analyzer/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/4239/trunk/common/utils/itti_analyzer/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/4233/trunk/common/utils/itti_analyzer/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/4233/trunk/common/utils/itti_analyzer/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/4233/trunk/common/utils/itti_analyzer/README
+END
+itti_analyzer.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5717/trunk/common/utils/itti_analyzer/itti_analyzer.c
+END

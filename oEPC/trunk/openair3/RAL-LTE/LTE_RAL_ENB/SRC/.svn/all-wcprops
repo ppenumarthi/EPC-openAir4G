@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC
+END
+lteRALenb_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_main.c
+END
+lteRALenb_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5096/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_ioctl.c
+END
+lteRALenb_rrc_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5105/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_rrc_msg.c
+END
+lteRALenb_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_action.c
+END
+lteRALenb_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5096/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_process.c
+END
+lteRALenb_thresholds.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/5086/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_thresholds.c
+END
+lteRALenb_subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5086/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_subscribe.c
+END
+lteRALenb_mih_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/5726/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_mih_msg.c
+END
+lteRALenb_parameters.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/openair4G/!svn/ver/4596/trunk/openair3/RAL-LTE/LTE_RAL_ENB/SRC/lteRALenb_parameters.c
+END

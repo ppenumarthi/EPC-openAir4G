@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/2780/trunk/openair3/OPENAIRMME/S1AP/MESSAGES/ASN1/R8.10
+END
+S1AP-IEs.asn
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/2780/trunk/openair3/OPENAIRMME/S1AP/MESSAGES/ASN1/R8.10/S1AP-IEs.asn
+END
+S1AP-PDU-Contents.asn
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/MESSAGES/ASN1/R8.10/S1AP-PDU-Contents.asn
+END
+S1AP-CommonDataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/MESSAGES/ASN1/R8.10/S1AP-CommonDataTypes.asn
+END
+S1AP-PDU.asn
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/MESSAGES/ASN1/R8.10/S1AP-PDU.asn
+END
+S1AP-Constants.asn
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/2778/trunk/openair3/OPENAIRMME/S1AP/MESSAGES/ASN1/R8.10/S1AP-Constants.asn
+END

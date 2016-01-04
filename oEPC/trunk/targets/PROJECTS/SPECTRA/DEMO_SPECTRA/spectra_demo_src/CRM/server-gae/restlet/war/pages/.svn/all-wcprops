@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/pages
+END
+allalarmsJSON.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/pages/allalarmsJSON.jsp
+END
+postvalslist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/pages/postvalslist.jsp
+END
+zonelist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/pages/zonelist.jsp
+END
+alarmsJSON.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/pages/alarmsJSON.jsp
+END
+detailzone.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/pages/detailzone.jsp
+END
+sensormonitorsjson.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/pages/sensormonitorsjson.jsp
+END
+alarms.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/openair4G/!svn/ver/5873/trunk/targets/PROJECTS/SPECTRA/DEMO_SPECTRA/spectra_demo_src/CRM/server-gae/restlet/war/pages/alarms.jsp
+END

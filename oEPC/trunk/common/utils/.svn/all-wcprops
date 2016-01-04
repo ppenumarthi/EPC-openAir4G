@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/openair4G/!svn/ver/6261/trunk/common/utils
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6261/trunk/common/utils/Makefile.inc
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/openair4G/!svn/ver/5568/trunk/common/utils/COPYING
+END
+asn1_conversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5717/trunk/common/utils/asn1_conversions.h
+END
+assertions.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/5717/trunk/common/utils/assertions.h
+END

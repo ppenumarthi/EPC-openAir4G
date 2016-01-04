@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5685/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap
+END
+EmmRegisteredUpdateNeeded.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegisteredUpdateNeeded.c
+END
+EmmDeregistered.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregistered.c
+END
+emm_as.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_as.h
+END
+emm_esmDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_esmDef.h
+END
+EmmNull.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmNull.c
+END
+emm_cnDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_cnDef.h
+END
+EmmRegisteredImsiDetachInitiated.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegisteredImsiDetachInitiated.c
+END
+EmmDeregisteredNoImsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredNoImsi.c
+END
+EmmRegisteredNormalService.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegisteredNormalService.c
+END
+emm_send.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5675/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_send.c
+END
+EmmRegisteredNoCellAvailable.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegisteredNoCellAvailable.c
+END
+emm_send.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_send.h
+END
+emm_recv.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5675/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_recv.c
+END
+EmmDeregisteredAttachNeeded.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredAttachNeeded.c
+END
+EmmRegisteredAttemptingToUpdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegisteredAttemptingToUpdate.c
+END
+emm_regDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_regDef.h
+END
+EmmDeregisteredInitiated.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredInitiated.c
+END
+emm_recv.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_recv.h
+END
+EmmServiceRequestInitiated.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmServiceRequestInitiated.c
+END
+EmmRegisteredPlmnSearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegisteredPlmnSearch.c
+END
+emm_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_reg.c
+END
+emm_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_reg.h
+END
+EmmTrackingAreaUpdatingInitiated.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmTrackingAreaUpdatingInitiated.c
+END
+emm_sap.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_sap.c
+END
+emm_esm.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_esm.c
+END
+EmmDeregisteredPlmnSearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredPlmnSearch.c
+END
+emm_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_fsm.c
+END
+emm_asDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/5675/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_asDef.h
+END
+EmmRegisteredLimitedService.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegisteredLimitedService.c
+END
+emm_sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_sap.h
+END
+emm_esm.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_esm.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/COPYING
+END
+EmmRegisteredInitiated.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegisteredInitiated.c
+END
+emm_fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_fsm.h
+END
+EmmDeregisteredAttemptingToAttach.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredAttemptingToAttach.c
+END
+EmmCommonProcedureInitiated.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmCommonProcedureInitiated.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/Makefile
+END
+EmmRegistered.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmRegistered.c
+END
+emm_cn.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5685/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_cn.c
+END
+EmmDeregisteredLimitedService.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredLimitedService.c
+END
+EmmDeregisteredNormalService.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredNormalService.c
+END
+emm_as.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5675/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_as.c
+END
+emm_cn.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/emm_cn.h
+END
+EmmDeregisteredNoCellAvailable.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/emm/sap/EmmDeregisteredNoCellAvailable.c
+END

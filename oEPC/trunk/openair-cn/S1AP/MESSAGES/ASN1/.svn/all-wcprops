@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5551/trunk/openair-cn/S1AP/MESSAGES/ASN1
+END
+asn1tostruct.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/4413/trunk/openair-cn/S1AP/MESSAGES/ASN1/asn1tostruct.py
+END
+asn1cpatch.p0
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/4482/trunk/openair-cn/S1AP/MESSAGES/ASN1/asn1cpatch.p0
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/openair4G/!svn/ver/5551/trunk/openair-cn/S1AP/MESSAGES/ASN1/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/4234/trunk/openair-cn/S1AP/MESSAGES/ASN1/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/4513/trunk/openair-cn/S1AP/MESSAGES/ASN1/README
+END

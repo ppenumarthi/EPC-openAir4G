@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/openair4G/!svn/ver/5771/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE
+END
+start_enb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5771/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE/start_enb
+END
+start_ue
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5771/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE/start_ue
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5758/trunk/targets/SIMU/EXAMPLES/ETH_EMUL_1eNB_1UE/Makefile
+END

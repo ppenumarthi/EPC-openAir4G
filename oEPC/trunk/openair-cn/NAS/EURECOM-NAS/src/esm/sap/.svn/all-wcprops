@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/openair4G/!svn/ver/5548/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/COPYING
+END
+esm_sap.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/esm_sap.c
+END
+esm_recv.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/esm_recv.h
+END
+esm_sapDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/esm_sapDef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5565/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/Makefile
+END
+esm_sap.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/esm_sap.h
+END
+esm_send.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5935/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/esm_send.c
+END
+esm_send.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/esm_send.h
+END
+esm_recv.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/openair4G/!svn/ver/5552/trunk/openair-cn/NAS/EURECOM-NAS/src/esm/sap/esm_recv.c
+END

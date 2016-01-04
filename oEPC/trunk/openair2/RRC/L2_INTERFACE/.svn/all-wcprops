@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/L2_INTERFACE
+END
+openair_rrc_L2_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/L2_INTERFACE/openair_rrc_L2_interface.c
+END
+openair_rrc_L2_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/6326/trunk/openair2/RRC/L2_INTERFACE/openair_rrc_L2_interface.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5578/trunk/openair2/RRC/L2_INTERFACE/COPYING
+END

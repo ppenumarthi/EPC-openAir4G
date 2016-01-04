@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/openair4G/!svn/ver/5565/trunk/openair-cn/OAISIM_MME
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/openair4G/!svn/ver/5532/trunk/openair-cn/OAISIM_MME/COPYING
+END
+oai_mme_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5552/trunk/openair-cn/OAISIM_MME/oai_mme_log.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5565/trunk/openair-cn/OAISIM_MME/Makefile.am
+END
+oaisim_mme.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/OAISIM_MME/oaisim_mme.c
+END
+oaisim_mme.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5552/trunk/openair-cn/OAISIM_MME/oaisim_mme.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OAI_FW_INIT
+END
+updatefw.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OAI_FW_INIT/updatefw.c
+END
+elftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OAI_FW_INIT/elftypes.h
+END
+main
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/2787/trunk/openair1/USERSPACE_TOOLS/OAI_FW_INIT/main
+END
+updatefw.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OAI_FW_INIT/updatefw.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/openair4G/!svn/ver/5711/trunk/openair1/USERSPACE_TOOLS/OAI_FW_INIT/COPYING
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5713/trunk/openair1/USERSPACE_TOOLS/OAI_FW_INIT/elf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/3093/trunk/openair1/USERSPACE_TOOLS/OAI_FW_INIT/Makefile
+END

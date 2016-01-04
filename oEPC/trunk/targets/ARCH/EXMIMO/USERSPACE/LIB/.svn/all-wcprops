@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/openair4G/!svn/ver/5803/trunk/targets/ARCH/EXMIMO/USERSPACE/LIB
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/USERSPACE/LIB/example.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/3148/trunk/targets/ARCH/EXMIMO/USERSPACE/LIB/Makefile
+END
+gain_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5780/trunk/targets/ARCH/EXMIMO/USERSPACE/LIB/gain_control.c
+END
+gain_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5719/trunk/targets/ARCH/EXMIMO/USERSPACE/LIB/gain_control.h
+END
+openair0_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5803/trunk/targets/ARCH/EXMIMO/USERSPACE/LIB/openair0_lib.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/5718/trunk/targets/ARCH/EXMIMO/USERSPACE/LIB/COPYING
+END
+openair0_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/openair4G/!svn/ver/5782/trunk/targets/ARCH/EXMIMO/USERSPACE/LIB/openair0_lib.h
+END

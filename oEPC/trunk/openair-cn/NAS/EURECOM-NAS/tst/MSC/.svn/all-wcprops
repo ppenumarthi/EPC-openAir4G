@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/openair4G/!svn/ver/5547/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC
+END
+mscgen
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/mscgen
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/README
+END
+DeactivatePDN.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/DeactivatePDN.png
+END
+InitialAttachReject.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/InitialAttachReject.png
+END
+AuthenticationReject.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/AuthenticationReject.png
+END
+InitialAttach.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/InitialAttach.png
+END
+NomalDetach.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/NomalDetach.png
+END
+msc_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/msc_gen.py
+END
+ActivatePDN.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/ActivatePDN.png
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/openair4G/!svn/ver/5547/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/COPYING
+END
+SwitchOffDetach.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/openair4G/!svn/ver/4234/trunk/openair-cn/NAS/EURECOM-NAS/tst/MSC/SwitchOffDetach.png
+END

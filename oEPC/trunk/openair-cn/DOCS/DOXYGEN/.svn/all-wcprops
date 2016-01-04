@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/openair4G/!svn/ver/5565/trunk/openair-cn/DOCS/DOXYGEN
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/openair4G/!svn/ver/5530/trunk/openair-cn/DOCS/DOXYGEN/COPYING
+END
+Doxyfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/4234/trunk/openair-cn/DOCS/DOXYGEN/Doxyfile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/openair4G/!svn/ver/5565/trunk/openair-cn/DOCS/DOXYGEN/Makefile.am
+END
