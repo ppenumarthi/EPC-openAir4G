@@ -131,9 +131,9 @@ void *mme_app_thread(void *args)
 
             // From S1AP Initiating Message/EMM Attach Request
             case MME_APP_CONNECTION_ESTABLISHMENT_IND: {
-		//NFVEPC Project
+		        //NFVEPC Project
                 sample_bypass_hss(&MME_APP_CONNECTION_ESTABLISHMENT_IND(received_message_p));
-        	//received_message_p = NULL;
+        	    //received_message_p = NULL;
                 //mme_app_handle_conn_est_ind(&MME_APP_CONNECTION_ESTABLISHMENT_IND(received_message_p));
             } continue;
 
