@@ -641,139 +641,132 @@ int sgi_dgram_send_data(uint8_t *buffer_pP, uint32_t length, sgi_data_t *sgi_dat
         return -1;
     }
 
-//if(iph_p->version == 4 || iph_p->version == 6) { //NFVEPC Project
-if(0) { //NFVEPC Project
-    // get IP version of this packet
-    switch (iph_p->version) {
+    if(0) { //NFVEPC Project modifications
+        // get IP version of this packet
+        switch (iph_p->version) {
 
-    //*******************
-    case 4:
-    //*******************
-        // The entry should be here but all signalling tied with RRC procedures not finished so
-        // a data packet can arrive before the MODIFY_BEARER REQUEST
-        sgi_data_pP->eh.ether_type = htons(ETHERTYPE_IP);
-        src4_addr = iph_p->saddr;
-        if (hashtable_get(sgi_data_pP->addr_v4_mapping, src4_addr, (void**)&addr_mapping_p) != HASH_TABLE_OK) {
-            hash_rc = hashtable_get(sgi_data_pP->teid_mapping, originating_sgw_S1u_teidP, (void**)&mapping_p);
-            if (hash_rc == HASH_TABLE_KEY_NOT_EXISTS) {
-                SGI_IF_ERROR("%s Error unknown context SGW teid %d\n", __FUNCTION__, originating_sgw_S1u_teidP);
-                return -1;
-            } else {
-                if (mapping_p->is_outgoing_ipv4_packet_seen == 0) {
-                    mapping_p->hw_addrlen = 0;    // TO DO
-                    mapping_p->is_outgoing_ipv4_packet_seen = 1;
-                    mapping_p->in_add_captured.s_addr = src4_addr;
+	    //*******************
+	    case 4:
+	    //*******************
+		// The entry should be here but all signalling tied with RRC procedures not finished so
+		// a data packet can arrive before the MODIFY_BEARER REQUEST
+		sgi_data_pP->eh.ether_type = htons(ETHERTYPE_IP);
+		src4_addr = iph_p->saddr;
+		if (hashtable_get(sgi_data_pP->addr_v4_mapping, src4_addr, (void**)&addr_mapping_p) != HASH_TABLE_OK) {
+		    hash_rc = hashtable_get(sgi_data_pP->teid_mapping, originating_sgw_S1u_teidP, (void**)&mapping_p);
+		    if (hash_rc == HASH_TABLE_KEY_NOT_EXISTS) {
+		        SGI_IF_ERROR("%s Error unknown context SGW teid %d\n", __FUNCTION__, originating_sgw_S1u_teidP);
+		        return -1;
+		    } else {
+		        if (mapping_p->is_outgoing_ipv4_packet_seen == 0) {
+		            mapping_p->hw_addrlen = 0;    // TO DO
+		            mapping_p->is_outgoing_ipv4_packet_seen = 1;
+		            mapping_p->in_add_captured.s_addr = src4_addr;
 
-                    addr_mapping_p = calloc(1, sizeof(sgi_addr_mapping_t));
-                    addr_mapping_p->is_outgoing_packet_seen = 1;
-                    addr_mapping_p->enb_S1U_teid            = mapping_p->enb_S1U_teid;
-                    addr_mapping_p->sgw_S1U_teid            = originating_sgw_S1u_teidP;
-                    hashtable_insert(sgi_data_pP->addr_v4_mapping, src4_addr, (void*)addr_mapping_p);
-                    SGI_IF_DEBUG("%s ASSOCIATED %d.%d.%d.%d to teid %d\n",
-                            __FUNCTION__, NIPADDR(src4_addr), originating_sgw_S1u_teidP);
-                } else {
-                    SGI_IF_ERROR("Error IPv4 address already registered for teid %d\n", originating_sgw_S1u_teidP);
-                    return -1;
-                }
-            }
-        } else {
-            hash_rc = hashtable_get(sgi_data_pP->teid_mapping, originating_sgw_S1u_teidP, (void**)&mapping_p);
-        }
-        break;
+		            addr_mapping_p = calloc(1, sizeof(sgi_addr_mapping_t));
+		            addr_mapping_p->is_outgoing_packet_seen = 1;
+		            addr_mapping_p->enb_S1U_teid            = mapping_p->enb_S1U_teid;
+		            addr_mapping_p->sgw_S1U_teid            = originating_sgw_S1u_teidP;
+		            hashtable_insert(sgi_data_pP->addr_v4_mapping, src4_addr, (void*)addr_mapping_p);
+		            SGI_IF_DEBUG("%s ASSOCIATED %d.%d.%d.%d to teid %d\n",
+		                    __FUNCTION__, NIPADDR(src4_addr), originating_sgw_S1u_teidP);
+		        } else {
+		            SGI_IF_ERROR("Error IPv4 address already registered for teid %d\n", originating_sgw_S1u_teidP);
+		            return -1;
+		        }
+		    }
+		} else {
+		    hash_rc = hashtable_get(sgi_data_pP->teid_mapping, originating_sgw_S1u_teidP, (void**)&mapping_p);
+		}
+		break;
+
+	    //*******************
+	    case 6:
+		sgi_data_pP->eh.ether_type = htons(ETHERTYPE_IPV6);
+		if (obj_hashtable_get(sgi_data_pP->addr_v6_mapping, &src6_addr, sizeof(struct in6_addr), (void**)&addr_mapping_p) != HASH_TABLE_OK) {
+		    hash_rc = hashtable_get(sgi_data_pP->teid_mapping, originating_sgw_S1u_teidP, (void**)&mapping_p);
+		    if (hash_rc == HASH_TABLE_KEY_NOT_EXISTS) {
+		        SGI_IF_ERROR("%s Error unknown context SGW teid %d\n", __FUNCTION__, originating_sgw_S1u_teidP);
+		        return -1;
+		    } else {
+
+		            if (mapping_p->is_outgoing_ipv6_packet_seen < MAX_DEFINED_IPV6_ADDRESSES_PER_UE) {
+		                mapping_p->hw_addrlen = 0;
+
+		                memcpy(&mapping_p->in6_addr_captured[mapping_p->is_outgoing_ipv6_packet_seen].s6_addr, src6_addr.s6_addr, 16);
+		                mapping_p->is_outgoing_ipv6_packet_seen +=1;
+
+		                addr_mapping_p = calloc(1, sizeof(sgi_addr_mapping_t));
+		                addr_mapping_p->is_outgoing_packet_seen = 1;
+		                addr_mapping_p->enb_S1U_teid            = mapping_p->enb_S1U_teid;
+		                addr_mapping_p->sgw_S1U_teid            = originating_sgw_S1u_teidP;
+
+		                src6_addr_p = malloc(sizeof(struct in6_addr));
+		                if (src6_addr_p == NULL) {
+		                    return -1;
+		                }
+		                memcpy(src6_addr_p->s6_addr, ip6h_p->saddr.s6_addr, 16);
+		                obj_hashtable_insert(sgi_data_pP->addr_v6_mapping, src6_addr_p,sizeof(struct in6_addr), (void*)addr_mapping_p);
+		            } else {
+		                SGI_IF_ERROR("Error TOO MANY IPv6 address already registered for teid %d\n", originating_sgw_S1u_teidP);
+		                return -1;
+		            }
+		    }
+
+		} else {
+		    hash_rc = hashtable_get(sgi_data_pP->teid_mapping, originating_sgw_S1u_teidP, (void**)&mapping_p);
+		}
+		break;
+
+	    default:
+		SGI_IF_WARNING("%s UNHANDLED IP VERSION: %X\n", __FUNCTION__, iph_p->version);
+		break;
+	}
+
+	memset(&device, 0, sizeof(device));
+	device.sll_family   = AF_PACKET;
+	device.sll_protocol = htons(ETH_P_ALL);
+	device.sll_ifindex = sgi_data_pP->if_index[mapping_p->eps_bearer_id - SGI_MIN_EPS_BEARER_ID];
 
 
+        if (sendto(sgi_data_pP->sd[mapping_p->eps_bearer_id - SGI_MIN_EPS_BEARER_ID],
+	    buffer_pP,
+	    length,
+	    0,
+	    (struct sockaddr *) &device,
+	    sizeof (device)) < 0) {
+	SGI_IF_ERROR("%d Error during send to socket %d bearer id %d : (%s:%d)\n",
+	        __LINE__,
+	        sgi_data_pP->sd[mapping_p->eps_bearer_id - SGI_MIN_EPS_BEARER_ID],
+	        mapping_p->eps_bearer_id,
+	        strerror(errno),
+	        errno);
+		return -1;
+        } 
+    }//NFVEPC Project Modifications
+    else //NFVEPC Project Modifications
+    {
+        int sockfd;
+        struct sockaddr_in servaddr;
+        char sendline[1000] = "The quick brown fox jumps over the lazy dog";
 
-    //*******************
-    case 6:
-        sgi_data_pP->eh.ether_type = htons(ETHERTYPE_IPV6);
-        if (obj_hashtable_get(sgi_data_pP->addr_v6_mapping, &src6_addr, sizeof(struct in6_addr), (void**)&addr_mapping_p) != HASH_TABLE_OK) {
-            hash_rc = hashtable_get(sgi_data_pP->teid_mapping, originating_sgw_S1u_teidP, (void**)&mapping_p);
-            if (hash_rc == HASH_TABLE_KEY_NOT_EXISTS) {
-                SGI_IF_ERROR("%s Error unknown context SGW teid %d\n", __FUNCTION__, originating_sgw_S1u_teidP);
-                return -1;
-            } else {
+        sockfd=socket(AF_INET,SOCK_DGRAM,0);
 
-                    if (mapping_p->is_outgoing_ipv6_packet_seen < MAX_DEFINED_IPV6_ADDRESSES_PER_UE) {
-                        mapping_p->hw_addrlen = 0;
+        bzero(&servaddr,sizeof(servaddr));
+        servaddr.sin_family = AF_INET;
+        servaddr.sin_addr.s_addr=inet_addr("130.245.144.183");
+        servaddr.sin_port=htons(8622);
 
-                        memcpy(&mapping_p->in6_addr_captured[mapping_p->is_outgoing_ipv6_packet_seen].s6_addr, src6_addr.s6_addr, 16);
-                        mapping_p->is_outgoing_ipv6_packet_seen +=1;
+        if(sendto(sockfd,sendline,strlen(sendline),0, (struct sockaddr *)&servaddr,sizeof(servaddr)) < 0)
+	       SGI_IF_DEBUG("Unable to send data traffic to the server \n");
 
-                        addr_mapping_p = calloc(1, sizeof(sgi_addr_mapping_t));
-                        addr_mapping_p->is_outgoing_packet_seen = 1;
-                        addr_mapping_p->enb_S1U_teid            = mapping_p->enb_S1U_teid;
-                        addr_mapping_p->sgw_S1U_teid            = originating_sgw_S1u_teidP;
-
-                        src6_addr_p = malloc(sizeof(struct in6_addr));
-                        if (src6_addr_p == NULL) {
-                            return -1;
-                        }
-                        memcpy(src6_addr_p->s6_addr, ip6h_p->saddr.s6_addr, 16);
-                        obj_hashtable_insert(sgi_data_pP->addr_v6_mapping, src6_addr_p,sizeof(struct in6_addr), (void*)addr_mapping_p);
-                    } else {
-                        SGI_IF_ERROR("Error TOO MANY IPv6 address already registered for teid %d\n", originating_sgw_S1u_teidP);
-                        return -1;
-                    }
-            }
-
-        } else {
-            hash_rc = hashtable_get(sgi_data_pP->teid_mapping, originating_sgw_S1u_teidP, (void**)&mapping_p);
-        }
-        break;
-
-    default:
-        SGI_IF_WARNING("%s UNHANDLED IP VERSION: %X\n", __FUNCTION__, iph_p->version);
-        break;
+	struct timeval tim; 
+	gettimeofday(&tim, NULL);
+	double t1=tim.tv_sec+(tim.tv_usec/1000000.0); 
+	SGI_IF_DEBUG("SEND %.6lf %s %d bytes\n", t1, "DATA_SENT_FROM_SGI", 43 );
+	   
     }
-
-    memset(&device, 0, sizeof(device));
-    device.sll_family   = AF_PACKET;
-    device.sll_protocol = htons(ETH_P_ALL);
-    //device.sll_ifindex = 0; //NFVEPC Project
-    device.sll_ifindex = sgi_data_pP->if_index[mapping_p->eps_bearer_id - SGI_MIN_EPS_BEARER_ID];
-
-
-    if (sendto(sgi_data_pP->sd[mapping_p->eps_bearer_id - SGI_MIN_EPS_BEARER_ID],
-    //if (sendto(2009,//NFVEPC Project 
-            buffer_pP,
-            length,
-            0,
-            (struct sockaddr *) &device,
-            sizeof (device)) < 0) {
-        SGI_IF_ERROR("%d Error during send to socket %d bearer id %d : (%s:%d)\n",
-                __LINE__,
-                sgi_data_pP->sd[mapping_p->eps_bearer_id - SGI_MIN_EPS_BEARER_ID],
-                mapping_p->eps_bearer_id,
-                strerror(errno),
-                errno);
-        return -1;
-    } 
-}//NFVEPC Project
-else //NFVEPC Project
-{
-   int sockfd;
-   struct sockaddr_in servaddr;
-   char sendline[1000] = "The quick brown fox jumps over the lazy dog";
-
-   //char *sendline = (char *)malloc(1000);
-   //sendline = (char *)buffer_pP;
-   sockfd=socket(AF_INET,SOCK_DGRAM,0);
-
-   bzero(&servaddr,sizeof(servaddr));
-   servaddr.sin_family = AF_INET;
-   servaddr.sin_addr.s_addr=inet_addr("130.245.144.183");
-   servaddr.sin_port=htons(8622);
-
-   if(sendto(sockfd,sendline,strlen(sendline),0, (struct sockaddr *)&servaddr,sizeof(servaddr)) < 0)
-       SGI_IF_DEBUG("Unable to send data traffic to the server \n");
-
-   struct timeval tim; 
-   gettimeofday(&tim, NULL);
-   double t1=tim.tv_sec+(tim.tv_usec/1000000.0); 
-    SGI_IF_DEBUG("SEND %.6lf %s %d bytes\n", t1, "DATA_SENT_FROM_SGI", 43 );
-   
-}
-//NFVEPC Project ends */
+    //NFVEPC Project modification ends */
     return 0;
 }
 

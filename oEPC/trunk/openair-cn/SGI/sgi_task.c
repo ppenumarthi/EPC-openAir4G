@@ -301,48 +301,32 @@ static int sgi_update_endpoint_request(sgi_data_t *sgi_dataP, SGIUpdateEndpointR
 }
 
 
-//Nfvepc's specific modification -- To be changed
+//NFVEPC's specific modifications -- To be Standardized
 //-----------------------------------------------------------------------------
 
 static void 
    send_sample_message()
 {
-    SGI_IF_DEBUG("In send_sample function\n");
-      //while(1) 
-      //{
     MessageDef *msg_p           = NULL;
 
     Gtpv1uCreateTunnelReq *create_tunnel_req_pP;
-//        gtpv1u_enb_create_tunnel_req_t *create_tunnel_req_pP;
-
-        //msg_p = itti_alloc_new_message(TASK_ENB_APP, GTPV1U_CREATE_TUNNEL_REQ);
-        // -- Latermsg_p = itti_alloc_new_message(15, GTPV1U_CREATE_TUNNEL_REQ); //TASK_ENB_APP = 15 from logs
     msg_p = itti_alloc_new_message(15, GTPV1U_CREATE_TUNNEL_RESP); //TASK_ENB_APP = 15 from logs
 
-        //msg_p->ittiMsgHeader.messageId = GTPV1U_CREATE_TUNNEL_REQ; //UDP_DATA_IND;
     msg_p->ittiMsgHeader.messageId = GTPV1U_CREATE_TUNNEL_RESP; //UDP_DATA_IND;
     msg_p->ittiMsgHeader.originTaskId = 15;
     msg_p->ittiMsgHeader.destinationTaskId = TASK_GTPV1_U;
     msg_p->ittiMsgHeader.ittiMsgSize= 42; 
 
-	//Sample values
-    //msg_p->ittiMsg.gtpv1uCreateTunnelReq.S1u_teid      = 1;
-    //msg_p->ittiMsg.gtpv1uCreateTunnelReq.context_teid  = 1;
-    //msg_p->ittiMsg.gtpv1uCreateTunnelReq.eps_bearer_id = 1; 
-
+    // NFVEPC Project: Sending sample values for now. TODO: Send correct values.
     msg_p->ittiMsg.gtpv1uCreateTunnelResp.S1u_teid      = 1;
     msg_p->ittiMsg.gtpv1uCreateTunnelResp.context_teid  = 1;
     msg_p->ittiMsg.gtpv1uCreateTunnelResp.eps_bearer_id = 1; 
 
     itti_send_msg_to_task(TASK_SPGW_APP, INSTANCE_DEFAULT, msg_p);
-    //itti_send_msg_to_task(TASK_GTPV1_U, INSTANCE_DEFAULT, msg_p);
-      //}
-
     return;
 }
 
-/* NFVEPC Project
- */
+
 static void 
 	read_from_socket_number(int clientNumber)
 {
@@ -353,23 +337,15 @@ static void
 
          while(1) {
          	n = read(newsockfd[clientNumber],buffer,4388);
-        	 if (n > 0) {
-                 //SGI_IF_DEBUG("here is the message: %s\n",buffer);
-                 //printf("the message is %s\n", buffer);
+                if (n < 0) {
+                        continue;
 	        }
 
 		MessageDef *msg_p           = (struct MessageDef *)buffer;
-		/*
-		 *  * Only for statistics 
-		 *   * NFVEPC Project
-		 *    */
 		struct timeval tim;
 		gettimeofday(&tim, NULL);
 		double t1=tim.tv_sec+(tim.tv_usec/1000000.0);              
 		SGI_IF_DEBUG( "RECD %.6lf GTPV1_U_DATA_IND %d at Server\n", t1, sizeof(*msg_p));
-		/*
-		 *  * Done with statistics
-		 *   */
 		MessageDef *message_p = itti_alloc_new_message(TASK_GTPV1_U, GTPV1U_TUNNEL_DATA_IND);
 	        if (message_p == NULL) {
 	             return -1; 
@@ -380,7 +356,6 @@ static void
 
 	        data_ind_p->length               = msg_p->ittiMsg.gtpv1uTunnelDataReq.length;
         	data_ind_p->buffer		 = msg_p->ittiMsg.gtpv1uTunnelDataReq.buffer;
-
 	        data_ind_p->offset               = 0;
 		data_ind_p->local_S1u_teid       = 1;
 
@@ -395,41 +370,20 @@ static void
 }
 
 
-/*
- * This will handle connection for each client
- * */
 void *connection_handler(void *socket_desc)
 {
-    //Get the socket descriptor
     int sock = *(int*)socket_desc;
     int read_size;
     char *message , client_message[2000];
      
-    /*Send some messages to the client
-    message = "Greetings! I am your connection handler\n";
-    write(sock , message , strlen(message));
-     
-    message = "Now type something and i shall repeat what you type \n";
-    write(sock , message , strlen(message)); */
-     
     //Receive a message from client
     while( (read_size = recv(sock , client_message , 2000 , 0)) > 0 )
     {
-        //Send the message back to client
-//        write(sock , client_message , strlen(client_message));
-
 	MessageDef *msg_p           = (struct MessageDef *)client_message;
-	/*
-	 *  * Only for statistics 
-	 *   * NFVEPC Project
-	 *    */
 	struct timeval tim;
 	gettimeofday(&tim, NULL);
 	double t1=tim.tv_sec+(tim.tv_usec/1000000.0);              
 	SGI_IF_DEBUG( "RECD %.6lf GTPV1_U_DATA_IND %d at Server from Socket %d\n", t1, sizeof(*msg_p), sock);
-	/*
-	 *  * Done with statistics
-	 *   */
 	MessageDef *message_p = itti_alloc_new_message(TASK_GTPV1_U, GTPV1U_TUNNEL_DATA_IND);
         if (message_p == NULL) {
              return -1; 
@@ -437,11 +391,8 @@ void *connection_handler(void *socket_desc)
 
 	Gtpv1uTunnelDataInd *data_ind_p = NULL; 
        	data_ind_p                       = &message_p->ittiMsg.gtpv1uTunnelDataInd;
-
         data_ind_p->length               = msg_p->ittiMsg.gtpv1uTunnelDataReq.length;
-       	//data_ind_p->buffer		 = msg_p->ittiMsg.gtpv1uTunnelDataReq.buffer;
-       	data_ind_p->buffer		 = 102456;
-
+       	data_ind_p->buffer		 = 102456; //Random value for now.
         data_ind_p->offset               = 0;
 	data_ind_p->local_S1u_teid       = 1;
 
@@ -457,9 +408,7 @@ void *connection_handler(void *socket_desc)
         SGI_IF_ERROR("recv failed \n");
     }
          
-    //Free the socket pointer
     free(socket_desc);
-     
     return 0;
 }
 
@@ -468,8 +417,7 @@ static void listen_on_server()
 
     int socket_desc , client_sock , c , *new_sock;
     struct sockaddr_in server , client;
-     
-    //Create socket
+
     socket_desc = socket(AF_INET , SOCK_STREAM , 0);
     if (socket_desc == -1)
     {
@@ -477,18 +425,15 @@ static void listen_on_server()
     }
     SGI_IF_ERROR("Server Socket created\n");
      
-    //Prepare the sockaddr_in structure
+    //Preparing the sockaddr_in structure
     server.sin_family = AF_INET;
     server.sin_addr.s_addr = INADDR_ANY;
     server.sin_port = htons( 8888 );
     
     //inet_pton(AF_INET, "130.245.144.31", &(server.sin_addr)); 
-    //inet_pton(AF_INET, "192.168.27.135", &(server.sin_addr)); 
     inet_pton(AF_INET, "10.1.1.51" , &(server.sin_addr)); 
-    //Bind
     if( bind(socket_desc,(struct sockaddr *)&server , sizeof(server)) < 0)
     {
-        //print the error message
         SGI_IF_ERROR("bind failed. Error\n");
         return 1;
     }
@@ -497,12 +442,9 @@ static void listen_on_server()
     //Listen
     listen(socket_desc , 3);
      
-    //Accept and incoming connection
     SGI_IF_ERROR("Waiting for incoming connections from BSs \n");
     c = sizeof(struct sockaddr_in);
      
-     
-    //Accept and incoming connection
     SGI_IF_ERROR("Waiting for incoming connections from BSs \n");
     c = sizeof(struct sockaddr_in);
     while( (client_sock = accept(socket_desc, (struct sockaddr *)&client, (socklen_t*)&c)) )
@@ -512,15 +454,12 @@ static void listen_on_server()
         pthread_t sniffer_thread;
         new_sock = malloc(1);
         *new_sock = client_sock;
-         
         if( pthread_create( &sniffer_thread , NULL ,  connection_handler , (void*) new_sock) < 0)
         {
             SGI_IF_ERROR("could not create thread\n");
             return 1;
         }
          
-        //Now join the thread , so that we dont terminate before the thread
-        //pthread_join( sniffer_thread , NULL);
         SGI_IF_ERROR("Handler assigned\n");
     }
      
@@ -533,51 +472,7 @@ static void listen_on_server()
     return 0;
 }
 
-static void listen_on_server1()
-{
-	int sockfd, portno;
-	struct sockaddr_in serv_addr;
-
-	sockfd = socket(AF_INET, SOCK_STREAM, 0); //TCP packets
-	//sockfd = socket(AF_INET, SOCK_DGRAM, 0); //UDP packets
-	bzero((char *) &serv_addr, sizeof(serv_addr));
-	
-	portno = 2152;
-	serv_addr.sin_family = AF_INET;
-	//inet_aton("192.168.1.2", &serv_addr.sin_addr);
-	inet_aton("130.245.144.31", &serv_addr.sin_addr);
-	serv_addr.sin_port = htons(portno);
-
-	/*int reuseaddr=1;
-	if (setsockopt(sockfd,SOL_SOCKET,SO_REUSEADDR,&reuseaddr,sizeof(reuseaddr))==-1) {
-	    SGI_IF_ERROR("ERROR on enabling REUSEADDR \n");
-	}*/
-
-	if (bind(sockfd, (struct sockaddr *) &serv_addr,sizeof(serv_addr)) < 0)
-		SGI_IF_ERROR("Error on binding  \n");
-
-	listen(sockfd,10);
-	clilen = sizeof(cli_addr);
-	while(1) {
-		// latest specific modification -- To be changed --- newsockfd = accept(sockfd, (struct sockaddr *) &cli_addr, &clilen);
-		newsockfd[clientNum] = accept(sockfd, (struct sockaddr *) &cli_addr, &clilen);
-		if (newsockfd[clientNum] < 0) {
-		// latest specific modification -- To be changed --if (newsockfd < 0) {
-			SGI_IF_ERROR("Error on accept  \n");
-		}
-		clientNum++;
-		//if( pthread_create( &read_task_thread[clientNum] , NULL , read_from_socket, (void*) clientNum) < 0)
-		if( pthread_create( &read_task_thread , NULL , read_from_socket, (void*) clientNum) < 0)
-        	{
-		SGI_IF_ERROR("Can not create a new thread for reading packets for the newly attached BS\n");
-		exit(0);
-        	}
-	}
-}
-//-----------------------------------------------------------------------------
-
-
-
+// NFVEPC specific modifications Ends-----------------------------------------------------------------------------
 
 
 //-----------------------------------------------------------------------------
