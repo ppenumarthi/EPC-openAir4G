@@ -92,7 +92,7 @@ void print_session_context(SgwCreateSessionRequest *session_request_p)
         MME_APP_DEBUG("%s session_request_p->serving_network.mnc \n",session_request_p->serving_network.mnc);
         MME_APP_DEBUG("%s session_request_p->serving_network.mcc \n",session_request_p->serving_network.mcc);
 }
-//NFVEPC Project ends
+//NFVEPC Project modification ends
 
 int
 mme_app_send_s11_create_session_req(
@@ -254,21 +254,13 @@ mme_app_send_s11_create_session_req(
   session_request_p->selection_mode = MS_O_N_P_APN_S_V;
   print_session_context(session_request_p);
 
-/*
- * Added for statistics 
- * NFVEPC Project */
-struct timeval tim;
-gettimeofday(&tim, NULL);
-double t1=tim.tv_sec+(tim.tv_usec/1000000.0);              
-
-  /*MME_APP_DEBUG ( "---------------------------------");
-  MME_APP_DEBUG ( "Current local time and date: %.6lf \n", t1 );
-  MME_APP_DEBUG("Sending SGW_CREATE_SESSION_REQUEST from MME\n");*/
+  /*Added for statistics NFVEPC Project */
+  struct timeval tim;
+  gettimeofday(&tim, NULL);
+  double t1=tim.tv_sec+(tim.tv_usec/1000000.0);              
   MME_APP_DEBUG("SEND %.6lf %s %d\n", t1, "SGW_CREATE_SESSION_REQUEST", sizeof(*message_p));
-//  MME_APP_DEBUG ( "---------------------------------");
-/*
- * Statistics finished
- * NFVEPC Project */
+  /*Statistics finished NFVEPC Project */
+  
   return itti_send_msg_to_task(to_task, INSTANCE_DEFAULT, message_p);
 }
 
@@ -425,19 +417,18 @@ sample_bypass_hss(
             /* TODO */
             DevMessage("mme_create_new_ue_context failed");
             return;
-        }
+    }
 
 	// S1AP UE ID AND NAS UE ID ARE THE SAME
-        ue_context_p->mme_ue_s1ap_id = conn_est_ind_pP->mme_ue_s1ap_id;
-        ue_context_p->ue_id          = conn_est_ind_pP->mme_ue_s1ap_id;
-	//DevAssert(mme_insert_ue_context(&mme_app_desc.mme_ue_contexts, ue_context_p) == 0);
-        MME_APP_DEBUG(" mme_ue_s1ap_id: %u and ue_id: %u\n",ue_context_p->mme_ue_s1ap_id, ue_context_p->mme_ue_s1ap_id);
+    ue_context_p->mme_ue_s1ap_id = conn_est_ind_pP->mme_ue_s1ap_id;
+    ue_context_p->ue_id          = conn_est_ind_pP->mme_ue_s1ap_id;
+    MME_APP_DEBUG(" mme_ue_s1ap_id: %u and ue_id: %u\n",ue_context_p->mme_ue_s1ap_id, ue_context_p->mme_ue_s1ap_id);
 
 	/*  Setting UE Context values -- Basically, set values received from AUTH_RESPONSE (HSS and UE) and UP_LOC_RES 
 	 *  Starts Here
 	 */
 	//From AUTH_REQ AND AUTH_RES
-        MME_APP_DEBUG(" Setting up UE COntext with random values so that Session can be created at MME and SGW correctly for the user\n");
+    MME_APP_DEBUG(" Setting up UE Context with random values so that Session can be created at MME and SGW correctly for the user\n");
 	plmn_t visited_plmn = { //MCC: 310 MNC: 028 -- Picked from ENB configuration
             .MCCdigit1 = 3,
             .MCCdigit2 = 1,
@@ -445,69 +436,50 @@ sample_bypass_hss(
             .MNCdigit1 = 0,
             .MNCdigit2 = 2,
             .MNCdigit3 = 8,
-        };
-        memcpy(&ue_context_p->guti.gummei.plmn, &visited_plmn, sizeof(plmn_t));	
-        ue_context_p->guti.gummei.MMEgid = 1;	
-        ue_context_p->guti.gummei.MMEcode= 1;	
+    };
+    memcpy(&ue_context_p->guti.gummei.plmn, &visited_plmn, sizeof(plmn_t));	
+    ue_context_p->guti.gummei.MMEgid = 1;	
+    ue_context_p->guti.gummei.MMEcode= 1;	
 
-        MME_APP_DEBUG(" Random Values for EUTRAN Vectors now\n");
-	//Random Values for EUTRAN Vectors now
+    MME_APP_DEBUG(" Random Values for EUTRAN Vectors now\n");
+   //Random Values for EUTRAN Vectors now
 	ue_context_p->nb_of_vectors = 1;
 
-	//eutran_vector_t *vec;
 	eutran_vector_t vec;
-	//vec = malloc(sizeof(eutran_vector_t));
 	uint8_t temp;
 	for (temp=0; temp< 16; temp++)	
-	  //vec->rand[temp] = temp;
 	  vec.rand[temp] = temp;
-	//vec->xres.size = 1;
 	vec.xres.size = 1;
 	for (temp=0; temp< 16; temp++)	
-	  //vec->xres.data[temp] = temp;
 	  vec.xres.data[temp] = temp;
 	for (temp=0; temp< 16; temp++)	
-	  //vec->autn[temp] = temp;
 	  vec.autn[temp] = temp;
 	for (temp=0; temp< 32; temp++)	
-	  //vec->kasme[temp] = temp;
 	  vec.kasme[temp] = temp;
 
-	//ue_context_p->vector_list = malloc(sizeof(eutran_vector_t));
-        //DevAssert(ue_context_p->vector_list != NULL);
-	//memcpy(&ue_context_p->vector_list[ue_context_p->nb_of_vectors],vec,sizeof(eutran_vector_t));
-	//memcpy(&ue_context_p->vector_list,&vec,sizeof(eutran_vector_t));
 	memcpy(&ue_context_p->vector_list,&vec,sizeof(eutran_vector_t));
-
-	//ue_context_p->vector_in_use = malloc(sizeof(eutran_vector_t));
-        //DevAssert(ue_context_p->vector_in_use != NULL);
-	//memcpy(&ue_context_p->vector_in_use[ue_context_p->nb_of_vectors],vec,sizeof(eutran_vector_t));
-	//memcpy(&ue_context_p->vector_in_use,&vec,sizeof(eutran_vector_t));
 	memcpy(&ue_context_p->vector_in_use,&vec,sizeof(eutran_vector_t));
 
-        MME_APP_DEBUG(" mmeidentity values\n");
+    MME_APP_DEBUG(" mmeidentity values\n");
 	me_identity_t          mme_identity;
-	//Union of below things. Currently we are giving isetting individual values randomly TODO: Check from UE data for correctness
-//	mme_identity.imeisv = 	
 	for (temp=0; temp< 16; temp++)	
 		mme_identity.id.imei[temp] = temp;
+		
 	mme_identity.id.sotfware_version[0]= 1;
 	mme_identity.id.sotfware_version[1]= 1;
-        memcpy(&ue_context_p->me_identity, &mme_identity, sizeof(me_identity_t));	
-
-        memcpy(&ue_context_p->e_utran_cgi.plmn, &visited_plmn, sizeof(plmn_t));	
+    memcpy(&ue_context_p->me_identity, &mme_identity, sizeof(me_identity_t));	
+    memcpy(&ue_context_p->e_utran_cgi.plmn, &visited_plmn, sizeof(plmn_t));	
 	ue_context_p->e_utran_cgi.cell_identity = ""; //TODO: Modify accroding to the datatype of cell identity
     /* Basic identifier for ue. IMSI is encoded on maximum of 15 digits of 4 bits,
      * so usage of an unsigned integer on 64 bits is necessary.
      */
-	//char imsi[16] = " ";//TODO: Modify correctly by looking at UE_DATA
-	char imsi[16] = {15, 3,1,0,0,2,8,9,0,8,3,2,1,5,0,0xF};
+	char imsi[16] = {15, 3,1,0,0,2,8,9,0,8,3,2,1,5,0,0xF}; //TODO: Modify correctly by looking at UE_DATA
 	ue_context_p->imsi  = imsi;
 	ue_context_p->imsi_auth = IMSI_AUTHENTICATED; //UE exists in the RB tree, due to CONN_EST_IND message from ENB [mme_app_authentication.c:255].
 
-        MME_APP_DEBUG(" MSISDN values\n");
+    MME_APP_DEBUG(" MSISDN values\n");
 	int msisdn_length = 8;
-	const char msisdn[32] = "90832150"; //TODO: Modify accordingly --basically any number (users phone number)
+	const char msisdn[32] = "90832150"; //TODO: Modify accordingly --basically any number (users phone number). Modify correctly by looking at UE_DATA
 	memcpy(ue_context_p->msisdn, msisdn, msisdn_length);
 	ue_context_p->msisdn_length = msisdn_length ;
 	ue_context_p->msisdn[ue_context_p->msisdn_length] = '\0';
@@ -516,36 +488,32 @@ sample_bypass_hss(
 	ue_context_p->sub_status = SS_SERVICE_GRANTED;
 	ue_context_p->access_restriction_data = 1;// An integer value, randomly given now.
 
-        MME_APP_DEBUG(" AMBR related values\n");
+    MME_APP_DEBUG(" AMBR related values\n");
 	ambr_t ambr; //FIXIT: Random values as of now.
-        ambr.br_ul = 10000;
-        ambr.br_dl = 10000;
+    ambr.br_ul = 10000;
+    ambr.br_dl = 10000;
 	memcpy(&ue_context_p->subscribed_ambr, &ambr, sizeof(ambr_t));
-        ambr.br_ul = 0;
-        ambr.br_dl = 0;
+    ambr.br_ul = 0;
+    ambr.br_dl = 0;
 	memcpy(&ue_context_p->used_ambr, &ambr, sizeof(ambr_t));
 
-        MME_APP_DEBUG(" EMM related values\n");
+    MME_APP_DEBUG(" EMM related values\n");
 	ue_context_p->access_restriction_data = ARD_MAX;//TODO: Check if this is a correct value
 	ue_context_p->rau_tau_timer = 100 ;//Uint32, sample value for now ula_pP->subscription_data.rau_tau_timer;
 	ue_context_p->access_mode = NAM_PACKET_AND_CIRCUIT;//other value: NAM_ONLY_PACKET
 
 	ue_context_p->mm_state = ECM_CONNECTED;
-
-//	ue_context_p->mme_s11_teid = ue_context_p->mme_s11_teid = 1;
 	ue_context_p->default_bearer_id = 1;//TODO:check whether this is required 
 	
 
-        MME_APP_DEBUG(" setup APN values\n");
+    MME_APP_DEBUG(" setup APN values\n");
 	//Set apn configuration correctly-- randomly setting them now	
 	apn_configuration_t apn_config;
 	apn_config.context_identifier = 1;
 	apn_config.nb_ip_address = 0;//Intentionally setting to 0, as we dont wish to assign IP address manually
 	apn_config.pdn_type = 0; //IPv4 addressing is to be used 
 	char service[20] = "GPRS"; //TODO: If a string constant exists, modify this
-	//apn_config[0].service_selection_length = sizeof(service);
 	apn_config.service_selection_length = 4;
-	  //memcpy(&apn_config[0].service_selection, &service, apn_config[0].service_selection_length);
 	int t;
 	for (t= 0; t<apn_config.service_selection_length; t++)
 	  memcpy(&apn_config.service_selection[t], &service[t], 1);
@@ -566,43 +534,9 @@ sample_bypass_hss(
 
 	print_ue_context(ue_context_p);	
 	DevAssert(mme_insert_ue_context(&mme_app_desc.mme_ue_contexts, ue_context_p) == 0);
-//        MME_APP_DEBUG("ue_context_p->apn_profile: %s\n",ue_context_p->apn_profile);
 
-	/*  Setting UE Context values -- Basically, set values received from AUTH_RESPONSE (HSS and UE) and UP_LOC_RES 
-	 *  Ends Here
-	 */
-
-	/* nfvepcs specific modification -- To be changed */
-	//context_identifier_t       context_identifier;
-        //MessageDef                 *message_p         = NULL;
-        //SgwCreateSessionRequest    *session_request_p = NULL;
-        //struct apn_configuration_s *default_apn_p     = NULL;
-
-	//message_p = itti_alloc_new_message(TASK_MME_APP, SGW_CREATE_SESSION_REQUEST);
-	//session_request_p = &message_p->ittiMsg.sgwCreateSessionRequest;
-  	//memset(session_request_p, 0, sizeof(SgwCreateSessionRequest));
-
-  	/* As the create session request is the first exchanged message and as
-   	* no tunnel had been previously setup, the distant teid is set to 0.
-   	* The remote teid will be provided in the response message.
-   	*/
-  	//session_request_p->teid = 0;
-
-	//itti_send_msg_to_task(TASK_SPGW_APP, INSTANCE_DEFAULT, message_p);
 	mme_app_send_s11_create_session_req(ue_context_p);
-	/*--------------*/
 
-	//Sample testing
-/*	ue_context_p = mme_ue_context_exists_mme_ue_s1ap_id(
-                    &mme_app_desc.mme_ue_contexts,
-                    conn_est_ind_pP->mme_ue_s1ap_id);
-        AssertFatal(ue_context_p != NULL, "mme_ue_context_exists_mme_ue_s1ap_id Failed");
-        ue_context_p = mme_ue_context_exists_nas_ue_id(
-                    &mme_app_desc.mme_ue_contexts,
-                    conn_est_ind_pP->mme_ue_s1ap_id);
-        AssertFatal(ue_context_p != NULL, "mme_ue_context_exists_nas_ue_id Failed");
-
-	MME_APP_DEBUG("Finished sample_bypass_hss function\n"); */
 	MME_APP_DEBUG("Finished sample_bypass_hss function\n"); 
 	return;
 }
@@ -744,8 +678,6 @@ mme_app_handle_create_sess_resp(
                 current_bearer_p->qci,
                 ue_context_p->default_bearer_id);
     } else {
-        // if null, it is not modified
-        //current_bearer_p->qci                    = ue_context_p->pending_pdn_connectivity_req_qos.qci;
 #warning "may force QCI here to 9"
         current_bearer_p->qci                    = 9;
         current_bearer_p->prio_level             = 1;
@@ -756,153 +688,6 @@ mme_app_handle_create_sess_resp(
                 current_bearer_p->qci,
                 ue_context_p->default_bearer_id);
     }
-
-    //mme_app_dump_ue_contexts(&mme_app_desc.mme_ue_contexts); //--Nfvepcs bad specific modification -- To be changed again
-
-
-//Nfvepcs bad specific modification -- To be changed again
-/*    {
-        //uint8_t *keNB = NULL;
-
-        message_p = itti_alloc_new_message(TASK_MME_APP, NAS_PDN_CONNECTIVITY_RSP);
-        memset((void*)&message_p->ittiMsg.nas_pdn_connectivity_rsp,
-                0,
-                sizeof(nas_pdn_connectivity_rsp_t));
-
-        // moved to NAS_CONNECTION_ESTABLISHMENT_CONF, keNB not handled in NAS MME
-        //derive_keNB(ue_context_p->vector_in_use->kasme, 156, &keNB);
-        //memcpy(NAS_PDN_CONNECTIVITY_RSP(message_p).keNB, keNB, 32);
-
-        //free(keNB);
-
-            DUP_OCTET_STRING(
-                    ue_context_p->apn,
-                    NAS_PDN_CONNECTIVITY_RSP(message_p).apn);
-
-
-        NAS_PDN_CONNECTIVITY_RSP(message_p).pti            = ue_context_p->pending_pdn_connectivity_req_pti;   // NAS internal ref
-        NAS_PDN_CONNECTIVITY_RSP(message_p).ue_id          = ue_context_p->pending_pdn_connectivity_req_ue_id; // NAS internal ref
-        // TO REWORK:
-        if ((ue_context_p->pending_pdn_connectivity_req_apn.value != NULL)
-            && (ue_context_p->pending_pdn_connectivity_req_apn.length != 0)) {
-            DUP_OCTET_STRING(
-                    ue_context_p->pending_pdn_connectivity_req_apn,
-                    NAS_PDN_CONNECTIVITY_RSP(message_p).apn);
-            MME_APP_DEBUG("SET APN FROM NAS PDN CONNECTIVITY CREATE: %s\n", NAS_PDN_CONNECTIVITY_RSP(message_p).apn.value);
-        } else {
-            int i;
-            context_identifier_t context_identifier = ue_context_p->apn_profile.context_identifier;
-            for (i = 0; i < ue_context_p->apn_profile.nb_apns; i++) {
-                if (ue_context_p->apn_profile.apn_configuration[i].context_identifier == context_identifier) {
-                    AssertFatal(ue_context_p->apn_profile.apn_configuration[i].service_selection_length > 0, "Bad APN string (len = 0)");
-                    if (ue_context_p->apn_profile.apn_configuration[i].service_selection_length > 0) {
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).apn.value  = malloc(ue_context_p->apn_profile.apn_configuration[i].service_selection_length + 1);
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).apn.length = ue_context_p->apn_profile.apn_configuration[i].service_selection_length;
-                        AssertFatal(ue_context_p->apn_profile.apn_configuration[i].service_selection_length <= APN_MAX_LENGTH,
-                                "Bad APN string length %d",
-                                ue_context_p->apn_profile.apn_configuration[i].service_selection_length);
-                        memcpy(NAS_PDN_CONNECTIVITY_RSP(message_p).apn.value,
-                                ue_context_p->apn_profile.apn_configuration[i].service_selection,
-                                ue_context_p->apn_profile.apn_configuration[i].service_selection_length);
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).apn.value[ue_context_p->apn_profile.apn_configuration[i].service_selection_length] = '\0';
-                        MME_APP_DEBUG("SET APN FROM HSS ULA: %s\n", NAS_PDN_CONNECTIVITY_RSP(message_p).apn.value);
-                        break;
-                    }
-                }
-            }
-        }
-        MME_APP_DEBUG("APN: %s\n", NAS_PDN_CONNECTIVITY_RSP(message_p).apn.value);
-
-        switch (create_sess_resp_pP->paa.pdn_type) {
-            case IPv4:
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length = 4;
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value  = malloc(NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length+1);
-                DevAssert(NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value != NULL);
-                memcpy(
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value,
-                        create_sess_resp_pP->paa.ipv4_address,
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length);
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value[NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length] = '0';
-                break;
-            case IPv6:
-                DevAssert(create_sess_resp_pP->paa.ipv6_prefix_length == 64); // NAS seems to only support 64 bits
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length = create_sess_resp_pP->paa.ipv6_prefix_length/8;
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value  = malloc(NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length+1);
-                DevAssert(NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value != NULL);
-                memcpy(
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value,
-                        create_sess_resp_pP->paa.ipv6_address,
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length);
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value[NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length] = '0';
-                break;
-            case IPv4_AND_v6:
-                DevAssert(create_sess_resp_pP->paa.ipv6_prefix_length == 64); // NAS seems to only support 64 bits
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length = 4 + create_sess_resp_pP->paa.ipv6_prefix_length/8;
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value  = malloc(NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length+1);
-                DevAssert(NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value != NULL);
-                memcpy(
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value,
-                        create_sess_resp_pP->paa.ipv4_address,
-                        4);
-                memcpy(
-                        &NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value[4],
-                        create_sess_resp_pP->paa.ipv6_address,
-                        create_sess_resp_pP->paa.ipv6_prefix_length/8);
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value[NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length] = '0';
-                break;
-            case IPv4_OR_v6:
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length = 4;
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value  = malloc(NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length+1);
-                DevAssert(NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value != NULL);
-                memcpy(
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value,
-                        create_sess_resp_pP->paa.ipv4_address,
-                        NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length);
-                NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.value[NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_addr.length] = '0';
-                break;
-            default:
-                DevAssert(0);
-        }
-
-        NAS_PDN_CONNECTIVITY_RSP(message_p).pdn_type       = create_sess_resp_pP->paa.pdn_type;
-        NAS_PDN_CONNECTIVITY_RSP(message_p).proc_data      = ue_context_p->pending_pdn_connectivity_req_proc_data;    // NAS internal ref
-        ue_context_p->pending_pdn_connectivity_req_proc_data = NULL;
-
-#warning "QOS hardcoded here"
-        //memcpy(&NAS_PDN_CONNECTIVITY_RSP(message_p).qos,
-        //        &ue_context_p->pending_pdn_connectivity_req_qos,
-        //        sizeof(network_qos_t));
-        NAS_PDN_CONNECTIVITY_RSP(message_p).qos.gbrUL    = 64;  /* 64=64kb/s   Guaranteed Bit Rate for uplink   */
-        //NAS_PDN_CONNECTIVITY_RSP(message_p).qos.gbrDL    = 120; /* 120=512kb/s Guaranteed Bit Rate for downlink */
-        //NAS_PDN_CONNECTIVITY_RSP(message_p).qos.mbrUL    = 72; /* 72=128kb/s   Maximum Bit Rate for uplink      */
-        //NAS_PDN_CONNECTIVITY_RSP(message_p).qos.mbrDL    = 135; /*135=1024kb/s Maximum Bit Rate for downlink    */
-        //NAS_PDN_CONNECTIVITY_RSP(message_p).qos.qci      = 9; /* QoS Class Identifier                           */
-
-       /* NAS_PDN_CONNECTIVITY_RSP(message_p).request_type   = ue_context_p->pending_pdn_connectivity_req_request_type; // NAS internal ref
-        ue_context_p->pending_pdn_connectivity_req_request_type = 0;
-
-        // here at this point OctetString are saved in resp, no loss of memory (apn, pdn_addr)
-
-        NAS_PDN_CONNECTIVITY_RSP(message_p).eNB_ue_s1ap_id = ue_context_p->eNB_ue_s1ap_id;
-        NAS_PDN_CONNECTIVITY_RSP(message_p).mme_ue_s1ap_id = ue_context_p->mme_ue_s1ap_id;
-
-        NAS_PDN_CONNECTIVITY_RSP(message_p).ebi = bearer_id;
-
-        NAS_PDN_CONNECTIVITY_RSP(message_p).qci = current_bearer_p->qci;
-        NAS_PDN_CONNECTIVITY_RSP(message_p).prio_level = current_bearer_p->prio_level;
-        NAS_PDN_CONNECTIVITY_RSP(message_p).pre_emp_vulnerability = current_bearer_p->pre_emp_vulnerability;
-        NAS_PDN_CONNECTIVITY_RSP(message_p).pre_emp_capability = current_bearer_p->pre_emp_capability;
-
-        NAS_PDN_CONNECTIVITY_RSP(message_p).sgw_s1u_teid = current_bearer_p->s_gw_teid;
-        memcpy(&NAS_PDN_CONNECTIVITY_RSP(message_p).sgw_s1u_address,
-               &current_bearer_p->s_gw_address, sizeof(ip_address_t));
-
-        NAS_PDN_CONNECTIVITY_RSP(message_p).ambr.br_ul = ue_context_p->subscribed_ambr.br_ul;
-        NAS_PDN_CONNECTIVITY_RSP(message_p).ambr.br_dl = ue_context_p->subscribed_ambr.br_dl;
-
-
-        return itti_send_msg_to_task(TASK_NAS_MME, INSTANCE_DEFAULT, message_p);
-    } */
     return 0;
 }
 
